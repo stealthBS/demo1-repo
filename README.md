@@ -23,4 +23,4 @@ e.g.
 
 or 
 
-![chess cat](demo1-repo/my chess cat.png)
+![chess cat](my chess cat.png)
