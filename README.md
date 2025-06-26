@@ -8,12 +8,13 @@ This repository is just for demo to know the functions and usages of GitHub only
 - [ ] Java DSA
 - [ ] Microservices
 - [ ] HTML, CSS, JS
-- [ ] ...any To-Do-List
+- [ ] ...any To-Do-List sequence/raod to do work or achieve something
 - [ ] own document assets
 - [ ] can use here Marmaid diagrams also. . .
 - [ ] it is also help to make portfolio. . .
 - [ ] can able to make notes by using diagrams also. . .
 - [ ] it's helpful for code documentation...
+- [ ] can learn languages notes. . .
 
 <br>
 ====
