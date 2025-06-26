@@ -3,14 +3,17 @@ This repository is just for demo to know the functions and usages of GitHub only
 
 ----
 
-**Can start making notes here :**  
+### <u>Can start making notes here :</u>  
+<u>GitHub's markdown doesn't support underlined text</u>
 - [ ] Java DSA
 - [ ] Microservices
 - [ ] HTML, CSS, JS
 - [ ] ...any To-Do-List
 - [ ] own document assets
 - [ ] can use here Marmaid diagrams also. . .
+- [ ] it is also help to make portfolio. . .
 - [ ] can able to make notes by using diagrams also. . .
+- [ ] it's helpful for code documentation...
 
 <br>
 ====
@@ -24,4 +27,14 @@ e.g.
 or 
 
 ![My Chess Cat](my%20chess%20cat.png "If in same repository")
+
+
+<br>
+
+
+```java
+A a1 = new A();
+```
+
+<br>
 
