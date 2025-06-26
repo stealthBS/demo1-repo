@@ -29,7 +29,7 @@ e.g.
 
 or 
 
-![My Chess Cat](my%20chess%20cat.png "If in same repository")
+![My Chess Cat](my%20chess%20cat.png "If in same repository")  
 
 
 <br>
