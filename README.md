@@ -11,3 +11,10 @@ This repository is just for demo to know the functions and usages of GitHub only
 - [ ] own document assets
 - [ ] can use here Marmaid diagrams also. . .
 - [ ] can able to make notes by using diagrams also. . .
+
+<br>
+====
+
+for example to add an image here is : 
+• first upload the image to this repository, 
+• then use its link here like : 
