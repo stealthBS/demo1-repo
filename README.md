@@ -33,6 +33,11 @@ or
 
 ![My Chess Cat](assets/my%20chess%20cat.png "If in same repository")  
 
+or
+
+<img src="assets/my%20chess%20cat.png" alt="My Chess Cat" width="500" title="can also resize image"/>
+
+
 
 <br>
 
@@ -52,19 +57,19 @@ so we can make or **`keep`** notes *`like`* this also.
 
 <br>
 
+Non-root user command :  
 ```command
-# Non-root user command 
-sudo apt-get update
-sudo apt-get install python3
-```
+$ sudo apt-get update
+$ sudo apt-get install python3
+```  
 
 <br>
 
+Root user command :  
 ```super_user
-# Root user command 
-adduser sammy
-shutdown
-```
+# adduser sammy
+# shutdown
+```  
 
 <br>
 
