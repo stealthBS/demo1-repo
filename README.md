@@ -26,11 +26,11 @@ for example to add an image here is :
 • first upload the image to this repository,  
 • then use its link here like :  
 e.g.  
-![My Chess cat](https://github.com/stealthBS/demo1-repo/blob/main/my%20chess%20cat.png)  
+![My Chess cat](https://github.com/stealthBS/demo1-repo/blob/main/assets/my%20chess%20cat.png)  
 
 or 
 
-![My Chess Cat](my%20chess%20cat.png "If in same repository")  
+![My Chess Cat](assets/my%20chess%20cat.png "If in same repository")  
 
 
 <br>
