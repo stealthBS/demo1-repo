@@ -15,6 +15,12 @@ This repository is just for demo to know the functions and usages of GitHub only
 <br>
 ====
 
-for example to add an image here is : 
-• first upload the image to this repository, 
-• then use its link here like : 
+for example to add an image here is :  
+• first upload the image to this repository,  
+• then use its link here like :  
+e.g.  
+![My Chess cat](https://github.com/stealthBS/demo1-repo/blob/main/my%20chess%20cat.png)  
+
+or 
+
+![chess cat](demo1-repo/my chess cat.png)
