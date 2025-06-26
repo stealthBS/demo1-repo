@@ -23,4 +23,5 @@ e.g.
 
 or 
 
-![chess cat](my chess cat.png)
+![My Chess Cat](my%20chess%20cat.png "If in same repository")
+
