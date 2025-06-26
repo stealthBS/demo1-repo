@@ -6,8 +6,10 @@ This repository is just for demo to know the functions and usages of GitHub only
 ### <u>Can start making notes here :</u>  
 <u>GitHub's markdown doesn't support underlined text</u>
 - [ ] Java DSA
-- [ ] Microservices
-- [ ] HTML, CSS, JS
+- [ ] Spring Boot :
+  - [ ] Microservices
+- [ ] HTML, CSS, JS :
+  - [ ] Angular
 - [ ] ...any To-Do-List sequence/raod to do work or achieve something
 - [ ] own document assets
 - [ ] can use here Marmaid diagrams also. . .
