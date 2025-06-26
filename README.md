@@ -36,7 +36,7 @@ or
 
 
 ```java
-A a1 = new A();
+A a1 = new A(); // can keep coding notes here
 ```
 
 <br>
