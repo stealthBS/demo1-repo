@@ -17,7 +17,7 @@ This repository is just for demo to know the functions and usages of GitHub only
 - [ ] can able to make notes by using diagrams also. . .
 - [ ] it's helpful for code documentation...
 - [ ] can learn languages notes. . .
-- [ ] 
+- [ ] can prepare here LinkedIn posts design/plan, then to post it later. . . .
 
 <br>
 ====
