@@ -18,6 +18,7 @@ This repository is just for demo to know the functions and usages of GitHub only
 - [ ] it's helpful for code documentation...
 - [ ] can learn languages notes. . .
 - [ ] can prepare here LinkedIn posts design/plan, then to post it later. . . .
+- [ ] can make AI notes updates, and can keep records of GPT tools to make in use it. . . .
 
 <br>
 ====
@@ -41,4 +42,31 @@ A a1 = new A(); // can keep coding notes here
 ```
 
 <br>
+
+can make tables :  
+| column 1 | column 2 |
+| --- | --- |
+| asdf | asdf `asdf` |
+
+so we can make or **`keep`** notes *`like`* this also.
+
+<br>
+
+```command
+# Non-root user command 
+sudo apt-get update
+sudo apt-get install python3
+```
+
+<br>
+
+```super_user
+# Root user command 
+adduser sammy
+shutdown
+```
+
+<br>
+
+
 
