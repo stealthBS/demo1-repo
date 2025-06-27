@@ -75,11 +75,18 @@ Root user command :
 ```super_user
 ~# adduser sammy
 ~# shutdown
-```  
----
----
+```
 
+
+
+---
+---
 <br>
+
+<h3 align="center">Can make here centerd aligned <q>Title</q></h3>  
+
+> Note : Here in this GitHub markdown, it isn't support to underlining of text, but in other markdown platform it works with <u></u>.  
+
 
 Let's see how to make take programming notes with step-by-step :  
 
