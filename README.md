@@ -21,6 +21,12 @@ This repository is just for demo to know the functions and usages of GitHub only
 - [ ] can make AI notes updates, and can keep records of GPT tools to make in use it. . . .
 
 <br>
+
+To maintain super-set and sub-set, we can write like this : 
+- asdfaf
+  - asdfasf
+    - asdfasdf
+      - asdf
 ====
 
 for example to add an image here is :  
@@ -59,16 +65,16 @@ so we can make or **`keep`** notes *`like`* this also.
 
 Non-root user command :  
 ```command
-$ sudo apt-get update
-$ sudo apt-get install python3
+~$ sudo apt-get update
+~$ sudo apt-get install python3
 ```  
 
 <br>
 
 Root user command :  
 ```super_user
-# adduser sammy
-# shutdown
+~# adduser sammy
+~# shutdown
 ```  
 
 <br>
