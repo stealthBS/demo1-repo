@@ -76,8 +76,24 @@ Root user command :
 ~# adduser sammy
 ~# shutdown
 ```  
+---
+---
 
 <br>
 
+Let's see how to make take programming notes with step-by-step :  
+
+##### Step 1
+And here we can start writing about this step : 
+```java
+// Can include programs and code here.
+```
+
+
+> ##### Note :  
+> can make here notes, or write some main points. . .
+
+
+- - - - - - -
 
 
