@@ -15,7 +15,7 @@ And the difference between 'website' and 'web app' is that : a 'website' can't m
 
 - JavaScript code used to add restrictions & validations (for user data inputs) limiations in GUI page. For example like : "Amount entered in the input-box (field) shouldn't be greater than 200", and if we enter the amount greater than 200 then the browser won't accept the value or amount. 
 
-- HTML codes have pre-defined HTML tags, so we need to remember these tags names and then we can able to use accordingly to our needs.
+- HTML codes have pre-defined HTML tags, so we need to remember these tags names and then we can able to use accordingly to our needs. Basically we have to understand this, and after that we can simply do cut-copy-paste editing work.  
 
 The following is the basic structure/hierarchy/architecture/template of a HTML page :
 ```html
@@ -40,6 +40,10 @@ Now let's see some examples :
 
 ```
 
+Result or the output of the above HTML code looks like :
+![web browser output]( "")
+
+
 - `<h1></h1>` tag is used for page header, and similarly there are upto `<h6></h6>` tags.
 - There are 3 popular ways/techniques/methods to use CSS code out of many others, i.e. :
     - [x] 'Inline CSS' code with HTML code (uses `style=""` attribute),
@@ -48,13 +52,7 @@ Now let's see some examples :
 
 - So, here we use the 'Inline CSS' method, in which `style=""` attribute integrate CSS style in a basic way. 
 
-
-. . .. . . .. 39:0000000  file:///D:/-%20Progress%20Courses/1_PANKAJ%20SIR%20ACADEMY/_Projects%20and%20live%20notes/_Main%20NOTES/_on%20going/HTML%20CSS%20JS%20(PSA)/Htlm%20Css%20Js%20notes.html
-
-
-
-
-
+- In HTML code we do commenting like `<!-- comment -->`, and this same comment syntax we used to comment in XML file as well as HTML file also. Commenting in any code helps to classify the codes easily, so that if other programmers looks our code it gives them readability. 
 
 
 
