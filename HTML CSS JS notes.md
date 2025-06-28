@@ -193,19 +193,19 @@ Lecture2 :
 
 
 comment below their last online : 
-• Czechoslovakia
-• USSR
-• Prussia
-• Russian Empire
-• British India
-• Japanese Empire
-• Austro-Hungarian Empire
-• Ottoman Empire
-• Yugoslavia
-• German Empire
-• Roman Empire
-• Korean Empire
-• Mongol Empire
+• Czechoslovakia  
+• USSR  
+• Prussia  
+• Russian Empire  
+• British India  
+• Japanese Empire  
+• Austro-Hungarian Empire  
+• Ottoman Empire  
+• Yugoslavia  
+• German Empire  
+• Roman Empire  
+• Korean Empire  
+• Mongol Empire  
 
 
 
