@@ -1,6 +1,6 @@
 Lecture1 :
 
-<h2 align="center">HTML</h2>
+<h2 align="center">HTML & Inline CSS</h2>
 
 
 In this section we will going to build 'Web app' instead of 'Website', and for this we use frontend technologies like HTML, CSS and JavaScript.  
