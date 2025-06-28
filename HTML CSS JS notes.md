@@ -31,9 +31,12 @@ The following is the basic structure/hierarchy/architecture/template of a HTML p
 </html>
 ```
 
+
 <br>
----  
+---
 <br>
+
+
 
 Now let's see some examples : 
 ```html
@@ -54,7 +57,11 @@ Result or the output of the above HTML code looks like :
 
 - In HTML code we do commenting like `<!-- comment -->`, and this same comment syntax we used to comment in XML file as well as HTML file also. Commenting in any code helps to classify the codes easily, so that if other programmers looks our code it gives them readability. And brower engine neglects to execute Comment, it just used for educating other people.
 
-- So, here don't need to confuse between html's 'tags' and html's 'attributes'. For example : `<u></u>` or `<b></b>` are html tags, and `style=""` is a html's CSS attribute for styling purpose. 
+- So, here we don't need to confuse between html's 'tags' and html's 'attributes'. For example : `<u></u>` or `<b></b>` are html's 'underline' & 'bold' tags, and `style=""` and `href=""` are html's CSS & hyperlink attribute. And similarly there are lots of tags and attributes.
+
+- Here, 'attributes' are the properties/features of 'tags', and 'tags' are the format of the html text.
+
+- For paragraph writing we use `<p></p>` tag. But sometime we want all the paragraphs to be present in one place or to be in one section/group then for this we use `<div></div>` tag and inside it we can put some paragraphs which will be in the same group. So, `<div></div>` tag use for grouping of tags, like Group1 division or Group2 division. 
 
 
 
