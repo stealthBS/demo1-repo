@@ -157,7 +157,7 @@ Now let's see some examples :
 ```
 
 Result or the output of the above HTML code looks like :
-![web browser output]( "")
+![html1](html-assets/html1.jpg "output")
 
 
 - `<h1></h1>` tag is used for page header, and similarly there are upto `<h6></h6>` tags.
