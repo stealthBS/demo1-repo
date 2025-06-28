@@ -163,10 +163,10 @@ Result or the output of the above HTML code looks like :
 - `<h1></h1>` tag is used for page header, and similarly there are upto `<h6></h6>` tags.
 - There are 3 popular ways/techniques/methods to use CSS code out of many others, i.e. :
     - [x] 'Inline CSS' code with HTML code (uses `style=""` attribute),
-    - [ ] 'Internal (Embedded) CSS' code with HTML code (uses `<style></style>` tag), and
-    - [ ] 'External CSS' code in seperate .css file.  
+    - [x] 'Internal (Embedded) CSS' code with HTML code (uses `<style></style>` tag), and
+    - [x] 'External CSS' code in seperate .css file.  
 
-- So, here we use the 'Inline CSS' method, in which `style=""` attribute integrate CSS style in a basic way. 
+- So, now we start with using the 'Inline CSS' method, in which `style=""` attribute integrate CSS style in a basic way. But later we will also explore the other 2 techniques to use CSS code also. 
 
 - In HTML code we do commenting like `<!-- comment -->`, and this same comment syntax we used to comment in XML file as well as HTML file also. Commenting in any code helps to classify the codes easily, so that if other programmers looks our code it gives them readability. And brower engine neglects to execute Comment, it just used for educating other people.
 
