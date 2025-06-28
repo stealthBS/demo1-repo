@@ -52,7 +52,7 @@ Result or the output of the above HTML code looks like :
 
 - So, here we use the 'Inline CSS' method, in which `style=""` attribute integrate CSS style in a basic way. 
 
-- In HTML code we do commenting like `<!-- comment -->`, and this same comment syntax we used to comment in XML file as well as HTML file also. Commenting in any code helps to classify the codes easily, so that if other programmers looks our code it gives them readability. 
+- In HTML code we do commenting like `<!-- comment -->`, and this same comment syntax we used to comment in XML file as well as HTML file also. Commenting in any code helps to classify the codes easily, so that if other programmers looks our code it gives them readability. And brower engine neglects to execute Comment, it just used for educating other people. 
 
 
 
