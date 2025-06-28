@@ -49,7 +49,7 @@ Now let's see some examples :
 - So, here we use the 'Inline CSS' method, in which `style=""` attribute integrate CSS style in a basic way. 
 
 
-. . .. . . .. 39:0000000
+. . .. . . .. 39:0000000  file:///D:/-%20Progress%20Courses/1_PANKAJ%20SIR%20ACADEMY/_Projects%20and%20live%20notes/_Main%20NOTES/_on%20going/HTML%20CSS%20JS%20(PSA)/Htlm%20Css%20Js%20notes.html
 
 
 
