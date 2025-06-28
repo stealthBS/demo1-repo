@@ -42,7 +42,118 @@ The following is the basic structure/hierarchy/architecture/template of a HTML p
 
 Now let's see some examples : 
 ```html
+<!DOCTYPE html>
+<html>
+<head>
+     <!-- tab's tittle -->
+    <title>Welcome</title>
+</head>
+<body>
+    <!-- Page Headers/Title -->
+    <h1>Title</h2>
+    <h2>Title</h2>
+    <h3>Title</h3>
+    <h4>Title</h4>
+    <h5>Title</h5>
+    <h6>Title</h6>
 
+
+    <hr> <!-- a ruler to segregate web page sections -->
+
+
+    <!-- Page headers with color -->
+    <h3 style="color: red;">Title</h3>
+
+    <!-- Page header with font family or font type -->
+    <h3 style="font-family: Courier New;">Title</h3>
+
+    <!-- Page header with font size -->
+    <h3 style="font-size: 50px;">Title</h3>
+
+    <!-- Page header with font alignment or text alignment -->
+    <h3 style="text-align: center;">Title</h3>
+    <h3 style="text-align: right;">Title</h3>
+
+
+    <hr>
+
+
+    <!-- writing simple text --><!-- But for best practice use <p></p> tag -->
+    Hello! this is the title. . . .
+    <br> <!-- to segregate text in new line -->
+
+    <!-- Text with bold format -->
+    <b>Hello! this is the title. . . .</b>
+    <br>
+
+    <!-- Text formats with : bold & color -->
+    <b style="color: red;">Hello! this is the title. . . .</b>
+    <br>
+    
+    <!-- Text formats with : bold & italics -->
+    <b><i>Hello! this is the title. . . .</i></b>
+    <br>
+
+    <!-- Text format with quotation mark -->
+    <b>Hello! this is the <q>title</q>. . . .</b>
+    <br>
+
+    <!-- Text format with highlight marking text -->
+    <b>Hello! this is the <mark>title</mark>. . . .</b>
+    <br>
+
+    <!-- Text with strike off : used to show sometime discount itmes -->
+    <b>Hello! this is the <del>title</del>. . . . .</b>
+
+
+    <hr>
+
+
+    <!-- Hyperlink text -->
+    <a href="https://www.google.com/">Click to Google search</a>
+    <br>
+
+    <!-- Hyperlink text with color -->
+    <a href="https://www.google.com/" style="color: green;">Click to Google search</a>
+    <br>
+
+
+    <hr>
+
+
+    <!-- paragraph writing --><!-- best practice -->
+    <p>Hello and <q><i>Welcome</i></q> to the world of <b>HTML programming</b>.</p>
+
+    <!-- Grouping of tags -->
+    <div style="background-color: coral;">
+        <!-- here paragraph1 and paraagraph2 are under one division/group/section -->
+        <p>Hello and Welcome to the world of HTML programming.</p>
+        <p><b>Hello and Welcome to the world of HTML programming.</b></p>
+    </div>
+
+
+    <hr>
+
+
+    <!-- Table making -->
+    <table border="2" align="center">
+        <tr><!-- table-row -->
+            <th>Name</th><!-- table-header-->
+            <th><u>Location</u></th>
+        </tr>
+
+        <tr>
+            <td>Smith</td><!-- table-data -->
+            <td>Bengaluru</td>
+        </tr>
+        <tr>
+            <td>Carl</td>
+            <td>Pune</td>
+        </tr>
+    </table>
+
+</body>
+</html>
 ```
 
 Result or the output of the above HTML code looks like :
