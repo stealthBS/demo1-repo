@@ -61,7 +61,12 @@ Result or the output of the above HTML code looks like :
 
 - Here, 'attributes' are the properties/features of 'tags', and 'tags' are the format of the html text.
 
-- For paragraph writing we use `<p></p>` tag. But sometime we want all the paragraphs to be present in one place or to be in one section/group then for this we use `<div></div>` tag and inside it we can put some paragraphs which will be in the same group. So, `<div></div>` tag use for grouping of tags, like Group1 division or Group2 division. 
+- For paragraph writing we use `<p></p>` tag instead of directly writing without any tag.
 
+- Sometime we want all the paragraphs to be present in one place or to be in one section/group, then for this we use `<div></div>` tag and inside it we can put some paragraphs which will be in the same group. So, `<div></div>` tag use for grouping of tags, like Group1 division or Group2 division etc. So, that if we put any style to this group then we can see effects in its each element, and we doesn't need to apply style effect individually to each element or paragraph here.
+
+- So, we can say that `<div></div>` tag helps us to group all fields in one block, and that if we make any changes to root-tag (i.e. `<div></div>` tag) then rest of the tags will effect accordingly e.g. as we set background color in the above code.
+
+- If we want to make Table or add Table, then we have to know that a Table consist of : head/table-header, rows, columns and data. And to make Table we use `<table></table>` tag as parent-tag, and inside this tag we include : `<th></th>` table-header, `<tr></tr>` table-row, `<td></td>` table-data accordingly. 
 
 
