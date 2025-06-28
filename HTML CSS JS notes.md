@@ -69,6 +69,19 @@ Result or the output of the above HTML code looks like :
 
 - So, we can say that `<div></div>` tag helps us to group all fields in one block, and that if we make any changes to root-tag (i.e. `<div></div>` tag) then rest of the tags will effect accordingly e.g. as we set background color in the above code.
 
-- If we want to make Table or add Table, then we have to know that a Table consist of : head/table-header, rows, columns and data. And to make Table we use `<table></table>` tag as parent-tag, and inside this tag we include : `<th></th>` table-header, `<tr></tr>` table-row, `<td></td>` table-data accordingly. And the sequence to use these tags we can see in the above code. 
+- If we want to make Table or add Table, then we have to know that a Table consist of : head/table-header, rows, columns and data. And to make Table we use `<table></table>` tag as parent-tag, and inside this tag we include : `<th></th>` table-header, `<tr></tr>` table-row, `<td></td>` table-data accordingly. And the sequence to use these tags we can see in the above code.
+
+
+
+
+---
+---
+Lecture2 :
+
+
+
+
+
+
 
 
