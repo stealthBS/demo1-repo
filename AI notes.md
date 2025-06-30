@@ -1,4 +1,9 @@
-> Paid : 30/June/2025.  
+> Paid : 30/June/2025.
+> BATTERY : 🟢⚪⚪⚪⚪⚪⚪⚪⚪⚪
+>           ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
+>           ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
+>           ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
+>           ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
 > Udemy - The Complete AI Guide: Learn ChatGPT, Generative AI & More by Julian Melanson & Benza Maman.
 
 <h3 align="center">Quick Takeaways of AI tools</h3>
