@@ -15,6 +15,9 @@ It contains a quick note of important AI tools and with their purpose & use, so 
 . . . .noteGPT or YoutubeGPT extension
 URL will be hyperlinked. . .
 
+
+<br>
+
 BATTERY : ✅ charged  
 😄😄😄😄😄😄😄😄😄😄  
 😄😄😄😄😄😄😄😄😄😄  
