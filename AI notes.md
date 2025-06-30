@@ -5,7 +5,7 @@
 
 It contains a quick note of important AI tools and with their purpose & use, so whenever we need help of any AI tool for our related works then we can easily implement from here (as it's a summarized to AI tools) without spending time in searching AI tools in online anymore.
 
-#### Lession 1 :
+#### 🔰Lesson 1 :
 
 
 
