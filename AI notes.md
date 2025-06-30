@@ -14,3 +14,10 @@ It contains a quick note of important AI tools and with their purpose & use, so 
 <br>
 . . . .noteGPT or YoutubeGPT extension
 URL will be hyperlinked. . .
+
+
+😄😄😄😄😄😄😄😄😄😄
+😄😄😄😄😄😄😄😄😄😄
+😄😄😄😄😄😄😄😄😄😄
+😄😄😄😄😄😄😄😄😄😄
+😄😄😄😄😄😄😄😄😄😄
