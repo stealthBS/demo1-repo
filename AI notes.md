@@ -26,9 +26,3 @@ URL will be hyperlinked. . .
 
 
 
-BATTERY : ✅ charged  
-😄😄😄😄😄😄😄😄😄😄  
-😄😄😄😄😄😄😄😄😄😄  
-😄😄😄😄😄😄😄😄😄😄  
-😄😄😄😄😄😄😄😄😄😄  
-😄😄😄😄😄😄😄😄😄😄
