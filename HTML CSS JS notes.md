@@ -1,3 +1,5 @@
+> BATTERY : 🟢⚪⚪⚪⚪⚪⚪⚪  
+
 Lecture1 :
 
 <h2 align="center">HTML & Inline CSS</h2>
@@ -200,8 +202,7 @@ Lecture2 :
 
 ---  
 
-BATTERY : 🟢 charged  
-🟢⚪⚪⚪⚪⚪⚪⚪
+
 
 
 
