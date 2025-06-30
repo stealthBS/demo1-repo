@@ -5,7 +5,7 @@
 > ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  
 > ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  
 > ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  
-> Udemy - The Complete AI Guide: Learn ChatGPT, Generative AI & More by Julian Melanson & Benza Maman.
+> Udemy - The Complete AI Guide: Learn ChatGPT, Generative AI & More by Julian Melanson & Benza Maman.  
 
 <h3 align="center">Quick Takeaways of AI tools</h3>
 
