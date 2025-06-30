@@ -200,7 +200,7 @@ Lecture2 :
 
 ---  
 
-BATTERY : 🟢 charged
+BATTERY : 🟢 charged  
 🟢⚪⚪⚪⚪⚪⚪⚪⚪⚪
 
 
