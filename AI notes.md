@@ -5,8 +5,12 @@
 
 It contains a quick note of important AI tools and with their purpose & use, so whenever we need help of any AI tool for our related works then we can easily implement from here without spending time in searching tools in online.
 
+#### Lession 1 :
 
 
 
+
+
+<br>
 . . . .noteGPT or YoutubeGPT extension
 URL will be hyperlinked. . .
