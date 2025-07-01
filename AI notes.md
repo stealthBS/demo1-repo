@@ -134,7 +134,7 @@ In CustomizedGPT we first need to fill/provide the following settings/details :
 
 ......is there any way to speedily complete this course : YES  
 • Option 1 : very fast
-  can watch a section of videos : so that understanding will happens. And after that we can easily able to make notes with again watching the same video : from these idea will come i.e. what to make note.  
+  can watch a section of videos : so that understanding will happens. Then download materials. And after that we can easily able to make notes with again watching the same video : from these idea will come i.e. what to make note.   
 • Option 2 : very slow, can't utilized the technology
   Try to learn only one section of video per day. . . .
 
