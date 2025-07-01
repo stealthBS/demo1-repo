@@ -16,7 +16,8 @@ It contains a quick note of important AI tools and with their purpose & use, so 
 
 
 
-#### 🔰Lesson 1 :
+#### 🔰Lesson 1 :  
+
 - Youtube video summarization : [YouTube Summary with ChatGPT](https://chromewebstore.google.com/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) chrome extension or [NoteGPT](https://notegpt.io/) site.  
 - Generate video from text/prompt & also add motion to any static image using : [Runwayml](https://runwayml.com/).  
 - Generate App & website by using prompt (without any coding knowledge) : [Lovable](https://lovable.dev/).  
@@ -31,6 +32,8 @@ thought of. All of the information you provide should be in tabular format.`* **
 
 
 
+
+#### 🔰Lesson 2 :  
 
 
 
