@@ -63,7 +63,7 @@ thought of. All of the information you provide should be in tabular format.`* **
 Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid or in free version) : (all the following have their shortcut keys)  
   - Can create a 'New chat'.  
   - Can do 'Search chat' or search any old chat conversation quickly.  
-  - Can access [ChatGPT Image Library](https://chatgpt.com/library) to generate any image.
+  - Can access [ChatGPT Image Library](https://chatgpt.com/library) to generate any image. And it also keep tracks/records of our all generated images, so if required any past generated images then we can access from here anytime.  
   - Can access 'Projects' tab : it is the feature where we can upload multiple files and then do queries on it. It is mostly used for multiple-tasking purpose only. But this feature is for only Paid users.  
   - Can use 'Temporary Chat' feature which won't appear in history tab and it won't keep in record/track.  
   - Can 'Share chat link' or can share our ChatGPT conversation through link --> so that other people can also able to access it.  
@@ -136,7 +136,7 @@ In CustomizedGPT we first need to fill/provide the following settings/details :
 
 ......is there any way to speedily complete this course : YES  
 • Option 1 : very fast
-  can watch a section of videos : so that understanding will happens. Then download materials. And after that we can easily able to make notes with again watching the same video : from these idea will come i.e. what to make note.   (OR)   Watch the full video first then star making its notes.  
+  can watch a section of videos : so that understanding will happens. Then download materials. And after that we can easily able to make notes with again watching the same video : from these idea will come i.e. what to make note.   (OR)   Watch the full video first then star making its notes. It will be a good choice if we watch video from Mobile phone, and take notes in PC.  
 • Option 2 : very slow, can't utilized the technology
   Try to learn only one section of video per day. . . .
 
