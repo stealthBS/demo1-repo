@@ -100,9 +100,16 @@ In upcoming lessons we will learn how to use the above features.
 
 
 
-#### 🔰Lesson 4 : 
-There is the a huge different between the reply given by the normal 'ChatGPT' and the 'Customized ChatGPT' which will be more specific to use, because in 'Customized ChatGPT' we are pre-defining ourself first before starting with prompting, so in this case AI will able to know more about us and then give response accordingly to us.  
+#### 🔰Lesson 4 : Get precision reply with CustomizedGPT  
+There is the a huge different between the reply given by the normal 'ChatGPT' and the 'Customized ChatGPT' (CustomizedGPT) which will be more specific to use, because in 'Customized ChatGPT' we are pre-defining ourself first before starting with prompting, so in this case AI will able to know more about us and then give response accordingly to us. (present in Setting's options to enable it || Not Paid feature)  
 
+Through this feature we don't need to explain ourself a no. of times to GPT, it more like "everything set, just prompting, get reply, start implementing".  
+
+In CustomizedGPT we first need to fill/provide the following details :  
+- [ ] What should ChatGPT call you? (means just to provide our name)  
+- [ ] What do you do? (means to provide our occupation)
+- [ ] What traits should ChatGPT have? (means need to define the level of the reply (ease/professional/lamen's term) or what quality should the GPT reply to us)
+- [ ] 
 
 
 
