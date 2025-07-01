@@ -71,7 +71,9 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
     - Toggle 'Canvas' i.e. '✏️Write or Code' feature.
     - Toggle '🔭Deep Research' feature.
     - Toggle 'Think for longer' i.e. '💡Reason' feature.
-    - 
+
+> Pro Tip :
+> We can use Emoji for naming the 'Chat Title' e.g. '👨‍💻Coding', '🎼Music research🎶', '🎹Piano learning', so that it will be more visually scannable and presentable.  
 
 
 
