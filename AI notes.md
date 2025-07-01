@@ -50,7 +50,7 @@ thought of. All of the information you provide should be in tabular format.`* **
 
 
 
-#### 🔰Lesson 3 :  
+#### 🔰Lesson 3 : ChatGPT Interface  
 Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid or in free version) : 
   - Can create a 'New chat'.  
   - Can do 'Search chat' or search any old chat conversation quickly.  
