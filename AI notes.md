@@ -20,7 +20,7 @@ It contains a quick note of important AI tools and with their purpose & use, so 
 
 #### 🔰Lesson 1 :  
 
-Use AI tools to increase productivity, learn more skills with : less effort - time - ease, make AI to use your work smartly & smoothly just by using proper prompt.  
+Use AI tools to increase productivity, learn more skills with : less effort - less time - ease, make AI as your assistant/copilot and make AI to use your work smartly & smoothly just by giving it accurate/proper prompt.  
 
 ---
 
