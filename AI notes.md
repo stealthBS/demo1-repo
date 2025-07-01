@@ -54,7 +54,8 @@ thought of. All of the information you provide should be in tabular format.`* **
 Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid or in free version) : 
   - Can create a 'New chat'.  
   - Can do 'Search chat' or search any old chat conversation quickly.  
-  - Can access [ChatGPT Image Library](https://chatgpt.com/library) to generate any image.  
+  - Can access [ChatGPT Image Library](https://chatgpt.com/library) to generate any image.
+  - Can access 'Projects' : it is feature where we can upload multiple files and then do queries on it.  
   - Can 'Share chat link' or can share our ChatGPT conversation through link --> so that other people can also able to access it.  
   - Can 'Archive chat' or can hide any chat from the main active conversation list or 'Chats' list.
   - Can create our own 'Customize ChatGPT'.
