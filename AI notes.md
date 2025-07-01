@@ -81,7 +81,14 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
 In upcoming lessons we will learn how to use the above features.  
 
 🔸 Also, ChatGPT have the feature to updated/improved/refine our reponse if we don't like the present reply by ChatGPT.  
-🔸 
+---
+
+
+
+
+
+#### 🔰Lesson 4 : 
+
 
 
 
