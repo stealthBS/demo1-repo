@@ -58,7 +58,7 @@ Features avilable in [ChatGPT](https://chatgpt.com/) tool (without paid or in fr
   - Can 'Share chat link' or can share our ChatGPT conversation through link --> so that other people can also able to access it.  
   - Can 'Archive chat' or can hide any chat from the main active conversation list or 'Chats' list.
   - Can create our own 'Customize ChatGPT'.
-  - Can access different ready-made [GPTs](https://chatgpt.com/gpts) by which built by other peoples or organizations.  
+  - Can access many ready-made [GPTs](https://chatgpt.com/gpts) inside ChatGPT which are built by other peoples or organizations.  
   - Can acces [Sora](https://sora.chatgpt.com/) tool by ChatGPT (Plus/Pro only) to generate images & short videos through prompt/text.  
   - 
 
