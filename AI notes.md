@@ -83,7 +83,7 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
     - Toggle 'Think for longer' i.e. '💡Reason' feature.  
 
 > Pro Tip :
-> We can use Emoji for naming the 'Chat Title' e.g. '👨‍💻Coding', '🎼Music research🎶', '🎹Piano learning', so that it will be more visually scannable and presentable.
+> We can use Emoji for naming the 'Chat Title' e.g. '👨‍💻Coding', '🎼Music research🎶', '🎹Piano learning', so that it will be more visually scannable and presentable.  
 
 In upcoming lessons we will learn how to use the above features.  
 
