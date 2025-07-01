@@ -52,9 +52,9 @@ thought of. All of the information you provide should be in tabular format.`* **
 
 #### 🔰Lesson 3 :  
 Features avilable in [ChatGPT](https://chatgpt.com/) tool (without paid or in free version) : 
-  - Can create a new chat/conversation.
-  - Can search any old chat conversation quickly.
-  - Can access [ChatGPT Image Library](https://chatgpt.com/library).
+  - Can create a 'New chat'.  
+  - Can do 'Search chat' or search any old chat conversation quickly.  
+  - Can access [ChatGPT Image Library](https://chatgpt.com/library) to generate any image.  
   - 
 
 
