@@ -11,7 +11,7 @@
 
 <h3 align="center">Quick Takeaways of AI tools asset</h3>
 
-It contains a quick note of important AI tools and with their purpose & use, so whenever we need help of any AI tool for our related works then we can easily implement from here (as it's a summarized to AI tools) without spending time in searching AI tools in online anymore. This will help us to be independent, self-sufficient, self-reliant and self-believe to some extend, and also help us to perfom multi-tasking.    
+It contains a quick note of important AI tools and with their purpose & use, so whenever we need help of any AI tool for our related works then we can easily implement from here (as it's a summarized to AI tools) without spending time in searching AI tools in online anymore. This will help us to be independent, self-sufficient, self-reliant and self-believe, can take care of ourself easily to some extend, and also help us to perfom multi-tasking.    
 
 ---
 
@@ -100,18 +100,43 @@ In upcoming lessons we will learn how to use the above features.
 
 
 
-#### 🔰Lesson 4 : Get precision reply with CustomizedGPT  
+#### 🔰Lesson 4 : Get precision/user-focused reply with **CustomizedGPT**  
 There is the a huge different between the reply given by the normal 'ChatGPT' and the 'Customized ChatGPT' (CustomizedGPT) which will be more specific to use, because in 'Customized ChatGPT' we are pre-defining ourself first before starting with prompting, so in this case AI will able to know more about us and then give response accordingly to us. (present in Setting's options to enable it || Not Paid feature)  
 
-Through this feature we don't need to explain ourself a no. of times to GPT, it more like "everything set, just prompting, get reply, start implementing".  
+Through this feature we don't need to explain ourself a no. of times to GPT, it's more like "everything set, just prompting, get reply, start implementing".  
 
-In CustomizedGPT we first need to fill/provide the following details :  
+In CustomizedGPT we first need to fill/provide the following settings/details :  
 - [ ] What should ChatGPT call you? (means just to provide our name)  
-- [ ] What do you do? (means to provide our occupation)
+- [ ] What do you do? (means to provide our occupation OR what i want to do now)  
 - [ ] What traits should ChatGPT have? (means need to define the level of the reply (ease/professional/lamen's term) or what quality should the GPT reply to us)
-- [ ] 
+- [ ] Anything else ChatGPT should know about you? (mean here we can mention any of our personal extra quality)
+- [ ] ChatGPT capabilities. (means enable/disable required AI features)
+
+.....start from : video no. 4 as this is also lesson 4 only........
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+🔽⬇⬇⬇⬇⬇
+
+
+......is there any way to speedily complete this course : YES  
+• Option 1 : very fast
+  can watch a section of videos : so that understanding will happens. And after that we can easily able to make notes with again watching the same video : from these idea will come i.e. what to make note.  
+• Option 2 : very slow, can't utilized the technology
+  Try to learn only one section of video per day. . . .
 
 
 
