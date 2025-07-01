@@ -55,7 +55,7 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
   - Can create a 'New chat'.  
   - Can do 'Search chat' or search any old chat conversation quickly.  
   - Can access [ChatGPT Image Library](https://chatgpt.com/library) to generate any image.
-  - Can access 'Projects' tab : it is the feature where we can upload multiple files and then do queries on it. It is mostly used for multiple-tasking.    
+  - Can access 'Projects' tab : it is the feature where we can upload multiple files and then do queries on it. It is mostly used for multiple-tasking purpose only.    
   - Can 'Share chat link' or can share our ChatGPT conversation through link --> so that other people can also able to access it.  
   - Can 'Archive chat' or can hide any chat from the main active conversation list or 'Chats' list.
   - Can create our own 'Customize ChatGPT'.
@@ -67,14 +67,18 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
     - Ask anything through voice by clicking on '🎤Dictate' but, whcih actually works like speech-to-text.  
     - Toggle/Enable '🎙Voice mode' to activate fully voice-based conversation only, in which ChatGPT also talks backs with us. It's actually 'Voice chat' or can say interactive chat. But it doesn't keep track or record/history of chat/conversation. So, it's just works like any virtual/voice assistant e.g. Google Assistant or Amazon's Alexa or Apple's Siri.  
     - Upload or attach images/files to ask a corresponding/related queries.  
-    - Toggle '🖼Create an image' feature to generate image through prompt.
+    - Toggle '🖼Create an image' feature to generate image through prompt.  
     - Toggle '🌐Search the web' feature.
-    - Toggle 'Canvas' i.e. '✏️Write or Code' feature.
-    - Toggle '🔭Deep Research' feature.
-    - Toggle 'Think for longer' i.e. '💡Reason' feature.
+    - Toggle 'Canvas' i.e. '✏️Write or Code' feature.  
+    - Toggle '🔭Deep Research' feature.  
+    - Toggle 'Think for longer' i.e. '💡Reason' feature.  
 
 > Pro Tip :
-> We can use Emoji for naming the 'Chat Title' e.g. '👨‍💻Coding', '🎼Music research🎶', '🎹Piano learning', so that it will be more visually scannable and presentable.  
+> We can use Emoji for naming the 'Chat Title' e.g. '👨‍💻Coding', '🎼Music research🎶', '🎹Piano learning', so that it will be more visually scannable and presentable.
+
+In upcoming lessons we will learn how to use the above features.  
+
+
 
 
 
