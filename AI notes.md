@@ -55,6 +55,8 @@ Features avilable in [ChatGPT](https://chatgpt.com/) tool (without paid or in fr
   - Can create a 'New chat'.  
   - Can do 'Search chat' or search any old chat conversation quickly.  
   - Can access [ChatGPT Image Library](https://chatgpt.com/library) to generate any image.  
+  - Can 'Share chat link' or can share our ChatGPT conversation through link --> so that other people can also able to access it.  
+  - Can 'Archive chat' or can hide any chat from the main active conversation list or 'Chats' list.
   - 
 
 
