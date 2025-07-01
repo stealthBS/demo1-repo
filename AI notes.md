@@ -27,7 +27,10 @@ Company] that sells [Your Offering]. Please create one table with columns that r
 a scale from 1 to 10: How intensive it will be on company resources, time needed to complete the task, potential 
 upside if the idea is a successful, target market, competitors, potential challenges, potential revenue streams, 
 marketing strategies, initial startup costs, ongoing expenses, social impact, scalability, and other factors I haven't 
-thought of. All of the information you provide should be in tabular format.`  
+thought of. All of the information you provide should be in tabular format.`  If ChatGPT doesn’t format the answer properly, then regenerate the response.
+
+
+
 
 
 
