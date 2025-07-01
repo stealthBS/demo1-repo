@@ -66,7 +66,7 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
   - Can use 'Temporary Chat' feature which won't appear in history tab and it won't keep in record/track.  
   - Can 'Share chat link' or can share our ChatGPT conversation through link --> so that other people can also able to access it.  
   - Can 'Archive chat' or can hide any chat from the main active conversation list or 'Chats' list.
-  - Can create our own 'Customized ChatGPT', and this feature's path is inside Setting's 'Personalization' tab. But we can directly access it by clicking on the profile.  
+  - Can create our own 'Customized ChatGPT' (PersonalizedGPT), and this feature's path is inside Setting's 'Personalization' tab. But we can directly access it by clicking on the profile.  
   - Can access many ready-made pre-built [GPTs](https://chatgpt.com/gpts) versions inside ChatGPT which are built by other peoples or organizations. And if we bookmarks any of these GPTs tools then it will appears in the sidebar.  
   - Can access [Sora](https://sora.chatgpt.com/) tool by ChatGPT (Plus/Pro only) to generate images & short videos through prompt/text.  
   - Can access [Deep Research](https://openai.com/index/introducing-deep-research/) advanced AI-powered tool.
@@ -101,7 +101,7 @@ In upcoming lessons we will learn how to use the above features.
 
 
 #### 🔰Lesson 4 : 
-
+There is the a huge different between the reply given by the normal 'ChatGPT' and the 'Customized ChatGPT' which will be more specific to use, because in 'Customized ChatGPT' we are pre-defining ourself first before starting with prompting, so in this case AI will able to know more about us and then give response accordingly to us.  
 
 
 
