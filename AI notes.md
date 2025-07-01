@@ -30,6 +30,9 @@ Use AI tools to increase productivity, learn more skills with : less effort - ti
 
 
 
+
+
+
 #### 🔰Lesson 2 :  
 
 - Youtube video summarization : [YouTube Summary with ChatGPT](https://chromewebstore.google.com/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) chrome extension or [NoteGPT](https://notegpt.io/) site.  
@@ -44,6 +47,10 @@ marketing strategies, initial startup costs, ongoing expenses, social impact, sc
 thought of. All of the information you provide should be in tabular format.`* **If ChatGPT doesn’t format the answer properly, then regenerate the response.**
 - Generate App & website by using prompt (without any coding knowledge) : [Lovable](https://lovable.dev/).  
 ---
+
+
+
+
 
 
 
@@ -81,7 +88,13 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
 In upcoming lessons we will learn how to use the above features.  
 
 🔸 Also, ChatGPT have the feature to updated/improved/refine our reponse if we don't like the present reply by ChatGPT.  
----
+
+----
+
+
+
+
+
 
 
 
