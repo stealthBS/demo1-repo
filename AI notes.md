@@ -64,7 +64,7 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
   - And inside the chatbox only we can :  
     - Ask anything in the prompt box through typing.  
     - Ask anything through voice by clicking on '🎤Dictate' but, whcih actually works like speech-to-text.  
-    - Toggle/Enable '🎙Voice mode' to activate fully voice-based conversation only, in which ChatGPT also talks backs with us.  
+    - Toggle/Enable '🎙Voice mode' to activate fully voice-based conversation only, in which ChatGPT also talks backs with us. It's actually 'Voice chat' or can say interactive chat.  
     - Upload or attach images/files to ask a corresponding/related queries.  
     - Toggle '🖼Create an image' feature to generate image through prompt.
     - Toggle '🌐Search the web' feature.
