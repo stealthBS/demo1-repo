@@ -18,8 +18,10 @@ It contains a quick note of important AI tools and with their purpose & use, so 
 
 
 <br>
-. . . .noteGPT or YoutubeGPT extension
-URL will be hyperlinked. . .  
+
+Youtube video summarization : 
+• 'YouTube Summary with ChatGPT' chrome extension or [NoteGPT](https://notegpt.io/) site.
+
 
 ---
 ---
