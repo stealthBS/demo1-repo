@@ -11,7 +11,11 @@
 
 <h3 align="center">Quick Takeaways of AI tools</h3>
 
-It contains a quick note of important AI tools and with their purpose & use, so whenever we need help of any AI tool for our related works then we can easily implement from here (as it's a summarized to AI tools) without spending time in searching AI tools in online anymore.
+It contains a quick note of important AI tools and with their purpose & use, so whenever we need help of any AI tool for our related works then we can easily implement from here (as it's a summarized to AI tools) without spending time in searching AI tools in online anymore.  
+
+---
+
+
 
 
 
@@ -28,7 +32,10 @@ Company] that sells [Your Offering]. Please create one table with columns that r
 a scale from 1 to 10: How intensive it will be on company resources, time needed to complete the task, potential 
 upside if the idea is a successful, target market, competitors, potential challenges, potential revenue streams, 
 marketing strategies, initial startup costs, ongoing expenses, social impact, scalability, and other factors I haven't 
-thought of. All of the information you provide should be in tabular format.`* **If ChatGPT doesn’t format the answer properly, then regenerate the response.**  
+thought of. All of the information you provide should be in tabular format.`* **If ChatGPT doesn’t format the answer properly, then regenerate the response.**
+---
+
+
 
 
 
