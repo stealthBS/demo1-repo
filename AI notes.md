@@ -60,7 +60,7 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
   - Can 'Share chat link' or can share our ChatGPT conversation through link --> so that other people can also able to access it.  
   - Can 'Archive chat' or can hide any chat from the main active conversation list or 'Chats' list.
   - Can create our own 'Customize ChatGPT'.
-  - Can access many ready-made [GPTs](https://chatgpt.com/gpts) inside ChatGPT which are built by other peoples or organizations.  
+  - Can access many ready-made pre-built [GPTs](https://chatgpt.com/gpts) versions inside ChatGPT which are built by other peoples or organizations. And if we bookmarks any of these GPTs tools then it will appears in the sidebar.  
   - Can access [Sora](https://sora.chatgpt.com/) tool by ChatGPT (Plus/Pro only) to generate images & short videos through prompt/text.  
   - Can access [Deep Research](https://openai.com/index/introducing-deep-research/) advanced AI-powered tool.
   - Can toggle between different ChatGPT versions if we have piad plan.  
