@@ -61,7 +61,11 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
   - Can access many ready-made [GPTs](https://chatgpt.com/gpts) inside ChatGPT which are built by other peoples or organizations.  
   - Can access [Sora](https://sora.chatgpt.com/) tool by ChatGPT (Plus/Pro only) to generate images & short videos through prompt/text.  
   - Can access [Deep Research](https://openai.com/index/introducing-deep-research/) advanced AI-powered tool.
-  - 
+  - And inside the chatbox only we can :
+    - Upload or attach images/files to ask a corresponding/related queries.  
+    - Toggle 'Create an image' feature to generate image through prompt.
+    - Toggle 'Search the web' feature.
+    - 
 
 
 
