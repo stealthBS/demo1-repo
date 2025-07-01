@@ -63,8 +63,11 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
   - Can access [Deep Research](https://openai.com/index/introducing-deep-research/) advanced AI-powered tool.
   - And inside the chatbox only we can :
     - Upload or attach images/files to ask a corresponding/related queries.  
-    - Toggle 'Create an image' feature to generate image through prompt.
-    - Toggle 'Search the web' feature.
+    - Toggle '🖼Create an image' feature to generate image through prompt.
+    - Toggle '🌐Search the web' feature.
+    - Toggle 'Canvas' i.e. '✏️Write or Code' feature.
+    - Toggle '🔭Deep Research' feature.
+    - Toggle 'Think for longer' i.e. '💡Reason' feature.
     - 
 
 
