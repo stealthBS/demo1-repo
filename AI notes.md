@@ -11,6 +11,28 @@
 
 
 
+🔽⬇⬇⬇⬇⬇
+
+
+......is there any way to speedily complete this course : YES  
+• Option 1 : very fast
+  can watch a section of videos : so that understanding will happens.  
+  Then download materials.  
+  And after that we can easily able to make notes with again watching the same video : from these idea will come i.e. what to make note.   (OR)   
+  Watch the full video first then star making its notes. It will be a good choice if we watch video from Mobile phone, and take notes in PC.  
+  **Make use of Forest App for best productivity & gap to relief from eye strain & body activation**  
+• Option 2 : very slow, can't utilized the technology
+  Try to learn only one section of video per day. . . .
+
+
+
+
+---
+
+
+
+
+
 <h3 align="center">Quick Takeaways of AI tools asset</h3>
 
 It contains a quick note of important AI tools and with their purpose & use, so whenever we need help of any AI tool for our related works then we can easily implement from here (as it's a summarized to AI tools) without spending time in searching AI tools in online anymore. This will help us to be independent, self-sufficient, self-reliant and self-believe, can take care of ourself easily to some extend, and also help us to perfom multi-tasking.    
@@ -131,14 +153,7 @@ In CustomizedGPT we first need to fill/provide the following settings/details :
 
 ---
 
-🔽⬇⬇⬇⬇⬇
 
-
-......is there any way to speedily complete this course : YES  
-• Option 1 : very fast
-  can watch a section of videos : so that understanding will happens. Then download materials. And after that we can easily able to make notes with again watching the same video : from these idea will come i.e. what to make note.   (OR)   Watch the full video first then star making its notes. It will be a good choice if we watch video from Mobile phone, and take notes in PC. **Make use of Forest App for best productivity & gap to relief from eye strain & body activation**  
-• Option 2 : very slow, can't utilized the technology
-  Try to learn only one section of video per day. . . .
 
 
 
