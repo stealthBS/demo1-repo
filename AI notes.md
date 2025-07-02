@@ -130,10 +130,10 @@ There is the a huge different between the reply given by the normal 'ChatGPT' an
 Through this feature we don't need to explain ourself a no. of times to GPT, it's more like "everything set, just prompting, get reply, start implementing".  
 
 In CustomizedGPT we first need to fill/provide the following settings/details :  
-- [ ] What should ChatGPT call you? (means just to provide our name)  
-- [ ] What do you do? (means to provide our occupation OR what i want to do now)  
-- [ ] What traits should ChatGPT have? (means need to define the level of the reply (ease/professional/lamen's term) or what quality should the GPT reply to us)
-- [ ] Anything else ChatGPT should know about you? (mean here we can mention any of our personal extra quality)
+- [x] What should ChatGPT call you? (means just to provide our name)  
+- [x] What do you do? (means to provide our occupation OR what i want to do now)  
+- [x] What traits should ChatGPT have? (means need to define the level of the reply (ease/professional/lamen's term) or what quality should the GPT reply to us)
+- [x] Anything else ChatGPT should know about you? (mean here we can mention any of our personal extra quality)
 - [ ] ChatGPT capabilities. (means enable/disable required AI features)
 
 .....start from : video no. 4 as this is also lesson 4 only........
