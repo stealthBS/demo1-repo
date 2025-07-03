@@ -114,6 +114,43 @@ Emoji we can use for our notes are :
 > can make here notes, or write some main points. . .
 
 
-- - - - - - -
+--- 
+<br>
 
 
+
+
+
+
+hiiiiiii
+i'm looking to rent a laptop for personal use (study purposes). My location is Rajarajeshwari Nagar, Bengaluru. 
+
+please let me know:
+
+If you provide services in my location
+
+The available rental plans with duration and their pricings
+
+Any additional charges (e.g., delivery, pickup, security deposit, etc.)
+
+Documentation or other requirements for renting
+
+The detailed procedure for renting a laptop
+
+i'm looking for your response. . .
+thank you
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+--- 
