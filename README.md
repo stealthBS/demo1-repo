@@ -154,3 +154,30 @@ thank you
 
 <br>
 --- 
+
+• Background Check (BGC) List OR Document verification : https://cdn-wl-assets.classplus.co/production/single/ixsoq/3ad1c670-4ed1-4495-94d6-0532109854db.pdf  
+• 1st Oct Batch || Document Certificate support : https://cdn-wl-assets.classplus.co/production/single/ixsoq/f7da9628-9036-46dd-a693-da47cb174dea.jpg  
+
+- 1st Oct Batch :
+  - https://chat.whatsapp.com/DTCO4Fx4KeXIh7nfpVroY9
+  - https://chat.whatsapp.com/EhjUdrRFpIV0Jhqb77f3LI
+  - https://chat.whatsapp.com/LWlutETkaQCGuSNRxVeeBB
+  - https://chat.whatsapp.com/GHOPoxynPPu8nXKu0uzY8E
+  - https://chat.whatsapp.com/DXu9T2ktO7WDh3wEsNGBxW
+  - https://chat.whatsapp.com/FCpGE877dmq07Vwj5GKfc3
+  - https://chat.whatsapp.com/EIL7nlpmQzLJfGA8MHE5Kf
+
+- 6th Aug Batch :
+  - https://chat.whatsapp.com/INLHkGYhs4W2QBZKyH5NZf
+  - https://chat.whatsapp.com/CmhChVA7E7k6aKiUtZ6Me3
+  - https://chat.whatsapp.com/KkecRutDhUP949f66Bsw1l
+  - https://chat.whatsapp.com/BqcLVNuViyn8leCA28jUYc
+  - https://chat.whatsapp.com/DsJ7QP1HeJrKBXOh8EjHzR  
+
+<br>
+
+
+
+
+
+
