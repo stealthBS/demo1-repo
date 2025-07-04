@@ -37,7 +37,7 @@
 
 It contains a quick note of important AI tools and with their purpose & use, so whenever we need help of any AI tool for our related works then we can easily implement from here (as it's a summarized to AI tools) without spending time in searching AI tools in online anymore. This will help us to be independent, self-sufficient, self-reliant and self-believe, can take care of ourself easily to some extend, and also help us to perfom multi-tasking.  
 
-So, there are many text generation Natural Language Processing (NLP) Tools or Text Generation/Conversation AI tools (Generative AI chatbots/assistance tools) e.g. OpenAI's [ChatGPT](https://chatgpt.com/), Google's [Gemini](https://gemini.google.com/) (rebranded of Google's Bard), Microsoft's [Copilot](https://copilot.microsoft.com/), xAI's [Grok](https://grok.com/), Meta's [Meta AI](https://www.meta.ai/), DeepMind's [DeepSeek](), etc. But here we will mainly   
+And there are many Natural Language Processing (NLP) Tools or Text Generation/Conversation AI tools (Generative AI chatbots/assistance tools) e.g. OpenAI's [ChatGPT](https://chatgpt.com/), Google's [Gemini](https://gemini.google.com/) (rebranded of Google's Bard), Microsoft's [Copilot](https://copilot.microsoft.com/), xAI's [Grok](https://grok.com/), Meta's [Meta AI](https://www.meta.ai/), DeepMind's [DeepSeek](), etc. But here we will mainly discuss more about OpenAI's [ChatGPT](https://chatgpt.com/) tool.  
 
 ---
 
