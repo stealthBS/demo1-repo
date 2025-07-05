@@ -141,17 +141,15 @@ i'm looking for your response. . .
 thank you
 
 
-
-
-
-
-
-
-
-
-
-
-
 <br>
 --- 
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Rental Laptop 
+
+- [ ] Transperancy talk before deliverying. (smooth service, no disturbance)  
+- [ ] Read the Rental agreement full first to last by knowing the meaning. because need to sign it. and while signing see the difference. or can mentioned the how much you paid in detials as guided by ChatGPT.  
+- [ ] 
 
