@@ -115,41 +115,31 @@ Emoji we can use for our notes are :
 
 
 --- 
-<br>
 
-
-
-
-
-
-hiiiiiii
-i'm looking to rent a laptop for personal use (study purposes). My location is Rajarajeshwari Nagar, Bengaluru. 
-
-please let me know:
-
-If you provide services in my location
-
-The available rental plans with duration and their pricings
-
-Any additional charges (e.g., delivery, pickup, security deposit, etc.)
-
-Documentation or other requirements for renting
-
-The detailed procedure for renting a laptop
-
-i'm looking for your response. . .
-thank you
-
-
-<br>
---- 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Rental Laptop 
+💻Rental Laptop check list (to-Do)
 
 - [ ] Transperancy talk before deliverying. (smooth service, no disturbance)  
-- [ ] Read the Rental agreement full first to last by knowing the meaning. because need to sign it. and while signing see the difference. or can mentioned the how much you paid in detials as guided by ChatGPT.  
-- [ ] 
+- [ ] Read the Rental agreement full first to last by knowing the meaning. because need to sign it. and while signing see the difference. or can mentioned the how much you paid in detials as guided by ChatGPT. (2 different types compare both) (keep pdf in phone)
+
+Check-up while receiving the Laptop : 
+- [ ] (....his requirements)
+
+
+
+
+
+
+Check-up while hand-overing the Laptop : 
+
+
+
+
+
+
+
+
 
