@@ -126,7 +126,15 @@ Emoji we can use for our notes are :
 - [ ] Read the Rental agreement full first to last by knowing the meaning. because need to sign it. and while signing see the difference. or can mentioned the how much you paid in detials as guided by ChatGPT. (2 different types compare both) (keep pdf in phone)
 
 Check-up while receiving the Laptop : 
+- [ ] Recording video starts. . . .
 - [ ] (....his requirements)
+- [ ] ......
+- [ ] *Physical damage or cracks*
+- [ ] *Screen/display condition*
+- [ ] *Keyboard, trackpad, ports, and charger functionality*
+- [ ] *Any missing accessories*
+- [ ] *General working condition*
+- [ ] **Send them the confirmation videos** (of above these)
 
 
 
@@ -134,8 +142,15 @@ Check-up while receiving the Laptop :
 
 
 Check-up while hand-overing the Laptop : 
-
-
+- [ ] Recording video starts. . . .
+- [ ] (....his requirements)
+- [ ]
+- [ ] *Physical damage or cracks*
+- [ ] *Screen/display condition*
+- [ ] *Keyboard, trackpad, ports, and charger functionality*
+- [ ] *Any missing accessories*
+- [ ] *General working condition*
+- [ ] **Send them the confirmation videos** (of above these **immediately**)
 
 
 
