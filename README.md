@@ -126,15 +126,27 @@ Emoji we can use for our notes are :
 - [ ] Read the Rental agreement full first to last by knowing the meaning. because need to sign it. and while signing see the difference. or can mentioned the how much you paid in detials as guided by ChatGPT. (2 different types compare both) (keep pdf in phone)
 
 Check-up while receiving the Laptop : 
-- [ ] Recording video starts. . . .
-- [ ] (....his requirements)
+- [ ] Recording video starts. . . . & Photo if
+- [ ] Gloves and sanitizer & cleaning cloth put ON.
+- [ ] any Damage Body condition : screen, keyboard, trackpad, USB ports, hinges, body scratches/cracks.
+- [ ] Accessories : charger, cables, any other, and whether they are working.
+- [ ] Power button : properly working ON/OFF.
+- [ ] Screen check for : dead pixels, discolorations, or any lines. 
+- [ ] Battery : Power level of device and hold charge.
+- [ ] Test wifi, LAN port, bluetooth, webcam, microphone, speakers, USB ports, charge port. 
+- [ ] check all keys and touch-pad (panel & buttons) working.
+- [ ] record the backup of battery health time.
+- [ ] check what software installed.
+- [ ] check the OS version installed. 
+- [ ] check for any monitoring software (suspicious software) installed without me permission.
+- [ ] ...if required do Ractory reset. (OR) create new profile. 
 - [ ] ......
 - [ ] *Physical damage or cracks*
 - [ ] *Screen/display condition*
 - [ ] *Keyboard, trackpad, ports, and charger functionality*
 - [ ] *Any missing accessories*
 - [ ] *General working condition*
-- [ ] **Send them the confirmation videos** (of above these)
+- [ ] **Send them the confirmation videos and Photo** (of above these)
 
 
 
