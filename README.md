@@ -122,31 +122,36 @@ Emoji we can use for our notes are :
 
 💻Rental Laptop check list (to-Do)
 
-- [ ] Transperancy talk before deliverying. (smooth service, no disturbance)  
-- [ ] Read the Rental agreement full first to last by knowing the meaning. because need to sign it. and while signing see the difference. or can mentioned the how much you paid in detials as guided by ChatGPT. (2 different types compare both) (keep pdf in phone)
+- [ ] Transperancy talk before deliverying. (smooth service, no disturbance/lag performace during work, money scam, all disclosure)  
+- [ ] Read the Rental agreement full first to last by knowing the meaning because need to sign it. And while signing see the difference. or can mentioned the how much you paid in details as guided by ChatGPT. (2 different types compare both) (keep pdf in phone)
+- [ ] Upload files to ChatGPT and it will guide me directly e.g. their emails, Terms & conditions, FAQs, rental Policies, Rental Agreements, etc. (try to upload in .txt format files)
+- [ ] Check a history in ChatGPT for a previous rental laptop.  
 
-Check-up while receiving the Laptop : 
-- [ ] Recording video starts. . . . & Photo if
-- [ ] Gloves and sanitizer & cleaning cloth put ON.
-- [ ] any Damage Body condition : screen, keyboard, trackpad, USB ports, hinges, body scratches/cracks.
-- [ ] Accessories : charger, cables, any other, and whether they are working.
+Check-up while receiving the Laptop : precautions  
+- [ ] Recording video starts & Photo capture at last (with watermark of Date&Time)
+- [ ] Take photograph of damages as evidence so won't be blamed later.  
+- [ ] Gloves and sanitizer & cleaning cloth put ON.  
+- [ ] Check any physical damage Body condition : screen, keyboard, trackpad, USB ports, hinges, body for scratches/cracks.  
+- [ ] Check accessories : charger, cables, any other, and whether they are working.
 - [ ] Power button : properly working ON/OFF.
 - [ ] Screen check for : dead pixels, discolorations, or any lines. 
 - [ ] Battery : Power level of device and hold charge.
 - [ ] Test wifi, LAN port, bluetooth, webcam, microphone, speakers, USB ports, charge port. 
-- [ ] check all keys and touch-pad (panel & buttons) working.
-- [ ] record the backup of battery health time.
+- [ ] check all keys of keyboard and touch-pad (panel & buttons) working.
+- [ ] Verify/record the backup of battery health time (OR) it holds charge properly.
 - [ ] check what software installed.
-- [ ] check the OS version installed. 
-- [ ] check for any monitoring software (suspicious software) installed without me permission.
-- [ ] ...if required do Ractory reset. (OR) create new profile. 
-- [ ] ......
+- [ ] check the OS version installed and activated or not. 
+- [ ] check for any monitoring software (suspicious software) installed without my permission.
 - [ ] *Physical damage or cracks*
 - [ ] *Screen/display condition*
 - [ ] *Keyboard, trackpad, ports, and charger functionality*
 - [ ] *Any missing accessories*
 - [ ] *General working condition*
 - [ ] **Send them the confirmation videos and Photo** (of above these)
+- [ ]
+- [ ] If allowed : rest the laptop to factory setting to remove any previous user data or malware. so, if required do 'Ractory reset', otherwise create new 'profile'. 
+- [ ] Can run any good/reputed antivirus/malware scan. 
+
 
 
 
