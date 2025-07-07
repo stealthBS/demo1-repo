@@ -124,7 +124,7 @@ Emoji we can use for our notes are :
 
 - [ ] google review & Google map & website
 - [ ] Recrod all audio calls. (Listen to the phone call audio)
-- [ ] Record all unboxings & missings.
+- [ ] Record all unboxings & missings. (records in stagings)
 - [ ] can ask any quiries/doubt in mail or calls.
 - [ ] anything don't understand means put it in chatGPT.
 - [ ] prepare to-do list it in mobile/github notepad. . .
