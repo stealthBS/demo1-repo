@@ -150,24 +150,29 @@ Check-up while receiving the Laptop : precautions
 - [ ] **Send them the confirmation videos and Photo** (of above these)  
 - [ ] ...  
 - [ ] If allowed : rest the laptop to factory setting to remove any previous user data or malware. so, if required do 'Ractory reset', otherwise create new 'profile'.  
-- [ ] Can run any good/reputed antivirus/malware scan.  
+- [ ] Can run any good/reputed antivirus/malware scan.
 
-
-
-
-
-
+---
 
 Check-up while hand-overing the Laptop : 
-- [ ] Recording video starts. . . .
-- [ ] (....his requirements)
-- [ ]
+- [ ] Recording video starts & Photo capture at last (with watermark of Date&Time)  
+- [ ] Take photograph of damages as evidence so won't be blamed later.  
+- [ ] . . .first check their (companies) requirements while returning.  
 - [ ] *Physical damage or cracks*
 - [ ] *Screen/display condition*
 - [ ] *Keyboard, trackpad, ports, and charger functionality*
 - [ ] *Any missing accessories*
 - [ ] *General working condition*
 - [ ] **Send them the confirmation videos** (of above these **immediately**)
+- [ ] . . . .
+- [ ] uninstall all software that i have installed.
+- [ ] remove all the data presend there.
+- [ ] do : prefetch, %temp%, temp, discCleanUp.
+- [ ] remove all wifi networks.
+
+- [ ] delete your profile i.e. 'user1'
+- [ ] Can do a factory reset.
+- [ ] atleast charge the laptop to 80%
 
 
 
