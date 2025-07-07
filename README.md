@@ -135,7 +135,9 @@ Emoji we can use for our notes are :
 - [ ] Transperancy talk before deliverying. (smooth service, no disturbance/lag performace during work, money scam, all disclosure)  
 - [ ] Read the Rental agreement full first to last by knowing the meaning because need to sign it. And while signing see the difference. or can mentioned the how much you paid in details as guided by ChatGPT. (2 different types compare both) (keep pdf in phone)
 - [ ] Upload files to ChatGPT and it will guide me directly e.g. their emails, Terms & conditions, FAQs, rental Policies, Rental Agreements, etc. (try to upload in .txt format files)
-- [ ] Check a history in ChatGPT for a previous rental laptop.  
+- [ ] Check a history in ChatGPT for a previous rental laptop.
+---
+
 
 Check-up while receiving the Laptop : precautions  
 - [ ] Recording video starts & Photo capture at last (with watermark of Date&Time)  
