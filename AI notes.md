@@ -41,6 +41,8 @@ And there are many Natural Language Processing (NLP) Tools or Text Generation/Co
 
 But here we will mainly focus & discuss more about OpenAI's [ChatGPT](https://chatgpt.com/) assistance tool and also we will discuss about other tools according to different works & purposes.  
 
+ChatGPT have some plans/memberships i.e. : Free, Plus (paid), Pro/Team/Enterprise (paid). And this AI tool course will contain details how to use these free & paid plan with their features. (As of now first we'll learn how to use the free plan effectively)  
+
 ---
 
 
