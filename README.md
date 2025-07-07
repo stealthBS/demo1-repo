@@ -122,6 +122,16 @@ Emoji we can use for our notes are :
 
 💻Rental Laptop check list (to-Do)
 
+- [ ] google review & Google map & website
+- [ ] Recrod all audio calls. (Listen to the phone call audio)
+- [ ] Record all unboxings & missings.
+- [ ] can ask any quiries/doubt in mail or calls.
+- [ ] anything don't understand means put it in chatGPT.
+- [ ] prepare to-do list it in mobile/github notepad. . .
+- [ ] personal documents required. . .
+- [ ] by the time of collecting check those all thing which he will check during the time of returning. . . .
+- [ ] decide want home delivery or visit to choose the model. 
+- [ ] is there any option if i return before the mention time. .  and money deduction. (avail)  
 - [ ] Transperancy talk before deliverying. (smooth service, no disturbance/lag performace during work, money scam, all disclosure)  
 - [ ] Read the Rental agreement full first to last by knowing the meaning because need to sign it. And while signing see the difference. or can mentioned the how much you paid in details as guided by ChatGPT. (2 different types compare both) (keep pdf in phone)
 - [ ] Upload files to ChatGPT and it will guide me directly e.g. their emails, Terms & conditions, FAQs, rental Policies, Rental Agreements, etc. (try to upload in .txt format files)
@@ -166,13 +176,15 @@ Check-up while hand-overing the Laptop :
 - [ ] **Send them the confirmation videos** (of above these **immediately**)
 - [ ] . . . .
 - [ ] uninstall all software that i have installed.
-- [ ] remove all the data presend there.
+- [ ] remove all the data present there.
 - [ ] do : prefetch, %temp%, temp, discCleanUp.
 - [ ] remove all wifi networks.
-
+- [ ] ....
 - [ ] delete your profile i.e. 'user1'
 - [ ] Can do a factory reset.
 - [ ] atleast charge the laptop to 80%
+- [ ] clean any dirty present there.
+- [ ] keep all thing at one place.
 
 
 
