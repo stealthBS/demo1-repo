@@ -35,11 +35,11 @@
 
 <h3 align="center">Quick Takeaways of AI tools asset</h3>
 
-It contains a quick note of important AI tools and with their purpose & use, so whenever we need help of any AI tool for our related works then we can easily implement from here (as it's a summarized to AI tools) without spending time in searching AI tools in online anymore. This will help us to be independent, self-sufficient, self-reliant and self-believe, can take care of ourself easily to some extend, and also help us to perfom multi-tasking. At least, until then you don't feel alone up to you have a mobile/laptop with internet & chatGPT installed in it, it will guide you if you know how to use it.  
+It contains a quick note of important AI tools and with their purpose & use, so whenever we need help of any AI tool for our related works then we can easily implement from here (as it's a summarized to AI tools) without spending time in searching AI tools in online anymore. This will help us to be independent, self-sufficient, self-reliant and self-believe, can take care of ourself easily to some extent, and also help us to perform multi-tasking. At least, until then you don't feel alone up to you have a mobile/laptop with internet & chatGPT installed in it, it will guide you if you know how to use it.  
 
 And there are many Natural Language Processing (NLP) Tools or Text Generation/Conversation AI tools (Generative AI chatbot/assistance tools) e.g. **OpenAI's** [ChatGPT](https://chatgpt.com/), **Google's** [Gemini](https://gemini.google.com/) (rebranded of Google's Bard), **Microsoft's** [Copilot](https://copilot.microsoft.com/), **xAI's** [Grok](https://grok.com/), **Meta's** [Meta AI](https://www.meta.ai/), **DeepMind's** [DeepSeek AI](https://www.deepseek.com/) (its versions : [DeepSeek chat](https://deep-seek.chat/deepseek-chat/), [DeepSeekV3 chat](https://www.deepseekv3.net/en/chat), [DeepSeekV3 Prover](https://www.deepseekv3.net/en/deepseek-prover), [DeepSeekV3 R2](https://www.deepseekv3.net/en/deep-seek-r2), [DeepSeekV3 R1](https://www.deepseekv3.net/en/deep-seek-r1), [DeepSeekV3 Janus](https://www.deepseekv3.net/en/deep-seek-janus), [DeepSeekV3(0324)](https://www.deepseekv3.net/en/deepseek-v3-0324)), etc. 
 
-But here we will mainly focus & discuss more about [OpenAI](https://openai.com/)'s [**ChatGPT**](https://chatgpt.com/) assistance tool and also we will discuss about other tools according to different works & purposes.  
+But here we will mainly focus & discuss more about [OpenAI](https://openai.com/)'s [**ChatGPT**](https://chatgpt.com/) assistant tool and also we will discuss about other tools according to different works & purposes.  
 
 ChatGPT have some plans or memberships i.e. : Free, Plus (paid), Pro/Team/Enterprise (paid). And this AI tool course will contain details how to use these free & paid plan with their features. (As of now first we'll learn how to use the free plan effectively)  
 
@@ -88,7 +88,7 @@ thought of. All of the information you provide should be in tabular format.`* **
 
 
 #### 🔰Lesson 3 : ChatGPT Interface  
-Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid or in free version) : (all the following have their own shortcut keys)  
+Features/Buttons available in [ChatGPT](https://chatgpt.com/) tool (without paid or in free version) : (all the following have their own shortcut keys)  
   - Can create a 'New chat'.  
   - Can do '🔍Search chat' or search any old chat conversation quickly.  
   - Can access [🖼ChatGPT Image Library](https://chatgpt.com/library) to generate any image. And it also keep tracks/records of our all past generated images, so if required any past generated images then we can access from here anytime.  
@@ -100,10 +100,10 @@ Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid 
   - Can access many ready-made pre-built [GPTs](https://chatgpt.com/gpts) versions inside ChatGPT which are built by other peoples or organizations. And if we bookmarks any of these GPTs tools then it will appears in the sidebar.  
   - Can access [▶Sora](https://sora.chatgpt.com/) tool by ChatGPT (Plus/Pro only) to generate images & short videos through prompt/text.  
   - Can access [Deep Research](https://openai.com/index/introducing-deep-research/) advanced AI-powered tool.
-  - Can toggle between different ChatGPT versions if we have piad plan.  
+  - Can toggle between different ChatGPT versions if we have **paid** plan.  
   - And inside the chatbox only we can :  
     - Ask anything in the prompt box through typing.  
-    - Ask anything through voice by clicking on '🎤Dictate' but, whcih actually works like speech-to-text.  
+    - Ask anything through voice by clicking on '🎤Dictate' but, which actually works like speech-to-text.  
     - Toggle/Enable '🎙Voice mode' to activate fully voice-based conversation only, in which ChatGPT also talks backs with us. It's actually 'Voice chat' or can say interactive chat. It also keep track or record/history of chat/conversation. So, it's just works like any virtual/voice assistant e.g. Google Assistant or Amazon's Alexa or Apple's Siri.  
     - Upload or attach images/files to ask a corresponding/related queries or to get summary of any large files.  
     - Toggle '🖼Create an image' feature (inside the Tools button) to generate image through prompt.  
@@ -131,7 +131,7 @@ In upcoming lessons we will learn how to use the above features.
 
 
 #### 🔰Lesson 4 : Get precision/user-focused reply with **CustomizedGPT**  
-There is the a huge different between the reply given by the normal 'ChatGPT' and the 'Customized ChatGPT' (CustomizedGPT) which will be more specific to use, because in 'Customized ChatGPT' we are pre-defining ourself first before starting with prompting, so in this case AI will able to know more about us and then give response accordingly to us. (present in Setting's options to enable it || Not Paid feature)  
+There is a huge different between the reply given by the normal 'ChatGPT' and the 'Customized ChatGPT' (CustomizedGPT) which will be more specific to use, because in 'Customized ChatGPT' we are pre-defining ourself first before starting with prompting, so in this case AI will able to know more about us and then give response accordingly to us. (present in Setting's options to enable it || Not Paid feature)  
 
 Through this feature we don't need to explain ourself a no. of times to GPT, it's more like "everything set, just prompting, get reply, start implementing".  
 
