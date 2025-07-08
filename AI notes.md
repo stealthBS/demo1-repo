@@ -101,7 +101,7 @@ Features/Buttons available in [ChatGPT](https://chatgpt.com/) tool (without paid
   - Can access many ready-made pre-built [GPTs](https://chatgpt.com/gpts) versions inside ChatGPT which are built by other peoples or organizations. And if we bookmarks any of these GPTs tools then it will appears in the sidebar.  
   - Can access [▶Sora](https://sora.chatgpt.com/) tool by ChatGPT (Plus/Pro only) to generate images & short videos through prompt/text.  
   - Can access [Deep Research](https://openai.com/index/introducing-deep-research/) advanced AI-powered tool.
-  - Can toggle between different ChatGPT versions if we have **paid** plan.  
+  - Can toggle/switch between different ChatGPT versions (e.g. ChatGPT-4, ChatGPT-4-turbo, o3, o4, o4-mini, o4-mini-high, etc.) if only we have **paid** plan. But free member can access only ChatGPT-3.5.  
   - And inside the chatbox only we can :  
     - Ask anything in the prompt box through typing.  
     - Ask anything through voice by clicking on '🎤Dictate' but, which actually works like speech-to-text.  
