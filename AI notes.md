@@ -19,7 +19,7 @@
   can watch a section of videos : so that understanding will happens.  
   Then download materials.  
   And after that we can easily able to make notes with again watching the same video : from these idea will come i.e. what to make note.   (OR)   
-  Watch the full video first then star making its notes. It will be a good choice if we watch video from Mobile phone, and take notes in PC.  
+  Watch the full video first then star making its notes. It will be a good choice if we watch video from Mobile phone, and take notes in PC. **Keep open the Udemy site in PC also to keep track where you are now, becasue in phone maybe some content will get missed**.  
   **Make use of Forest App for best productivity & gap to relief from eye strain & body activation**  
 • Option 2 : very slow, can't utilized the technology
   Try to learn only one section of video per day. . . .
