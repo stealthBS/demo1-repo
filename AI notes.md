@@ -39,7 +39,7 @@ It contains a quick note of important AI tools and with their purpose & use, so 
 
 And there are many Natural Language Processing (NLP) Tools or Text Generation/Conversation AI tools (Generative AI chatbot/assistance tools) e.g. **OpenAI's** [ChatGPT](https://chatgpt.com/), **Google's** [Gemini](https://gemini.google.com/) (rebranded of Google's Bard), **Microsoft's** [Copilot](https://copilot.microsoft.com/), **xAI's** [Grok](https://grok.com/), **Meta's** [Meta AI](https://www.meta.ai/), **DeepMind's** [DeepSeek AI](https://www.deepseek.com/) (its versions : [DeepSeek chat](https://deep-seek.chat/deepseek-chat/), [DeepSeekV3 chat](https://www.deepseekv3.net/en/chat), [DeepSeekV3 Prover](https://www.deepseekv3.net/en/deepseek-prover), [DeepSeekV3 R2](https://www.deepseekv3.net/en/deep-seek-r2), [DeepSeekV3 R1](https://www.deepseekv3.net/en/deep-seek-r1), [DeepSeekV3 Janus](https://www.deepseekv3.net/en/deep-seek-janus), [DeepSeekV3(0324)](https://www.deepseekv3.net/en/deepseek-v3-0324)), etc. 
 
-But here we will mainly focus & discuss more about OpenAI's [ChatGPT](https://chatgpt.com/) assistance tool and also we will discuss about other tools according to different works & purposes.  
+But here we will mainly focus & discuss more about [OpenAI](https://openai.com/)'s [ChatGPT](https://chatgpt.com/) assistance tool and also we will discuss about other tools according to different works & purposes.  
 
 ChatGPT have some plans or memberships i.e. : Free, Plus (paid), Pro/Team/Enterprise (paid). And this AI tool course will contain details how to use these free & paid plan with their features. (As of now first we'll learn how to use the free plan effectively)  
 
