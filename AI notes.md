@@ -90,27 +90,27 @@ thought of. All of the information you provide should be in tabular format.`* **
 #### 🔰Lesson 3 : ChatGPT Interface  
 Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid or in free version) : (all the following have their own shortcut keys)  
   - Can create a 'New chat'.  
-  - Can do 'Search chat' or search any old chat conversation quickly.  
-  - Can access [ChatGPT Image Library](https://chatgpt.com/library) to generate any image. And it also keep tracks/records of our all generated images, so if required any past generated images then we can access from here anytime.  
-  - Can access 'Projects' tab : it is the feature where we can upload multiple files and then do queries on it. It is mostly used for multiple-tasking purpose only. But this feature is for only Paid users.  
-  - Can use 'Temporary Chat' feature which won't appear in history tab and it won't keep in record/track.  
-  - Can 'Share chat link' or can share our ChatGPT conversation through link --> so that other people can also able to access it.  
-  - Can 'Archive chat' or can hide any chat from the main active conversation list or 'Chats' list.
-  - Can create our own 'Customized ChatGPT' (PersonalizedGPT), and this feature's path is inside Setting's 'Personalization' tab. But we can directly access it by clicking on the profile.  
+  - Can do '🔍Search chat' or search any old chat conversation quickly.  
+  - Can access [🖼ChatGPT Image Library](https://chatgpt.com/library) to generate any image. And it also keep tracks/records of our all past generated images, so if required any past generated images then we can access from here anytime.  
+  - Can access 'Projects' tab : it is the feature where we can upload multiple files and then do queries on it. It is mostly used for multiple-tasking purpose only. But this feature is for only **Paid** users.  
+  - Can use '💭Temporary Chat' feature which won't appear in history tab and it won't keep in record/track.  
+  - Can 'Share chat link' or can share our ChatGPT conversation through link : so that other people can also able to access it.  
+  - Can 'Archive chat' or can hide any chat from the main active conversation list/tab or 'Chats' list.
+  - Can create our own 'Customized ChatGPT' (PersonalizedGPT), and this feature's path is inside Setting's 'Personalization' tab. But we can directly access it by clicking on the profile icon.  
   - Can access many ready-made pre-built [GPTs](https://chatgpt.com/gpts) versions inside ChatGPT which are built by other peoples or organizations. And if we bookmarks any of these GPTs tools then it will appears in the sidebar.  
-  - Can access [Sora](https://sora.chatgpt.com/) tool by ChatGPT (Plus/Pro only) to generate images & short videos through prompt/text.  
+  - Can access [▶Sora](https://sora.chatgpt.com/) tool by ChatGPT (Plus/Pro only) to generate images & short videos through prompt/text.  
   - Can access [Deep Research](https://openai.com/index/introducing-deep-research/) advanced AI-powered tool.
   - Can toggle between different ChatGPT versions if we have piad plan.  
   - And inside the chatbox only we can :  
     - Ask anything in the prompt box through typing.  
     - Ask anything through voice by clicking on '🎤Dictate' but, whcih actually works like speech-to-text.  
-    - Toggle/Enable '🎙Voice mode' to activate fully voice-based conversation only, in which ChatGPT also talks backs with us. It's actually 'Voice chat' or can say interactive chat. But it doesn't keep track or record/history of chat/conversation. So, it's just works like any virtual/voice assistant e.g. Google Assistant or Amazon's Alexa or Apple's Siri.  
-    - Upload or attach images/files to ask a corresponding/related queries or to get summary of any larg files.  
-    - Toggle '🖼Create an image' feature to generate image through prompt.  
-    - Toggle '🌐Search the web' feature.
-    - Toggle 'Canvas' i.e. '✏️Write or Code' feature.  
-    - Toggle '🔭Deep Research' feature.  
-    - Toggle 'Think for longer' i.e. '💡Reason' feature.  
+    - Toggle/Enable '🎙Voice mode' to activate fully voice-based conversation only, in which ChatGPT also talks backs with us. It's actually 'Voice chat' or can say interactive chat. It also keep track or record/history of chat/conversation. So, it's just works like any virtual/voice assistant e.g. Google Assistant or Amazon's Alexa or Apple's Siri.  
+    - Upload or attach images/files to ask a corresponding/related queries or to get summary of any large files.  
+    - Toggle '🖼Create an image' feature (inside the Tools button) to generate image through prompt.  
+    - Toggle '🌐Search the web' feature (inside the Tools button).
+    - Toggle 'Canvas' i.e. '✏️Write or Code' feature (inside the Tools button).  
+    - Toggle '🔭Deep Research' feature (inside the Tools button).  
+    - Toggle 'Think for longer' i.e. '💡Reason' feature (inside the Tools button).  
 
 > Pro Tip :
 > We can use Emoji for naming the 'Chat Title' e.g. '👨‍💻Coding', '🎼Music research🎶', '🎹Piano learning', so that it will be more visually scannable and presentable.  
@@ -135,7 +135,7 @@ There is the a huge different between the reply given by the normal 'ChatGPT' an
 
 Through this feature we don't need to explain ourself a no. of times to GPT, it's more like "everything set, just prompting, get reply, start implementing".  
 
-In CustomizedGPT we first need to fill/provide the following settings/details :  
+So, in CustomizedGPT we first need to fill/provide the following settings/details :  
 - [x] What should ChatGPT call you? (means just to provide our name)  
 - [x] What do you do? (means to provide our occupation OR what i want to do now)  
 - [x] What traits should ChatGPT have? (means need to define the level of the reply (ease/professional/lamen's term) or what quality should the GPT reply to us)
