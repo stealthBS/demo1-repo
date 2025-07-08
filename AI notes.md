@@ -88,7 +88,7 @@ thought of. All of the information you provide should be in tabular format.`* **
 
 
 #### 🔰Lesson 3 : ChatGPT Interface  
-Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid or in free version) : (all the following have their shortcut keys)  
+Features/Buttons avilable in [ChatGPT](https://chatgpt.com/) tool (without paid or in free version) : (all the following have their own shortcut keys)  
   - Can create a 'New chat'.  
   - Can do 'Search chat' or search any old chat conversation quickly.  
   - Can access [ChatGPT Image Library](https://chatgpt.com/library) to generate any image. And it also keep tracks/records of our all generated images, so if required any past generated images then we can access from here anytime.  
