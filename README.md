@@ -170,7 +170,7 @@ Check-up while receiving the Laptop : precautions
 Check-up while hand-overing the Laptop : 
 - [ ] Recording video starts & Photo capture at last (with watermark of Date&Time)  
 - [ ] Take photograph of damages as evidence so won't be blamed later.
-- [ ] **mouse trackpad problem, so change it earlier.**  
+- [ ] **mouse trackpad problem, so charge it earlier.**  
 - [ ] . . .first check their (companies) requirements while returning.  
 - [ ] *Physical damage or cracks*
 - [ ] *Screen/display condition*
