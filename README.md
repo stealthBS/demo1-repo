@@ -146,7 +146,8 @@ Check-up while receiving the Laptop : precautions
 - [ ] Check any physical damage Body condition : screen, keyboard, trackpad, USB ports, hinges, body for scratches/cracks.  
 - [ ] Check accessories : charger, cables, any other, and whether they are working.  
 - [ ] Power button : properly working ON/OFF.  
-- [ ] Screen check for : dead pixels, discolorations, or any lines.  
+- [ ] Screen check for : dead pixels, discolorations, or any lines.
+- [ ] Screen check for touch screen.  
 - [ ] Battery : Power level of device and hold charge.  
 - [ ] Test wifi, LAN port, bluetooth, webcam, microphone, speakers, USB ports, charge port.  
 - [ ] check all keys of keyboard and touch-pad (panel & buttons) working.  
@@ -168,7 +169,8 @@ Check-up while receiving the Laptop : precautions
 
 Check-up while hand-overing the Laptop : 
 - [ ] Recording video starts & Photo capture at last (with watermark of Date&Time)  
-- [ ] Take photograph of damages as evidence so won't be blamed later.  
+- [ ] Take photograph of damages as evidence so won't be blamed later.
+- [ ] **mouse trackpad problem, so change it earlier.**  
 - [ ] . . .first check their (companies) requirements while returning.  
 - [ ] *Physical damage or cracks*
 - [ ] *Screen/display condition*
