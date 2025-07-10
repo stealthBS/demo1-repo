@@ -191,6 +191,9 @@ Check-up while hand-overing the Laptop :
 - [ ] keep all thing at one place.
 
 
+***lastly copy these checklist to PC checklist.txt file. . . . .
+
+
 
 
 
