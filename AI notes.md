@@ -106,7 +106,7 @@ Features/Buttons available in [ChatGPT](https://chatgpt.com/) tool (without paid
     - Ask anything in the prompt box through typing.  
     - Ask anything through voice by clicking on '🎤Dictate' but, which actually works like speech-to-text.  
     - Toggle/Enable '🎙Voice mode' to activate fully voice-based conversation only, in which ChatGPT also talks backs with us. It's actually 'Voice chat' or can say interactive chat. It also keep track or record/history of chat/conversation. So, it's just works like any virtual/voice assistant e.g. Google Assistant or Amazon's Alexa or Apple's Siri.  
-    - Upload or attach images/files to ask a corresponding/related queries or to get summary of any large files. [But for **free users** there's a limited files to upload only]  
+    - Upload or attach images/files to ask a corresponding/related queries or to get summary of any large files. [But for **free users** there's a ⚠limited files to upload only]  
     - Toggle '🖼Create an image' feature (inside the Tools button) to generate image through prompt.  
     - Toggle '🌐Search the web' feature (inside the Tools button).
     - Toggle 'Canvas' i.e. '✏️Write or Code' feature (inside the Tools button).  
