@@ -179,7 +179,9 @@ Format your answers as a numbered list with 1 to 2 sentences describing each hot
 Here's an example of what I'm looking for a stylish boutique hotel near the Latin Quarter with a rooftop terrace. Known for its cozy vibe and incredible city views.`*
 
 Basically there's a rule which we need to follow while prompting i.e. :  
-We basically keeps 6 things in mind that is : ROLE, CONTEXT, INSTRUCTIONS, 
+We basically keeps 6 things in mind that is : ROLE, CONTEXT, INSTRUCTIONS, . . . . .  
+Now based on this if we try to craft a command then it looks like :  
+ROLE : *`You are a writin coach who helps. . . .`*
 
 
 
