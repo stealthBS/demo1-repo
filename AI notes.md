@@ -191,8 +191,20 @@ Here's an example of what I'm looking for a stylish boutique hotel near the Lati
 
 Now if we combine the above prompts, then it will be like : *`You are a writing coach who helps creatives craft compelling personal bios. I'm a freelance photographer transitioning into brand storytelling. I've worked with wellness brands and startups, and I want my bio to reflect creativity, collaboration, and trust. Write a short bio for my website's about page. Keep it to one paragraph under 60 words. Use a warm, confident tone - avoid sounding formal or generic. Use this as a style reference : "I help brands tell better stories - with strategy, emotion, and clean visuals. If it feels real, I'm in."`*.  
 
-And we need to be very **used to** to this format of writing a prompt, then it'll be easier to understand why these elements are more effective.  
+And we need to be very **used to** to this format of writing a prompt, then it'll be easier to understand why these elements are more effective. So this is just the first part of the anatomy of a great prompt, later we'll go more depth into it.  
 
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 6 : 
 
 
 
