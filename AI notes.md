@@ -148,8 +148,6 @@ This is where we teach ChatGPT about us once with custom instructions, and then 
 
 <br>
 <br>
-<br>
-<br>
 
 
 <h5 align="center">Memory feature of ChatGPT (path : <i>profile icon > Settings > Personalization > Memory</i>)</h5>
