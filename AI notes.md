@@ -49,7 +49,7 @@ ChatGPT have some plans or memberships i.e. : Free, Plus (paid), Pro/Team/Enterp
 
 
 
-#### 🔰Lesson 1 :  
+#### 🔰Lesson 1 : [**Attach PDF] 
 
 Use AI tools to increase productivity, learn more skills with : less effort - less time - ease, make AI as your assistant/copilot and make AI to use your work smartly & smoothly just by giving it accurate/proper prompt.  
 
@@ -168,9 +168,9 @@ We can also tell ChatGPT what to keep in memory while chating in a conversation.
 
 
 
-#### 🔰Lesson 5 : Crafting effective prompting and prompt structuring for effective results  
-
-
+#### 🔰Lesson 5 : Crafting effective prompting and prompt structuring for effective results [**Attach PDF]  
+We can see some examples of beautiful pormpts :   
+- *``*  
 
 
 
