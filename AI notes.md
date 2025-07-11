@@ -146,7 +146,10 @@ So, in Customized ChatGPT we first need to fill/provide the following settings/d
 This is where we teach ChatGPT about us once with custom instructions, and then we never have to mention it again in the conversation repeatedly, and we expect all the replies will be on this pre-defined things.  
 > The interesting thing is that, if we don't understand anything from the above like : where to give what information then for this also we can ask ChatGPT in a different new chat. 
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 <h5 align="center">Memory feature of ChatGPT (path : <i>profile icon > Settings > Personalization > Memory</i>)</h5>
