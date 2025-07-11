@@ -154,7 +154,7 @@ This is where we teach ChatGPT about us once with custom instructions, and then 
 
 We can also tell ChatGPT what to keep in memory while chating in a conversation.  
 
-> Now in an existing chat, if we want ChatGPT should reply normaly or in default behaviour, then we can command it like *forget/ignore previous chat/instructions and respond normally* or we can start a new chat or we can use Temporary chat also.
+> Now in an existing chat, if we want ChatGPT should reply normaly or in default behaviour, then we can command it like *`forget/ignore previous chat/instructions and respond normally`* or we can start a new chat or we can use Temporary chat also.
 
 ----
 
