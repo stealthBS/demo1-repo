@@ -185,7 +185,7 @@ Check-up while hand-overing the Laptop :
 - [ ] remove all wifi networks.
 - [ ] ....
 - [ ] delete your profile i.e. 'user1'
-- [ ] Can do a factory reset.
+- [ ] Can do a factory reset. (But listen to his audio of phone call of recordings)  
 - [ ] atleast charge the laptop to 80%
 - [ ] clean any dirty present there.
 - [ ] keep all thing at one place.
