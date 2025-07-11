@@ -189,7 +189,7 @@ Here's an example of what I'm looking for a stylish boutique hotel near the Lati
 - EXAMPLE : *`Use this as a style reference : "I help brands tell better stories - with strategy, emotion, and clean visuals. If it feels real, I'm in."`*
 
 
-Now if we combine the above prompts, then it will be like : *`asdf`*.
+Now if we combine the above prompts, then it will be like : *`You are a writing coach who helps creatives craft compelling personal bios. I'm a freelance photographer transitioning into brand storytelling. I've worked with wellness brands and startups, and I want my bio to reflect creativity, collaboration, and trust. Write a short bio for my website's about page. Keep it to one paragraph under 60 words. Use a warm, confident tone - avoid sounding formal or generic. Use this as a style reference : "I help brands tell better stories - with strategy, emotion, and clean visuals. If it feels real, I'm in."`*.  
 
 
 
