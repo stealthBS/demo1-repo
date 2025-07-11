@@ -139,7 +139,7 @@ Through this feature we don't need to explain ourself a no. of times to GPT, it'
 So, in Customized ChatGPT we first need to fill/provide the following settings/details :  
 - [x] What should ChatGPT call you? (means just to provide our name or e.g. Sir, Mr. _, etc.)  
 - [x] What do you do? (means to provide our occupation OR what i want to do now)  
-- [x] What traits should ChatGPT have? (means need to define the level of the reply (ease/professional/lamen's terms, stey-by-step manner, detail manner, simple english only, etc) or what quality should the GPT reply to us)
+- [x] What traits should ChatGPT have? (means need to define the level of the reply (ease/professional/lamen's terms, stey-by-step manner, detail manner, simple english only, short responses, organize reponse in SWOT analysis, bullet point manner, etc.) or what quality should the GPT reply to us)
 - [x] Anything else ChatGPT should know about you? (mean here we can mention any of our personal extra quality or the way we want the replies from ChatGPT)
 - [ ] ChatGPT capabilities. (means enable/disable required AI features)
 
@@ -149,8 +149,14 @@ This is where we teach ChatGPT about us once with custom instructions, and then 
 
 
 
-<h5 align="center">Memory feature (path : <i>profile icon > Settings > Personalization > Memory</i>)</h5>
-'Memory' is a feature in ChatGPT, where it remembers all our important details from our earlier chats e.g. our goals, what we are doing, what our plans, what is our profession, etc. And we have option to enable or disable it for our replies, and also if we want we can delete these memories from the list.  
+<h5 align="center">Memory feature of ChatGPT (path : <i>profile icon > Settings > Personalization > Memory</i>)</h5>
+'Memory' is a feature in ChatGPT, where it remembers all our important details from our earlier chats/conversations e.g. our goals, what we are doing, what we'll going to do, what our plans, what is our profession, etc. And we have option to enable or disable it for our replies, and also if we want we can delete/edit-update/reset these memories from the list. But thsi feature won't works in Temporary chats.  
+
+We can also tell ChatGPT what to keep in memory while chating in a conversation.  
+
+> Now in an existing chat, if we want ChatGPT should reply normaly or in default behaviour, then we can command it like *forget/ignore previous chat/instructions and respond normally* or we can start a new chat or we can use Temporary chat also.
+
+----
 
 
 
@@ -161,36 +167,6 @@ This is where we teach ChatGPT about us once with custom instructions, and then 
 
 
 
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##
 
 
