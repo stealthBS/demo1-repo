@@ -150,7 +150,7 @@ This is where we teach ChatGPT about us once, and then we never have to mention 
 
 
 <h5 align="center">Memory feature (path : <i>profile icon > Settings > Personalization > Memory</i>)</h5>
-Memory is a feature in ChatGPT. . .
+'Memory' is a feature in ChatGPT, where it remembers all our important details from our earlier chats e.g. our goals, what we are doing, what our plans, what is our profession, etc. And we have option to enable or disable it for our replies, and also if we want we can delete these memories from the list.  
 
 
 
