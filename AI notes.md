@@ -183,7 +183,7 @@ We basically keeps 6 things in mind that is : ROLE, CONTEXT, INSTRUCTIONS, FORMA
 
 Now based on this if we try to craft a prompt then it looks like :  
 ROLE : *`You are a writing coach who helps creatives craft compelling personal bios.`*  
-CONTEXT : *`I'm a freeelance photorapher transitioning into brand storytelling. I've worked with wellness brands and startups, and I want my bio to reflect creativity, collaboration, and trust.`*  
+CONTEXT : *`I'm a freelance photographer transitioning into brand storytelling. I've worked with wellness brands and startups, and I want my bio to reflect creativity, collaboration, and trust.`*  
 INSTRUCTIONS : *`Write a short bio for my website's about page.`*  
 FORMATTING : *`Keep it to one paragraph under 60 words.`*  
 BOUNDARIES : *`Use a warm, confident tone - avoid sounding formal or generic.`*  
