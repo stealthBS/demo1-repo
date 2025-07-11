@@ -168,8 +168,8 @@ We can also tell ChatGPT what to keep in memory while chating in a conversation.
 
 
 
-#### 🔰Lesson 5 : Crafting effective prompting and prompt structuring for effective results [**Attach PDF]  
-We can see some examples of beautiful pormpts :   
+#### 🔰Lesson 5 : Effective prompting and prompt structuring for effective results [**Attach PDF]  
+We can see some examples of crafting beautiful pormpts :   
 - *`What hotels are in Paris.`*  
 VS  
 *`You are a travel advisor who specializes in helping travelers find unique and high value hotel stays.  
@@ -178,10 +178,16 @@ We care both about comfort and experience, not just price. Please recommend five
 Format your answers as a numbered list with 1 to 2 sentences describing each hotel only include hotels under $400 per night that offer amenities like a rooftop patio, gym or pool and are within walking distance of restaurants.  Describe each option in a concise and captivating manner.  
 Here's an example of what I'm looking for a stylish boutique hotel near the Latin Quarter with a rooftop terrace. Known for its cozy vibe and incredible city views.`*
 
-Basically there's a rule which we need to follow while prompting i.e. :  
-We basically keeps 6 things in mind that is : ROLE, CONTEXT, INSTRUCTIONS, . . . . .  
+##### Basically there's a procedure which we need to follow while prompting i.e. :  
+We basically keeps 6 things in mind that is : ROLE, CONTEXT, INSTRUCTIONS, FORMATTING, BOUNDARIES, EXAMPLE. 
+
 Now based on this if we try to craft a prompt then it looks like :  
-ROLE : *`You are a writin coach who helps. . . .`*
+ROLE : *`You are a writing coach who helps creatives craft compelling personal bios.`*  
+CONTEXT : *`I'm a freeelance photorapher transitioning into brand storytelling. I've worked with wellness brands and startups, and I want my bio to reflect creativity, collaboration, and trust.`*  
+INSTRUCTIONS : *`Write a short bio for my website's about page.`*  
+FORMATTING : *`Keep it to one paragraph under 60 words.`*  
+BOUNDARIES : *`Use a warm, confident tone - avoid sounding formal or generic.`*  
+EXAMPLE : *Use this as a style reference : "I help brands tell better stories - with strategy, emotion, and clean visuals. If it feels real, I'm in."*  
 
 
 
