@@ -143,14 +143,15 @@ So, in Customized ChatGPT we first need to fill/provide the following settings/d
 - [x] Anything else ChatGPT should know about you? (mean here we can mention any of our personal extra quality or the way we want the replies from ChatGPT)
 - [ ] ChatGPT capabilities. (means enable/disable required AI features)
 
-This is where we teach ChatGPT about us once, and then we never have to mention it again in the conversation repeatedly.  
-
-
-
-
-
-.....start from : video no. 4 as this is also lesson 4 only........
+This is where we teach ChatGPT about us once, and then we never have to mention it again in the conversation repeatedly, and we expect all the replies will be on this pre-defined things.  
 > The interesting thing is that, if we don't understand anything from the above like : where to give what information then for this also we can ask ChatGPT in a different new chat. 
+
+
+
+##### Memory feature (path : *profile icon > Settings > Personalization > Memory*)  
+Memory is a feature in ChatGPT. . .
+
+
 
 
 
