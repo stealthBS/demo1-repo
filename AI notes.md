@@ -186,7 +186,10 @@ Here's an example of what I'm looking for a stylish boutique hotel near the Lati
 - INSTRUCTIONS : *`Write a short bio for my website's about page.`*  
 - FORMATTING : *`Keep it to one paragraph under 60 words.`*  
 - BOUNDARIES : *`Use a warm, confident tone - avoid sounding formal or generic.`*  
-- EXAMPLE : *`Use this as a style reference : "I help brands tell better stories - with strategy, emotion, and clean visuals. If it feels real, I'm in."`*  
+- EXAMPLE : *`Use this as a style reference : "I help brands tell better stories - with strategy, emotion, and clean visuals. If it feels real, I'm in."`*
+
+
+Now if we combine the above prompts, then it will be like : *`asdf`*.
 
 
 
