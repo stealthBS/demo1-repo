@@ -178,8 +178,7 @@ We care both about comfort and experience, not just price. Please recommend five
 Format your answers as a numbered list with 1 to 2 sentences describing each hotel only include hotels under $400 per night that offer amenities like a rooftop patio, gym or pool and are within walking distance of restaurants.  Describe each option in a concise and captivating manner.  
 Here's an example of what I'm looking for a stylish boutique hotel near the Latin Quarter with a rooftop terrace. Known for its cozy vibe and incredible city views.`*
 
-##### Basically there's a procedure which we need to follow while prompting i.e. :  
-We basically keeps 6 things in mind that is : ROLE, CONTEXT, INSTRUCTIONS, FORMATTING, BOUNDARIES, EXAMPLE. 
+🟣 Basically there's a procedure which we need to follow while prompting i.e. we basically keeps 6 things in mind that is : **ROLE**, **CONTEXT**, **INSTRUCTIONS**, **FORMATTING**, **BOUNDARIES**, **EXAMPLE**.  
 
 Now based on this if we try to craft a prompt then it looks like :  
 ROLE : *`You are a writing coach who helps creatives craft compelling personal bios.`*  
