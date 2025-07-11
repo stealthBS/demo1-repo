@@ -170,7 +170,9 @@ We can also tell ChatGPT what to keep in memory while chating in a conversation.
 
 #### 🔰Lesson 5 : Crafting effective prompting and prompt structuring for effective results [**Attach PDF]  
 We can see some examples of beautiful pormpts :   
-- *``*  
+- *`We're going to put in what hotels are in Paris.`*  
+VS  
+*`You are a travel advisor who specializes in helping travelers find unique and high value hotel stays.`*  
 
 
 
