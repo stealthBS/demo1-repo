@@ -149,7 +149,7 @@ This is where we teach ChatGPT about us once, and then we never have to mention 
 
 
 
-<h5 align="center">Memory feature (path : *profile icon > Settings > Personalization > Memory*)</h5>
+<h5 align="center">Memory feature (path : <i>profile icon > Settings > Personalization > Memory</i>)</h5>
 Memory is a feature in ChatGPT. . .
 
 
