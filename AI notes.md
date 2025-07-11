@@ -180,7 +180,7 @@ Here's an example of what I'm looking for a stylish boutique hotel near the Lati
 
 Basically there's a rule which we need to follow while prompting i.e. :  
 We basically keeps 6 things in mind that is : ROLE, CONTEXT, INSTRUCTIONS, . . . . .  
-Now based on this if we try to craft a command then it looks like :  
+Now based on this if we try to craft a prompt then it looks like :  
 ROLE : *`You are a writin coach who helps. . . .`*
 
 
