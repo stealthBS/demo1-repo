@@ -91,7 +91,7 @@ thought of. All of the information you provide should be in tabular format.`* **
 #### 🔰Lesson 3 : ChatGPT Interface  
 Features/Buttons available in [ChatGPT](https://chatgpt.com/) tool (without paid or in free version). Icon's position may varie according to its web-version/desktop-app/mobile-app platforms. Basically it have the left-side panel, the model panel on top (contains ChatGPT's different versions), and the prompting window on right-middle : (all the following have their own shortcut keys)  
   - Can create a 'New chat' and can rename a chat title with emoji.  
-  - Can do '🔍Search chat' or search any old chat conversation quickly.  
+  - Can do '🔍Search chat' or search any old chat conversation quickly. Here it uses the chat history or threads.  
   - Can access [🖼ChatGPT Image Library](https://chatgpt.com/library) to generate any image. And it also keep tracks/records of our all past generated images, so if required any past generated images then we can access from here anytime.  
   - Can access 'Projects' tab : it is the feature where we can upload multiple files and then do queries on it. It is mostly used for multiple-tasking purpose only. But this feature is for only **Paid** users.  
   - Can use '💭Temporary Chat' feature which won't appear in history tab and it won't keep any record/track/history.  
