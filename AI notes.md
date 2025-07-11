@@ -139,7 +139,7 @@ Through this feature we don't need to explain ourself a no. of times to GPT, it'
 So, in 'Customize ChatGPT' we first need to fill/provide the following settings/details :  
 - [x] What should ChatGPT call you? (means just to provide our name or e.g. Sir, Mr. _, etc.)  
 - [x] What do you do? (means to provide our occupation OR what i want to do now)  
-- [x] What traits should ChatGPT have? (means need to define the level of the reply (ease/professional/lamen's terms, stey-by-step manner, detail manner, simple english only, short responses, organize reponse in SWOT analysis, bullet point manner, assist me like J.A.R.V.I.S. assistant, etc.) or what quality should the GPT reply to us)
+- [x] What traits should ChatGPT have? (means need to define the level of the reply (ease/professional/lamen's terms, stey-by-step manner, detail manner, simple english only, short responses, organize reponse in SWOT analysis, bullet point manner, assist me like J.A.R.V.I.S. assistant😁, etc.) or what quality should the GPT reply to us)
 - [x] Anything else ChatGPT should know about you? (mean here we can mention any of our personal extra quality or the way we want the replies from ChatGPT)
 - [ ] ChatGPT capabilities. (means enable/disable required AI features)
 
