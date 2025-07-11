@@ -180,7 +180,7 @@ Here's an example of what I'm looking for a stylish boutique hotel near the Lati
 <br>
 
 
-📌 Basically there's a procedure which we need to follow while prompting i.e. we basically keeps 6 things in mind that is : **ROLE**, **CONTEXT**, **INSTRUCTIONS**, **FORMATTING**, **BOUNDARIES**, **EXAMPLE**. Now based on this if we try to craft a prompt then it looks like :  
+📌 Basically here we can follow procedure while prompting i.e. : **ROLE**, **CONTEXT**, **INSTRUCTIONS**, **FORMATTING**, **BOUNDARIES**, **EXAMPLE**. Now based on this if we try to craft a prompt then it looks like :  
 - ROLE : *`You are a writing coach who helps creatives craft compelling personal bios.`*  
 - CONTEXT : *`I'm a freelance photographer transitioning into brand storytelling. I've worked with wellness brands and startups, and I want my bio to reflect creativity, collaboration, and trust.`*  
 - INSTRUCTIONS : *`Write a short bio for my website's about page.`*  
