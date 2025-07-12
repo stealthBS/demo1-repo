@@ -278,7 +278,7 @@ And we need to be very **used to** to this format of writing a prompt, then it'l
 ----
 ----
 
-PENDINGS : 
+🔺PENDINGS🔻 :  
 • Can attach its corresponding PDFs in the chapter's title. . . . . . . .
 
 
