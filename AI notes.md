@@ -209,13 +209,13 @@ Let's see make some good prompts by using above 6 essential elements :
 - *`Give me a marketing campaign idea.`*
 VS  
 *`I want you to act as a marketing specialist for a new fitness app made for busy moms.  The goal is to boost signups and downloads in the first 30 days.  Suggest three creative campaigns under $500.  Format it as a numbered list with 1 to 2 sentence descriptions.  Use warm and a supportive tone that speaks to overwhelmed moms in this scenario, and I want you to model the tone after this example, which is no time, no problem.  Quick workouts and real results. You've got this.`*
-- *`Based on the answers I provide below, help determine the best skill path I should take to get the most out of my “The Complete AI Guide” course. The skill path options are: Entrepreneur, Creative, and Business. Use the answers to categorize the my goals, work preferences, professional aspirations, and learning style to recommend the best path out of those three options. Here are the questions along with my answers:`*  
+- For Skill Path : *`Based on the answers I provide below, help determine the best skill path I should take to get the most out of my “The Complete AI Guide” course. The skill path options are: Entrepreneur, Creative, and Business. Use the answers to categorize the my goals, work preferences, professional aspirations, and learning style to recommend the best path out of those three options. Here are the questions along with my answers:`*  
 *`1. My primary goal with AI is [your input]`*  
 *`2. I prefer to work in the following way [your input]`*  
 *`3. My current professional role or ambition is [your input]`*   
 *`4. The best description of my approach to learning is [your input]`*  
 *`Based on these answers, provide a recommendation for which skill path I should take: Entrepreneur, Creative, or Business. Only choose from these three options. Also, explain why this path is the best fit for me.`*
-- *`As a life coach, you help people visualize their ideal futures. After reading the questions below, please map out what my day would look like if I were already living as the person I dream of being and fully achieving my goals. Include details about my daily routine, mindset, environment, and the people I interact with. Be as descriptive and inspiring as possible, while formatting your response into sections that still read like an inspiring narrative about my life.`*  
+- For Ideal Life : *`As a life coach, you help people visualize their ideal futures. After reading the questions below, please map out what my day would look like if I were already living as the person I dream of being and fully achieving my goals. Include details about my daily routine, mindset, environment, and the people I interact with. Be as descriptive and inspiring as possible, while formatting your response into sections that still read like an inspiring narrative about my life.`*  
 *`Here’s the information you need to know about me:`*
 *`1. The person I dream of being is [your input]`*  
 *`2. My biggest goals I want to achieve are [your input]`*  
