@@ -204,7 +204,9 @@ And we need to be very **used to** to this format of writing a prompt, then it'l
 
 
 
-#### 🔰Lesson 6 : 
+#### 🔰Lesson 6 :  
+
+----
 
 
 
@@ -215,6 +217,9 @@ And we need to be very **used to** to this format of writing a prompt, then it'l
 
 
 
+#### 🔰Lesson 7 :  
+
+----
 
 
 
@@ -224,6 +229,51 @@ And we need to be very **used to** to this format of writing a prompt, then it'l
 
 
 
-. . . .upto 🔰Lesson 11 . . . . .
+
+#### 🔰Lesson 8 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 9 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 10 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 11 :  
+
+
+
+
+
 
 
