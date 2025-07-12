@@ -279,7 +279,8 @@ And we need to be very **used to** to this format of writing a prompt, then it'l
 ----
 
 🔺PENDINGS🔻 :  
-• Can attach its corresponding PDFs in the chapter's title. . . . . . . .
+• Should i need to purchase ChatGPT subscription to learn this course, (OR) should i use other AI Tool to learn this course. . . . . . . .  
+• Can attach its corresponding PDFs in the chapter's title. . . . . . . .  
 
 
 
