@@ -205,6 +205,11 @@ And we need to be very **used to** to this format of writing a prompt, then it'l
 
 
 #### 🔰Lesson 6 : Identification/Symptom of good prompting  
+Some example of good prompts :   
+- *`Give me a marketing campaign idea.`*
+VS  
+*`I want you to act as a marketing specialist for a new fitness app made for busy moms.  The goal is to boost signups and downloads in the first 30 days.  Suggest three creative campaigns under $500.  Format it as a numbered list with 1 to 2 sentence descriptions.  Use warm and a supportive tone that speaks to overwhelmed moms in this scenario, and I want you to model the tone after this example, which is no time, no problem.  Quick workouts and real results. You've got this.`*
+
 
 
 ----
