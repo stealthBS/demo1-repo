@@ -215,6 +215,15 @@ VS
 *`3. My current professional role or ambition is [your input]`*   
 *`4. The best description of my approach to learning is [your input]`*  
 *`Based on these answers, provide a recommendation for which skill path I should take: Entrepreneur, Creative, or Business. Only choose from these three options. Also, explain why this path is the best fit for me.`*
+- For Skill Path (sample) : *`Based on the answers I provide below, help determine the best skill path I should take to get the most out of my 
+“The Complete AI Guide” course. The skill path options are: Entrepreneur, Creative, and Business. Use the answers 
+to categorize the my goals, work preferences, professional aspirations, and learning style to recommend the best 
+path out of those three options. Here are the questions along with my answers:`*  
+*`1. My primary goal with AI is: to automate repetitive design tasks so I can focus more on the creative side of my projects.`*  
+*`2. I prefer to work in the following way: independently, with flexible systems I can adjust as I go.`*  
+*`3. My current professional role or ambition is: I’m a freelance graphic designer looking to build a small creative agency.`*
+*`4. The best description of my approach to learning is: I’m self-taught and like to learn by doing, with real examples I can apply right away.`*
+*` Based on these answers, provide a recommendation for which skill path I should take: Entrepreneur, Creative, or Business. Only choose from these three options. Also, explain why this path is the best fit for me.`*  
 - For Ideal Life : *`As a life coach, you help people visualize their ideal futures. After reading the questions below, please map out what my day would look like if I were already living as the person I dream of being and fully achieving my goals. Include details about my daily routine, mindset, environment, and the people I interact with. Be as descriptive and inspiring as possible, while formatting your response into sections that still read like an inspiring narrative about my life.`*  
 *`Here’s the information you need to know about me:`*  
 *`1. The person I dream of being is [your input]`*  
