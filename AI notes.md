@@ -234,7 +234,7 @@ path out of those three options. Here are the questions along with my answers:`*
 <br>
 
 
-<h5 align="center">6-STEP prompt checklist [Cheat Sheet]</h5>  
+<h5 align="center">6-STEP prompt checklist [Cheat Sheet]</h5>
 We can able to craft any type of prompt but it must fulfills the below elements :  
 - [x] INSTRUCTION : Give it a clear, specific instruction to follow.  
 - [x] CONTEXT : What background does it need to know?  
