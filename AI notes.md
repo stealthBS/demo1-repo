@@ -256,6 +256,15 @@ We can able to craft any type of prompt but it must fulfills the below essential
 
 
 #### 🔰Lesson 7 :  . . . . . . .
+Here we can ask ChatGPT only to make a perfect prompt for us by uploading the '6-STEP prompt checklist. . . . . . .  
+*`asdf`*
+
+Example Prompt:
+ “Act as a [role]. Analyze this [example input], and 
+respond in [format] for [context].”
+
+
+. . . .3:30. . . .
 
 ----
 
