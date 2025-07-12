@@ -230,7 +230,14 @@ path out of those three options. Here are the questions along with my answers:`*
 *`2. My biggest goals I want to achieve are [your input]`*  
 *`3. The lifestyle I want to live is [your input]`*  
 *`4. The type of people I want to surround myself with are [your input]`*  
+<br>
+<br>
 
+
+<h5 align="center">6-STEP prompt checklist [Cheat Sheet]</h5>  
+We can able to craft any type of prompt but it must fulfills the below elements :  
+- [x] [INSTRUCTION] Give it a clear, specific instruction to follow.  
+- [x] [CONTEXT] What background does it need to know?  
 
 
 
