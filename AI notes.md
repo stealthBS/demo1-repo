@@ -244,10 +244,6 @@ We can able to craft any type of prompt but it must fulfills the below essential
 - [x] FORMATTING : How should the answer be structured?
 - [x] BOUNDRIES : Set limits on style, tone, length.  
 
-
-
-
-
 ----
 
 
@@ -259,7 +255,7 @@ We can able to craft any type of prompt but it must fulfills the below essential
 
 
 
-#### 🔰Lesson 7 :  
+#### 🔰Lesson 7 :  . . . . . . .
 
 ----
 
