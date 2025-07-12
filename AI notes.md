@@ -237,12 +237,12 @@ path out of those three options. Here are the questions along with my answers:`*
 <h5 align="center">6-STEP prompt checklist [Cheat Sheet]</h5>
 We can able to craft any type of prompt but it must fulfills the below essential elements/requirements :  
 
-- [x] INSTRUCTION : Give it a clear, specific instruction to follow.  
+- [x] INSTRUCTIONS : Give it a clear, specific instruction to follow.  
 - [x] CONTEXT : What background does it need to know?
 - [x] EXAMPLE : How should the response look?
 - [x] ROLE : Who should the AI act like?
 - [x] FORMATTING : How should the answer be structured?
-- [x] BOUNDRIES : Set limits on style, tone, length.
+- [x] BOUNDRIES : Set limits on style, tone, length.  
 
 
 
