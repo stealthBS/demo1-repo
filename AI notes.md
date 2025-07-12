@@ -204,7 +204,7 @@ And we need to be very **used to** to this format of writing a prompt, then it'l
 
 
 
-#### 🔰Lesson 6 : Identification/Symptom of good prompting  
+#### 🔰Lesson 6 : Identification/Symptom of good prompting & prompt crafting guideline 
 Let's see make some good prompts by using above 6 essential elements :   
 - *`Give me a marketing campaign idea.`*
 VS  
