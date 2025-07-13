@@ -286,7 +286,7 @@ It like providing enough information, then ask AI questions regarding it. We can
 
 *`Before we proceed with instructions, I will provide Wimbledon's 2024 match data.`*  
 *`>> 📤+Upload+ or copy-paste the Wimbledon 2024 data from wikipedia `*  
-So then it starts understand and reading the data.  
+So then it starts understand and reading the data. . . . .  
 And then we aks ChatGPT like :  
 *`Using only the data provided in this thread from Wimbledon 2024 match data, predict who will win Wimbledon 2025. Don't research the web for extra data.`*  
 And then it will do its analysis and provide us data.  
