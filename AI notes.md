@@ -276,7 +276,12 @@ So, then it start providing those specific data.
 And then to sum up (total) these expenses with catogorization, we prompt like :  
 *`Add up all the expenses and summarize them by category.`*
 
-So, we can do like this with any kind of complex documents. 
+So, we can do like this with any kind of complex documents.  
+
+<br>
+<br>
+
+<h5 align="center">priming . . .</h5>
 
 ----
 
