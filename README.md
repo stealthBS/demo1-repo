@@ -188,6 +188,7 @@ Check-up while hand-overing the Laptop :
 - [ ] Can do a factory reset. (But listen to his audio of phone call of recordings)  
 - [ ] atleast charge the laptop to 80%
 - [ ] clean any dirty present there.
+- [ ] **Remove finger print marks from all the items**. 
 - [ ] keep all thing at one place.
 
 
