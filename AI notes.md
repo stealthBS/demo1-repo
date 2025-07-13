@@ -306,7 +306,26 @@ So, basically here 'priming' data means, providing the AI first with data, and t
 
 
 
-#### 🔰Lesson 8 :  
+#### 🔰Lesson 8 : Prompt Chaining  
+Here we are create a type of prompt which includes a lot of tasks at a time, but we have asked it to AI in a sequence manner or in a step-by-step manner. It will be going to include a whole task e.g. about business and its marketing, etc.  
+
+For this kinds of tasks, we often include something something like below :  
+
+- *`Let's think step-by-step. . . .`*  
+- *`Before responding, ask me any clarifying questions about the target market, the product features, or any specific launch goals to better understand what I want.`*  
+- *`Write a product launch plan for smart home security cameras. Then, critique the plan for clarity, structure, and relevance, and suggest improvements.`*
+- *`Create a decision matrix comparing three marketing strategies (social media, email campaigns, and influencer partnerships) for a smart home security camera product launch. Compare them based on cost, reach, and potential ROI`*
+
+
+<br>
+<br>
+
+<h5 align="center">Reverse Prompt Engineering</h5>  
+Basically here we use the response given AI to find what will be the prompt for that particular response.  
+
+For example :  
+*`>> 📤+Upload+ or copy-paste the product lauch plan/design/pattern. . .`*  
+*`Here is the product launch plan for the smart home security cameras. Reverse engineer it to come up with the most likely prompt to have created this plan.`*  
 
 ----
 
