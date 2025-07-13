@@ -281,7 +281,18 @@ So, we can do like this with any kind of complex documents.
 <br>
 <br>
 
-<h5 align="center">priming . . .</h5>
+<h5 align="center">Prompt priming</h5>
+It like providing enough information, then ask AI questions regarding it. We can see an example here :  
+
+*`Before we proceed with instructions, I will provide Wimbledon's 2024 match data.`*  
+*`>> 📤+Upload+ or copy-paste the Wimbledon 2024 data from wikipedia `*  
+So then it starts understand and reading the data.  
+And then we aks ChatGPT like :  
+*`Using only the data provided in this thread from Wimbledon 2024 match data, predict who will win Wimbledon 2025. Don't research the web for extra data.`*  
+And then it will do its analysis and provide us data.  
+
+
+So, basically here 'priming' data means, providing the AI first with data, and then ask question regarding it. (If don't understand it, then this also we can also to ChatGPT like : *`what is Prompt priming? (tell me in simple)`*)  
 
 ----
 
