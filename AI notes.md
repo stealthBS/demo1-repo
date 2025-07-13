@@ -272,7 +272,11 @@ Suppose we upload a credit card statement, and from it we want only a specific d
 
 *`>> 📤+Upload+ the staement or we can copy-paste the whole list here`*  
 *`Remove any line items not related to travel. Keep only flights, hotels, rental cars, and public transport.`*  
+So, then it start providing those specific data.  
+And then to sum up (total) these expenses with catogorization, we prompt like :  
 *`Add up all the expenses and summarize them by category.`*
+
+So, we can do like this with any kind of complex documents. 
 
 ----
 
