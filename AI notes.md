@@ -257,7 +257,7 @@ We can able to craft any type of prompt but it must fulfills the below essential
 
 #### 🔰Lesson 7 :  . . . . . . .
 Here we can ask ChatGPT only to make a perfect prompt for us by uploading the '6-STEP prompt checklist' which we have learned above i.e. :  
-*`>>📤Upload the '6-STEP prompt checklist' file, then mentioned the below prompt`*  
+*`>>📤+Upload+ the '6-STEP prompt checklist' file, then mentioned the below prompt.`*  
 *`I want you to create the perfect prompt for crafting brand guidelines for my brand as a marketing freelancer. Please use the attached checklist to do so, and please use the Golden Circle framework (from Simon Sinek), while also indicating which section of the perfect prompt matches the elements from the checklist.`*
 
 Example Prompt:
