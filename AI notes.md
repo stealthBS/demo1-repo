@@ -234,7 +234,7 @@ path out of those three options. Here are the questions along with my answers:`*
 <br>
 
 
-<h5 align="center">6-STEP prompt checklist [Cheat Sheet]</h5>
+<h5 align="center">6-STEP prompt pattern checklist [Cheat Sheet]</h5>
 We can able to craft any type of prompt but it must fulfills the below essential elements/requirements, which are the anatomy of a good prompt :  
 
 - [x] INSTRUCTIONS : Give it a clear, specific instruction to follow.  
@@ -257,16 +257,22 @@ We can able to craft any type of prompt but it must fulfills the below essential
 
 #### 🔰Lesson 7 :  . . . . . . .
 Here we can ask ChatGPT only to make a perfect prompt for us by uploading the '6-STEP prompt checklist' which we have learned above i.e. :  
-*`>>📤+Upload+ the '6-STEP prompt checklist' file, then mentioned the below prompt.`*  
+*`>> 📤+Upload+ the '6-STEP prompt checklist' file, then mentioned the below prompt.`*  
 *`I want you to create the perfect prompt for crafting brand guidelines for my brand as a marketing freelancer. Please use the attached checklist to do so, and please use the Golden Circle framework (from Simon Sinek), while also indicating which section of the perfect prompt matches the elements from the checklist.`*  
-And if we don't understand the above prompt, then here also we can ask the ChatGPT to explain this in simple also.  
+And if we don't understand the above prompt only, then also we can ask the ChatGPT to explain this it in simple in a seperate chat.  
 
-Example Prompt:
- “Act as a [role]. Analyze this [example input], and 
-respond in [format] for [context].”
+Modular & Reusable Prompt pattern example : [just Plug & Play]  
+ *`“Act as a [role]. Analyze this [example input], and respond in [format] for [context].”`*  
 
+<br>
+<br>
 
-. . . .3:30. . . .
+<h5 align="center">Cleaning data with Prompt</h5>
+Suppose we upload a credit card statement, and from it we want only a specific details, so we prompt like :  
+
+*`>> 📤+Upload+ the staement or we can copy-paste the whole list here`*  
+*`Remove any line items not related to travel. Keep only flights, hotels, rental cars, and public transport.`*  
+*`Add up all the expenses and summarize them by category.`*
 
 ----
 
