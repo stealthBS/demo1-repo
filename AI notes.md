@@ -453,7 +453,7 @@ A GPT (Generative Pre-trained Transformer) is an advanced AI model designed to u
 
 
 
-#### 🔰Lesson 15 : 
+#### 🔰Lesson 15 :   asdf asdf asd fasdf . . . . . . Start from here . . . .
 
 ----
 
