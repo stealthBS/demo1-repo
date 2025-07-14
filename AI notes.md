@@ -230,7 +230,7 @@ path out of those three options. Here are the questions along with my answers:`*
 *`2. My biggest goals I want to achieve are [your input]`*  
 *`3. The lifestyle I want to live is [your input]`*  
 *`4. The type of people I want to surround myself with are [your input]`*
-- *`I am a beginner looking to build strength through weight training. I need a 6-day per week workout plan that is designed for home workouts and doesn’t require any equipment. Could you provide me with exercises, sets, and reps for each day?`*  
+- *`I am a beginner aiming to build strength through weight training at home. I can work out 6 days per week and don’t have any equipment. Could you create a progressive workout plan including bodyweight exercises, with sets, reps, and rest periods for each day? I would also like some variety in the exercises and a focus on overall strength building.`*  
 <br>
 <br>
 
