@@ -377,8 +377,8 @@ We can see below 2 tools which helps us to save our prompts :
 
 
 
-#### 🔰Lesson 10 :  . . . . .
-asdf asdf. . .
+#### 🔰Lesson 10 : What's is LLM (Large Language Model) in AI tools  
+
 
 ----
 
