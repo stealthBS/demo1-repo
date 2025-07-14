@@ -395,8 +395,9 @@ We can see below 2 tools which helps us to save our prompts :
 **Tokens :**  
 Whenever we writes prompt, then AI tool counts each word, symbol and special character a single Token.  
 
-
-
+We can follow some below links to know more about Tokens :  
+- https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them  
+- https://platform.openai.com/tokenizer
 
 
 ----
