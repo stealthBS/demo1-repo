@@ -400,6 +400,109 @@ We can follow some below links to know more about Tokens :
 - https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them  
 - https://platform.openai.com/tokenizer
 
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 12 :
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 13 : 
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 14 : 
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 15 : 
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 16 : 
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 17 : 
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 18 : 
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 19 : 
 
 ----
 ----
