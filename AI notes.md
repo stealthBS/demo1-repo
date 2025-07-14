@@ -314,7 +314,7 @@ For this kinds of tasks, we often include something something like below :
 - *`Let's think step-by-step. . . .`*  
 - *`Before responding, ask me any clarifying questions about the target market, the product features, or any specific launch goals to better understand what I want.`*  
 - *`Write a product launch plan for smart home security cameras. Then, critique the plan for clarity, structure, and relevance, and suggest improvements.`*
-- *`Create a decision matrix comparing three marketing strategies (social media, email campaigns, and influencer partnerships) for a smart home security camera product launch. Compare them based on cost, reach, and potential ROI`*
+- *`Create a decision matrix comparing three marketing strategies (social media, email campaigns, and influencer partnerships) for a smart home security camera product launch. Compare them based on cost, reach, and potential ROI.`*
 
 
 <br>
@@ -338,7 +338,8 @@ For example :
 
 
 
-#### 🔰Lesson 9 :  
+#### 🔰Lesson 9 :  . . . .   
+asdfasdf asdf
 
 ----
 
