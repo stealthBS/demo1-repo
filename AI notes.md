@@ -312,7 +312,8 @@ Here we are create a type of prompt which includes a lot of tasks at a time, but
 For this kinds of tasks, we often include something something like below :  
 
 - *`Let's think step-by-step. . . .`*  
-- *`Before responding, ask me any clarifying questions about the target market, the product features, or any specific launch goals to better understand what I want.`*  
+- *`Before responding, ask me any clarifying questions about the target market, the product features, or any specific launch goals to better understand what I want.`* [Ask Before 
+Answering]  
 - *`Write a product launch plan for smart home security cameras. Then, critique the plan for clarity, structure, and relevance, and suggest improvements.`*
 - *`Create a decision matrix comparing three marketing strategies (social media, email campaigns, and influencer partnerships) for a smart home security camera product launch. Compare them based on cost, reach, and potential ROI.`*
 
@@ -339,7 +340,31 @@ For example :
 
 
 #### 🔰Lesson 9 :  . . . .   
-asdfasdf asdf
+**Prompt Chaining Example :**  
+Prompt Chaining is perfect when you want the AI to help you complete a multi-step task i.e.  
+- *`Summarize the top three benefits of the product.`*
+- *`Write three email subject lines that highlight those benefits.`*
+- *`Draft a full announcement email based on those subject lines.`*
+
+**Decision Matrix Example :**  
+When you’re comparing options—like job offers, project bids, or product strategies—it helps to lay everything out side by side, i.e.  
+- *`Create a decision matrix comparing these three projects based on pay, timeline, client quality, and long-term potential.`*
+
+**Tree of Thought Example**  
+Tree of Thought is perfect when you want the AI to explore multiple strategies before picking the best one. Like, when we want creativity first, clarity second, i.e.  
+- *`Brainstorm three to five creative campaign ideas for launching a new AI productivity tool. Using Tree of Thought reasoning, explore different marketing approaches. Then, evaluate each idea based on reach, cost, and fit for a startup budget, and recommend the best one.`*
+
+
+<br>
+<br>
+
+<h5 align="center">Build Your Prompt Library (OR) Save prompt & use it as assets</h5>  
+Start building your own library of high-performing prompts you can reuse, remix, or hand off to your team. It’s like building your own creative toolkit—and every 
+great tool saves you time.  
+
+We can see below 2 tools which helps us to save our prompts :  
+- [Prompster](https://chromewebstore.google.com/detail/prompster/fbagfekcjdidpmmookklbaeddgkjddml) : It's basically an chrome browser's extension which . . . .
+- [PromptHub](https://www.prompthub.us/) : It's a site/platform which . . . .  
 
 ----
 
