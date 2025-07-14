@@ -437,7 +437,10 @@ We can follow some below links to know more about Tokens :
 
 
 
-#### 🔰Lesson 14 : 
+#### 🔰Lesson 14 : What is a GPT?  
+A GPT (Generative Pre-trained Transformer) is an advanced AI model designed to understand and generate human-like text.  
+
+> Pro Tip : While using any ready-made pre-built GPTs versions for any work (e.g. job search, resume/CV making, video generation), we are doing a search for a perfect fit/suit for us through the search box. Now here while searching the perfect GPT tool : we can go-with/select the **top ranked GPT** have had **thousands of conversations** and **reviews** to get to the top GPT tool, so when we see those high numbers, we can feel confident that they've been tested and proven by a lot of users. It just like : Think of them like downloads or views on an app or video in playstore or Youtube. The higher the number, the more people are actively using it and trusting the tool, which usually means a smoother experience and proven results. Here is an example for '[Business Email Writer](https://chatgpt.com/g/g-nyYbFsNcz-professional-business-email-writer)' GPT tool which have a higher no. of user & actively chats.  
 
 ----
 
