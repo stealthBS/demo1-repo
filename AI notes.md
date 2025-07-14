@@ -363,8 +363,8 @@ Start building your own library of high-performing prompts you can reuse, remix,
 great tool saves you time.  
 
 We can see below 2 tools which helps us to save our prompts :  
-- [Prompster](https://chromewebstore.google.com/detail/prompster/fbagfekcjdidpmmookklbaeddgkjddml) : It's basically an chrome browser's extension which . . . .
-- [PromptHub](https://www.prompthub.us/) : It's a site/platform which . . . .  
+- [Prompster](https://chromewebstore.google.com/detail/prompster/fbagfekcjdidpmmookklbaeddgkjddml) : It's basically an chrome browser's extension which saves prompts inside the browser only. It's free, lightweighted, and easy to use option.  
+- [PromptHub](https://www.prompthub.us/) : It's a paid site/platform which helps us for building, storing, and even sharing your prompt libraries. It also porvides some advance tools to manage all our prompts effeciently.  
 
 ----
 
@@ -377,7 +377,8 @@ We can see below 2 tools which helps us to save our prompts :
 
 
 
-#### 🔰Lesson 10 :  
+#### 🔰Lesson 10 :  . . . . .
+asdf asdf. . .
 
 ----
 
