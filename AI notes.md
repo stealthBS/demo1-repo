@@ -391,7 +391,10 @@ We can see below 2 tools which helps us to save our prompts :
 
 
 
-#### 🔰Lesson 11 :  
+#### 🔰Lesson 11 :  How LLM's thinks  
+**Tokens :**  
+Whenever we writes prompt, then AI tool counts each word, symbol and special character a single Token.  
+
 
 
 
