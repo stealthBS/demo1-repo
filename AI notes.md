@@ -358,7 +358,7 @@ Tree of Thought is perfect when you want the AI to explore multiple strategies b
 <br>
 <br>
 
-<h5 align="center">Build Your Prompt Library (OR) Save prompt & use it as assets</h5>  
+<h5 align="center">Build Your Prompt Library (OR) Save prompts & use it as assets whenever needed</h5>  
 Start building your own library of high-performing prompts you can reuse, remix, or hand off to your team. It’s like building your own creative toolkit—and every 
 great tool saves you time.  
 
