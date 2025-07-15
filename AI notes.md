@@ -459,7 +459,10 @@ A GPT (Generative Pre-trained Transformer) is an advanced AI model designed to u
 #### 🔰Lesson 15 : Practical use of ready-made pre-built GPTs versions  
 We can use these ready-made GPTs for various purpose i.e. : From writing viral LinkedIn posts to creating research reports, meal plans, and even videos, etc. which can seriously change the game.  
 
-For example let's see how to use the GPT tool for LinkedIn post creating. Suppose we select a GPT tool i.e. [Viral Linkedin Post Formatter](https://chatgpt.com/g/g-hYB5bT7ZL-viral-linkedin-post-formatter) (or [Professional LinkedIn Post Writer](https://chatgpt.com/g/g-wzCQWPdaA-professional-linkedin-post-writer)).  
+For example let's see how to use the GPT tool for LinkedIn post creating. Suppose we select a GPT tool i.e. [Viral Linkedin Post Formatter](https://chatgpt.com/g/g-hYB5bT7ZL-viral-linkedin-post-formatter) (or [Professional LinkedIn Post Writer](https://chatgpt.com/g/g-wzCQWPdaA-professional-linkedin-post-writer)). Then we can use a prompt here like :  
+- *`Help me write a professional post for my new clothing brand for university graduates that are entrepreneurs and their lifestyle is around improving their lives. The brand's tone is dry, Motivational and masculine.`*
+
+asdf
 
 ----
 
