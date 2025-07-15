@@ -459,19 +459,34 @@ A GPT (Generative Pre-trained Transformer) is an advanced AI model designed to u
 #### 🔰Lesson 15 : Practical use of ready-made pre-built GPTs versions  
 We can use these ready-made GPTs for various purpose i.e. : From writing viral LinkedIn posts to creating research reports, meal plans, and even videos, etc. which can seriously change the game. So, we'll see some examples how to use these GPT tools.  
 
-- Example 1 :  
+- Example 1 :
+
 Let's see how to use the GPT tool for LinkedIn post creating, suppose we select [Viral Linkedin Post Formatter](https://chatgpt.com/g/g-hYB5bT7ZL-viral-linkedin-post-formatter) (or [Professional LinkedIn Post Writer](https://chatgpt.com/g/g-wzCQWPdaA-professional-linkedin-post-writer)) GPT tool which is trained on to create popular LinkedIn posts. Then we can use a prompt here like : *`Help me write a professional post for my new clothing brand for university graduates that are entrepreneurs and their lifestyle is around improving their lives. The brand's tone is dry, Motivational and masculine.`*
 
-- Example 2 :  
+
+
+- Example 2 :
+
 Let's see how to use a GPT tool from productivity catogory, suppose we select [Whimsical Diagrams](https://chatgpt.com/g/g-vI2kaiM9N-whimsical-diagrams) GPT tool which helps to create visuals, mind maps, diagrams, and flowcharts super easily. Then we can use a prompt here like : *`Break down the Hero's Journey storytelling framework in a diagram (markmap/mindmap).`* - then click on 'Allow' option to continue.
 
-- Example 3 :  
+
+
+- Example 3 :
+
 Let's see how to use a GPT tool from research catogory, suppose we select [Research AI](https://chatgpt.com/g/g-gXRmUyjL3-research-ai) GPT tool which helps us to gather company info across tons of industries and topics. Then we use a prompt here like : *`Provide a list of the top 10 VC funds in the US that invest in startups.`*
 
-- Example 4 :  
+
+
+
+- Example 4 :
+
 Let's see how to use a GPT tool from lifestyle catogory, suppose we select [Grocery and Meal Prep Planner](https://chatgpt.com/g/g-LnrvSic8k-grocery-and-meal-prep-planner) GPT tool which helps us to prepare a proper meal plan according to our weight-training goal. Then we use a prompt here like : *`I'm a 23 year old male. I'm about 1.8m tall. I weigh 68kg. I'm looking to have a meal plan that provides energy throughout the day, helps gain muscle mass and weight, as I'm also going to the gym. Create multiple meal plans with different budget ranges. While the goal is the same, suggest meals that someone that is a beginner at cooking can handle.`*. With this we can even also for groceries list, ingredients, and also ask for cuisines also.
 
-- Example 5 :  
+
+
+
+- Example 5 :
+
 Let's see how to use the GPT tool for vidoe making, suppose we select [Video GPT by VEED](https://chatgpt.com/g/g-Hkqnd7mFT-video-gpt-by-veed-instant-free-ai-video-maker) GPT tool which helps us to make instant & free AI videoes. Then we use a prompt here like : *`Create a short story about an alchemist crafting a healing potion inside his workshop.`*, then it will also few followup questions for which we replies : *`inspiring and poetic, there should be a takeaway in the story fantasy enthusiasts 20 seconds`*  
 
 
