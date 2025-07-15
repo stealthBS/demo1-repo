@@ -463,6 +463,9 @@ We can use these ready-made GPTs for various purpose i.e. : From writing viral L
 Let's see how to use the GPT tool for LinkedIn post creating, suppose we select a GPT tool i.e. [Viral Linkedin Post Formatter](https://chatgpt.com/g/g-hYB5bT7ZL-viral-linkedin-post-formatter) (or [Professional LinkedIn Post Writer](https://chatgpt.com/g/g-wzCQWPdaA-professional-linkedin-post-writer)). Then we can use a prompt here like : *`Help me write a professional post for my new clothing brand for university graduates that are entrepreneurs and their lifestyle is around improving their lives. The brand's tone is dry, Motivational and masculine.`*
 
 - Example 2 :
+Let's see how to use a GPT tool from productivity catogory, suppose we select [Whimsical Diagrams](https://chatgpt.com/g/g-vI2kaiM9N-whimsical-diagrams) GPT tools which helps to create visuals, mind maps, diagrams, and flowcharts super easily. Then we can use a prompt here like : *`Break down the Hero's Journey storytelling framework in a diagram.`* - then click on 'Allow' option to continue.
+
+
 
 
 ----
