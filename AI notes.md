@@ -51,7 +51,7 @@ ChatGPT have some plans or memberships i.e. : Free, Plus (paid), Pro/Team/Enterp
 
 #### 🔰Lesson 1 : [**Attach PDF] 
 
-Use AI tools to increase productivity, learn more skills with : less effort - less time - ease, make AI as your assistant/copilot and make AI to use your work smartly & smoothly just by giving it accurate/proper prompt.  
+Use AI tools to increase productivity, learn more skills with : less effort - less time - ease, make AI as your assistant/copilot and make AI to use your work smartly & smoothly just by giving it accurate/proper prompt. Here we can understand something like : Google is like Library then ChatGPT is like Librarian.  
 
 ---
 
