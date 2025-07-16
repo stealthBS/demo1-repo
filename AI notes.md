@@ -519,8 +519,20 @@ Similarly, '**Create an Image**' feature quickly creating polished visuals, mock
 
 
 
-#### 🔰Lesson 18 : 
+#### 🔰Lesson 18 : ChatGPT's AI image generation  
+Let's enable the '🖼 create image' option from the prompt box of ChatGPT, then see some good examples below.  
 
+- Example 1 :
+Now, imagine we're a teacher preparing a lesson on the water cycle and need a visual to explain a concept. For example, we need a simple diagram, something with arrows, labels, and something that's clean and easy to follow.  
+
+And to generate like this image we use the following pormpt :  
+*`Create a simple diagram of the water cycle. Include labeled arrows for 'evaporation', 'condensation', 'precipitation' and 'collection'. Use a clean, minimal style with clear headings and soft blue tones.`*  
+
+And if we are teaching more younger students which needs playful & colorful diagram, then prompt will be :  
+*`Make the same diagram more playful and colorful, with cartoon-style illustrations and bold text labels.`*  
+
+- Example 2 :
+asdf
 ----
 
 
