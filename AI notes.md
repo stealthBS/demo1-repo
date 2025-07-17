@@ -562,17 +562,20 @@ And to generate the logo we prompt like :
 And to more improve the logo, we prompt like :  
 *`Make the same icons in outline style with thin, sharp lines.`*  
 
-- Example : 5
+- Example 5 :
+
 Suppose we **upload** a photo of our living room, and prompt like :
 *`Give me three design ideas to make this space feel more cozy and warm.`*
 
 
-- Example : 6
+- Example 6 :
+
 Suppose we upload a unknown plant, as chatgpt like :
 *`What kind of plant is this, and how do I care it?`*
 
 
-- Example : 7
+- Example 7 :
+
 Suppose we have a lot of handwritten meeting notes or handwritten to do lists. We can simply just take a photo and ask ChatGPT to *`Convert this to text and highlight the main updates and action points.`*
 
 ----
