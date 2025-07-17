@@ -612,11 +612,290 @@ Suppose we have a lot of handwritten meeting notes or handwritten to do lists. W
 
 So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/banner without having problems.  
 
-
-----
 ----
 
 
 
 
 
+
+
+
+
+
+#### 🔰Lesson 20 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 21 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 22 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 23 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 24 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 25 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 26 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 27 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 28 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 29 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 30 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 31 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 32 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 33 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 34 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 35 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 36 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 37 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 38 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 39 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 40 :  
+
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 41 :  
+
+----
