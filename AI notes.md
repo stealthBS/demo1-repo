@@ -25,6 +25,14 @@
 • Option 2 : very slow, can't utilized the technology
   Try to learn only one section of video per day. . . .
 
+<br>
+<br> 
+<br>
+
+
+🔺PENDINGS🔻 :  
+• Should i need to purchase ChatGPT subscription to learn this course, (OR) should i use other AI Tool to learn this course. . . . . . . .  
+• Can attach its corresponding PDFs in the chapter's title. . . . . . . .  
 
 
 
@@ -606,9 +614,7 @@ So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/ban
 ----
 ----
 
-🔺PENDINGS🔻 :  
-• Should i need to purchase ChatGPT subscription to learn this course, (OR) should i use other AI Tool to learn this course. . . . . . . .  
-• Can attach its corresponding PDFs in the chapter's title. . . . . . . .  
+
 
 
 
