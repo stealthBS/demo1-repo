@@ -730,7 +730,7 @@ Take help of [200 best ChatGPT prompts list](https://leapyearlearning.mykajabi.c
 Can also follow below some simple prompt starters :  
 - Define the following **terms** and give a **metaphor** . . . .
 - Elaborate on the **purpose** of . . . .
-- Create a **template** of . . . .
+- Create a **template** for . . . .
 - Construct an **outline** for this podcast . . . .
 - Help me create a **budget plan** for . . . .
 - Suggest some creative **writing prompts** to get me started . . . .
