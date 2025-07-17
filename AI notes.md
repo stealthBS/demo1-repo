@@ -623,7 +623,8 @@ So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/ban
 
 
 
-#### 🔰Lesson 20 :  
+#### 🔰Lesson 20 : [Effectively Creating Prompts](https://leapyearlearning.mykajabi.com/blog/prompting-the-art-of-creating-effective-prompts-for-llm-s)  
+
 
 ----
 
