@@ -692,6 +692,8 @@ Follow the [Pormpt engineering guide](https://www.dropbox.com/scl/fi/65ccdaeps0o
 
 #### 🔰Lesson 24 : What is Prompt Engineering?  
 
+Follow the [link](https://leapyearlearning.mykajabi.com/blog/a-comprehensive-guide-to-prompt-engineering) to know more about 'Prompt Engineering'.  
+
 ----
 
 
@@ -703,7 +705,10 @@ Follow the [Pormpt engineering guide](https://www.dropbox.com/scl/fi/65ccdaeps0o
 
 
 
-#### 🔰Lesson 25 :  
+#### 🔰Lesson 25 : Prompt Priming  
+Guiding & Training the GPT model before prompting can understand as prompt priming. It helps the GPT to generate more relevant responses for the users.  
+
+ChatGPT can able to replicate our speaking style, tone, grammar, and the word we're using. 
 
 ----
 
