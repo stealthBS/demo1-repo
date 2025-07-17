@@ -596,9 +596,9 @@ Suppose we have a lot of handwritten meeting notes or handwritten to do lists. W
 - In the '⚙Settings' of ChatGPT, there is an option whether our data should share with ChatGPT team to improve (Model imporvement feature) the GPT model, and for this if we want we can 'disable/OFF' this option.  
 - If we want we can also disable the 'Memory' feature of the ChatGPT which saves our preferences, reference past conversations, and personalize responses. While these features can make interactions smoother, they also mean that ChatGPT is storing contextual data about us.
 - Never share confidential information with ChatGPT or any other AI tool.
-- Unsafe prompt be like `Analyze confidential Q2 sales figures for Company X.`❌. But safe prompt be like : *`Analyze a sample set of quarterly sales data and suggest improvements.`*✅. So like this our personal data can't be exposed.  
-- Unsafe prompt be like `Summarize the 2025 financial report for XYZ Corporation.`❌. But safe prompt be like : *`Summarize a sample quarterly financial report focusing on revenue trends and opportunities.`*✅.
-- Unsafe prompt be like `Draft an apology email to our investor Jane Doe about product delays.`❌. But safe prompt be like : *`Draft a professional email informing a stakeholder about a timeline adjustment.`*✅.
+- Unsafe prompt be like `Analyze confidential Q2 sales figures for Company X.`❌. But safe prompt be like : *`Analyze a sample set of quarterly sales data and suggest improvements.`* ✅. So like this our personal data can't be exposed.  
+- Unsafe prompt be like `Summarize the 2025 financial report for XYZ Corporation.`❌. But safe prompt be like : *`Summarize a sample quarterly financial report focusing on revenue trends and opportunities.`* ✅.  
+- Unsafe prompt be like `Draft an apology email to our investor Jane Doe about product delays.`❌. But safe prompt be like : *`Draft a professional email informing a stakeholder about a timeline adjustment.`* ✅.  
 
 So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/banner without having problems.  
 
