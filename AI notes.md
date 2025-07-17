@@ -708,7 +708,9 @@ Follow the [link](https://leapyearlearning.mykajabi.com/blog/a-comprehensive-gui
 #### 🔰Lesson 25 : Prompt Priming  
 Guiding & Training the GPT model before prompting can understand as prompt priming. It helps the GPT to generate more relevant responses for the users.  
 
-ChatGPT can able to replicate our speaking style, tone, grammar, and the word we're using. 
+ChatGPT can able to replicate our speaking style, tone, grammar, and the word we're using.  
+
+To see its some of the examples & how it makes differences follow this [Ebook](https://www.dropbox.com/scl/fi/65ccdaeps0o83m2271woa/PROMPT-ENGINEERING-GUIDE-2024.pdf?rlkey=jy51w3jgsc5j2yzr7svli5kcl).  
 
 ----
 
