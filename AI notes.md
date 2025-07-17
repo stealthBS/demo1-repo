@@ -55,6 +55,8 @@ ChatGPT have some plans or memberships i.e. : Free, Plus (paid), Pro/Team/Enterp
 
 Use AI tools to increase productivity, learn more skills with : less effort - less time - ease, make AI as your assistant/copilot and make AI to use your work smartly & smoothly just by giving it accurate/proper prompt. Here we can understand something like : Google is like Library then ChatGPT is like Librarian.  
 
+Take a moment to think about one new skill you've always wanted to grow, maybe it's storytelling, data analysis, public speaking, or design thinking. Now imagine having a coach who can help you explore that skill through real time feedback, curated resources, and step by step guidance. That's how AI can serve as your personal coach, your practice partner, your second brain, and your creative collaborator all in one. Focus on strengthening your critical thinking, emotional intelligence, creative problem solving, adaptability, leadership, and communication.  
+
 ---
 
 
@@ -589,7 +591,17 @@ Suppose we have a lot of handwritten meeting notes or handwritten to do lists. W
 
 
 
-#### 🔰Lesson 19 : 
+#### 🔰Lesson 19 : Use AI Safely and Responsibly  
+
+- In the '⚙Settings' of ChatGPT, there is an option whether our data should share with ChatGPT team to improve (Model imporvement feature) the GPT model, and for this if we want we can 'disable/OFF' this option.  
+- If we want we can also disable the 'Memory' feature of the ChatGPT which saves our preferences, reference past conversations, and personalize responses. While these features can make interactions smoother, they also mean that ChatGPT is storing contextual data about us.
+- Never share confidential information with ChatGPT or any other AI tool.
+- Unsafe prompt be like `Analyze confidential Q2 sales figures for Company X.`❌. But safe prompt be like : *`Analyze a sample set of quarterly sales data and suggest improvements.`*✅. So like this our personal data can't be exposed.  
+- Unsafe prompt be like `Summarize the 2025 financial report for XYZ Corporation.`❌. But safe prompt be like : *`Summarize a sample quarterly financial report focusing on revenue trends and opportunities.`*✅.
+- Unsafe prompt be like `Draft an apology email to our investor Jane Doe about product delays.`❌. But safe prompt be like : *`Draft a professional email informing a stakeholder about a timeline adjustment.`*✅.
+
+So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/banner without having problems.  
+
 
 ----
 ----
