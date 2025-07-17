@@ -631,6 +631,19 @@ Take help of GitHub [prompt book](https://github.com/f/awesome-chatgpt-prompts) 
 
 Take help of the above prompts example to get an idea to write your own prompt according to need.  
 
+----
+
+
+
+
+
+
+
+
+
+
+#### 🔰Lesson 21 : Use 'Modifiers' in prompts for Better Outputs  
+
 
 ----
 
@@ -643,20 +656,13 @@ Take help of the above prompts example to get an idea to write your own prompt a
 
 
 
-#### 🔰Lesson 21 :  
+#### 🔰Lesson 22 : Prompt practise  
+Ask ChatGPT to act as a specific role in your prompt, use the prompt formula that we discussed, and use specific modifiers.  
 
-----
+Let's take another similar example :  
+*`I want you to act as a Michelin star chef and create a recipe for yellow curry`* OR  
+*`Act as a travel guide and plan a 6 day trip to Paris for a family trip.`*  
 
-
-
-
-
-
-
-
-
-
-#### 🔰Lesson 22 :  
 
 ----
 
