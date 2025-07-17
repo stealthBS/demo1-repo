@@ -690,7 +690,7 @@ Follow the [Pormpt engineering guide](https://www.dropbox.com/scl/fi/65ccdaeps0o
 
 
 
-#### 🔰Lesson 24 :  
+#### 🔰Lesson 24 : What is Prompt Engineering?  
 
 ----
 
