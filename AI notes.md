@@ -625,7 +625,7 @@ So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/ban
 
 #### 🔰Lesson 20 : Effectively Creating Prompts  
 
-Take help of [The Art fo creating effective prompt]([The Art of Creating Effective Prompts](https://leapyearlearning.mykajabi.com/blog/prompting-the-art-of-creating-effective-prompts-for-llm-s) link. 
+Take help of [The Art fo creating effective prompt](https://leapyearlearning.mykajabi.com/blog/prompting-the-art-of-creating-effective-prompts-for-llm-s) link. 
 
 Take help of GitHub [prompt book](https://github.com/f/awesome-chatgpt-prompts) link to write good prompts. 
 
