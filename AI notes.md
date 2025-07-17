@@ -532,8 +532,49 @@ And to generate like this image we use the following pormpt :
 And if we are teaching more younger students which needs playful & colorful diagram, then prompt will be : 
 *`Make the same diagram more playful and colorful, with cartoon-style illustrations and bold text labels.`*  
 
-- Example 2 :
-asdf
+- Example 2 :  
+
+Now we want to create something more artistic, like an illustration for a newsletter or a book chapter. Suppose we want to write about forest conservation and want a peaceful illustration of a forest at sunset. And to generate this image we prompt like : *`Create an illustration of a forest at sunset.`*.  
+
+But if it visually not attractive, then we change the prompt like :  
+*`Create an illustration of a forest at sunset. Make it cinematic, higly stylized, with vivid colors, dramatic lighting, and lots of visual depth.`*  
+
+And if we need more softer storybook feel instead, then we use here the prompt like :  
+*`Restyle the same image in the style of a Studio Ghibli illustration-soft, hand-painted, and whimsical.`*  
+
+- Example 3 :
+
+Now let's see how to create a logo. Suppose we just launched a vegan bakery called Green Crumbs. We want to create a clean, modern logo that feels fresh and simple.  
+
+And to generate this logo we prompt like :  
+*`Design a logo for a vegan bakery called Green Crumbs with a transparent background. Include a stylized green leaf and a bread icon. Make it modern and minimal, using a soft pastel color palette.`*  
+
+And if we want to add a tagline to the logo, we can prompt like :  
+*`Add the tagline 'Fresh, Plant-based, Delicious' underneath the logo in a clean, san-serif font.`*  
+
+- Example 4 :
+
+Now let's see how to make a set of app icons. Suppose we're building a finance app and we need clean icons, which would be a dollar sign, a piggy bank, a credit card, a bar chart, and a wallet.  
+
+And to generate the logo we prompt like :  
+*`Create a set of 5 Simple flat design icons for a finance app : a dollar sign, a piggy bank, a credit cart, a bar chart, and a wallet. Use a blue color scheme and minimal style.`*  
+
+And to more improve the logo, we prompt like :  
+*`Make the same icons in outline style with thin, sharp lines.`*  
+
+- Example : 5
+Suppose we **upload** a photo of our living room, and prompt like :
+*`Give me three design ideas to make this space feel more cozy and warm.`*
+
+
+- Example : 6
+Suppose we upload a unknown plant, as chatgpt like :
+*`What kind of plant is this, and how do I care it?`*
+
+
+- Example : 7
+Suppose we have a lot of handwritten meeting notes or handwritten to do lists. We can simply just take a photo and ask ChatGPT to *`Convert this to text and highlight the main updates and action points.`*
+
 ----
 
 
