@@ -196,7 +196,12 @@ Check-up while hand-overing the Laptop :
 
 
 
+----
 
+😁
+- https://youtu.be/6Eb629RpnQA
+- https://youtube.com/shorts/WBgmc04DuDc
+- https://youtube.com/shorts/B0SiPSOUHns
 
 
 
