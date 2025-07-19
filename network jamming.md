@@ -17,8 +17,8 @@ asdf asdf
 ## Bluetooth DOS attack
 
 #### Step 1 : Bluetooth Enable (optional)
-Check whether the Bluetooth is enable or not. If not enable then enable it and proceed to next step.  
-But if the Bluetooth icon not fount, or it's not enabling, then follow the below commands :   
+Check whether the Bluetooth is enabled or not. If not enabled then enable it and proceed to **next step**. But if the Bluetooth icon not appearing, or it's not enabling, then follow the below commands :   
 ```
 ~$ asdf
+~# asdf
 ```
