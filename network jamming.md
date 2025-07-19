@@ -1,6 +1,9 @@
-<h1 align="center">Network Jamming / Deauth. Attacking / Network Spoofing</h1>
+<h1 align="center">Network Jamming / Network Spoofing</h1>
 
-## Deauth. Attack on particular Wi-Fi client or the particular Wi-Fi network's all clients or all Wi-Fi networks
+## Deauth. attack  
+(on **a client** of particular Wi-Fi's network (specific if have/know mac addreess) // on all clients of a particular Wi-Fi's network // on all Wi-Fi networks directly 
+
+The **Deauth** attack perform on Wi-Fi (802.11) network only. It won't affect those people who are using internet via Ethernet cable (IEEE 802.3) i.e. wired cable. 
 
 
 
