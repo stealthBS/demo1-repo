@@ -27,3 +27,8 @@ Check whether the Bluetooth is enabled or not. If not enabled then enable it and
 ~$ asdf
 ~# asdf
 ```
+
+<br>
+
+#### Step 2 :  
+asdf
