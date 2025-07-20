@@ -16,7 +16,7 @@ The **Deauth** attack perform on Wi-Fi (802.11) network only. It won't affect th
 
 
 #### Step 1 : Setup for Attack
-First we need to convert the wlan0 interface to wlan0mon interface, basically we are do setup & enabling the Wi-Fi's monitoring mode to do attack. For this we use the following commands :  
+First we need to convert the 'wlan0' interface to 'wlan0mon' interface, basically we are do setup & enabling the Wi-Fi's monitoring mode to do attack. For this we use the following commands :  
 ```
 sudo su
 iwconfig
