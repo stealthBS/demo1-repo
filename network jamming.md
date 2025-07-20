@@ -10,7 +10,7 @@ The **Deauth** attack perform on Wi-Fi (802.11) network only. It won't affect th
 > But to attack on Ethernet cable using clients, the methods are : ARP Spoofing / ARP Poisoning (Man-in-the-Middle Attack), DHCP Starvation or Rogue DHCP Attack, Switch MAC Flooding (CAM Table Overflow). But these we won't learn here, or maybe we'll learn it later.
 
 `~$` is local user.  
-`~#` is root user.  
+`~#` is root user.   
 
 
 
