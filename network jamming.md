@@ -5,7 +5,11 @@
 The **Deauth** attack perform on Wi-Fi (802.11) network only. It won't affect those people who are using internet via Ethernet cable (IEEE 802.3) i.e. wired cable. The target of this attach have 3 types :  
 - [x] Attack on **a particular client** of a particular Wi-Fi's network (specific client if have/know his mac addreess)
 - [x] Attack on **all clients** of a particular Wi-Fi's network (if don't know any client's MAC address)
-- [x] Attack on **all Wi-Fi** available networks/routers directly. 
+- [x] Attack on **all Wi-Fi** available networks/routers directly.
+
+> But to attack on Ethernet using clients, the methods are : ARP Spoofing / ARP Poisoning (Man-in-the-Middle Attack), DHCP Starvation or Rogue DHCP Attack, Switch MAC Flooding (CAM Table Overflow). But these we won't learn here, or maybe we'll learn it later.
+
+
 
 
 
