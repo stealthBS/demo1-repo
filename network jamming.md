@@ -12,7 +12,7 @@ The **Deauth** attack perform on Wi-Fi (802.11) network only. It won't affect th
 `~$` is local user.  
 `~#` is root user.  
 
-> Here :
+> Here :  
 > for `-c` we mention channel no. of Wi-Fi network  
 > for `-bssid` we mention the BSSID of Wi-Fi network  
 > for `__STATION__` we mention the station/MAC-address of the Client  
