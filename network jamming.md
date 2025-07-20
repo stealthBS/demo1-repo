@@ -150,7 +150,7 @@ sudo git clone https://github.com/jieggiI/BLUETOOTH-DOS-ATTACK-SCRIPT.git
 cd BLUETOOTH-DOS-ATTACK-SCRIPT/
 python3 Bluetooth-DOS-Attack.py
 ```
-Here, the `git clone` command may ask for your 'username' & 'password' of GitHub account.  
+Here, the `git clone` command may ask for your 'username' & 'password' of GitHub account. But if it won't work, then we can use `https://github.com/crypt0b0y/BLUETOOTH-DOS-ATTACK-SCRIPT` instead of `https://github.com/jieggiI/BLUETOOTH-DOS-ATTACK-SCRIPT.git`.  
 <br>
 <br>
 
