@@ -110,6 +110,8 @@ But this is not required as of now for us.
 
 ## Bluetooth DOS attack
 
+***Internet is mandatory here.
+
 #### Step 1 : Setup Bluetooth Enable (optional)
 Check whether the Bluetooth is enabled or not. If not enabled then enable it and proceed to **next step**. But if the Bluetooth icon is not appearing, or it's not enabling, then follow the below commands :   
 ```
