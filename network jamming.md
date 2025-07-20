@@ -1,9 +1,11 @@
 <h1 align="center">Network Jamming / Network Spoofing</h1>
 
 ## Deauth. attack  
-(on **a client** of particular Wi-Fi's network (specific if have/know mac addreess) // on all clients of a particular Wi-Fi's network // on all Wi-Fi networks directly 
 
-The **Deauth** attack perform on Wi-Fi (802.11) network only. It won't affect those people who are using internet via Ethernet cable (IEEE 802.3) i.e. wired cable. 
+The **Deauth** attack perform on Wi-Fi (802.11) network only. It won't affect those people who are using internet via Ethernet cable (IEEE 802.3) i.e. wired cable. The target of this attach have 3 types :  
+- [x] Attack on **a client** of particular Wi-Fi's network (specific client if have/know his mac addreess)
+- [x] Attack on **all clients** of a particular Wi-Fi's network (if don't know any client's MAC address)
+- [x] Attack on **all Wi-Fi** available networks/routers directly. 
 
 
 
