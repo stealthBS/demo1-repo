@@ -20,6 +20,7 @@ First we need to convert the 'wlan0' interface to 'wlan0mon' interface, basicall
 ```
 sudo su
 iwconfig
+ifconfig wlan0
 airmon-ng
 iwconfig wlan0
 // airmon-ng start wlan0
