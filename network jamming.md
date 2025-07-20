@@ -69,6 +69,7 @@ airodump-ng -c_ -d "__BSS-ID__" wlan0mon
 ```
 **Don't close it, keep running**. So, here we need to mentioned a particular Wi-Fi network's BSSID & channel no. And from this we are setting to attack on a particular Wi-Fi network. If want to attack all network then don't mention BSSID & channel no.
 <br>
+<br>
 
 
 #### Step 4 : Attacking (on particular Client // on all Clients)
