@@ -7,13 +7,16 @@ The **Deauth** attack perform on Wi-Fi (802.11) network only. It won't affect th
 - [x] Attack on **all clients** of a particular Wi-Fi's network (if don't know any client's MAC address)
 - [x] Attack on **all Wi-Fi** available networks/routers directly.
 
-> But to attack on Ethernet cable using clients, the methods are : ARP Spoofing / ARP Poisoning (Man-in-the-Middle Attack), DHCP Starvation or Rogue DHCP Attack, Switch MAC Flooding (CAM Table Overflow). But these we won't learn here, or maybe we'll learn it later.
+> But to attack on Ethernet cable using clients, the methods are : ARP Spoofing / ARP Poisoning (Man-in-the-Middle Attack), DHCP Starvation or Rogue DHCP Attack, Switch MAC Flooding (CAM Table Overflow). But these we won't learn here, or maybe we'll learn it later. 
 
 `~$` is local user.  
-`~#` is root user.   
+`~#` is root user.  
 
-
-
+> Here :
+> for `-c` we mention channel no. of Wi-Fi network
+> for `-bssid` we mention the BSSID of Wi-Fi network
+> for `__STATION__` we mention the station/MAC-address of the Client
+<br>
 
 #### Step 1 : Setup for Attack
 First we need to convert the 'wlan0' interface to 'wlan0mon' interface, basically we are do setup & enabling the Wi-Fi's monitoring mode to do attack. For this we use the following commands :  
@@ -110,7 +113,7 @@ But this is not required as of now for us.
 
 ## Bluetooth DOS attack
 
-***Internet is mandatory here.
+***Internet is mandatory here.  
 
 #### Step 1 : Setup Bluetooth Enable (optional)
 Check whether the Bluetooth is enabled or not. If not enabled then enable it and proceed to **next step**. But if the Bluetooth icon is not appearing, or it's not enabling, then follow the below commands :   
