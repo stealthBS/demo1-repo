@@ -204,4 +204,6 @@ Check-up while hand-overing the Laptop :
 - https://youtube.com/shorts/B0SiPSOUHns
 
 
-
+- - check video's last i.e. is it ending properly on time
+  - check with date in video and date in title
+  - check serial no.
