@@ -99,16 +99,31 @@ Here, if we want to attack all then don't mention BSSID & station of any client.
 
 ## Bluetooth DOS attack
 
-#### Step 1 : Bluetooth Enable (optional)
-Check whether the Bluetooth is enabled or not. If not enabled then enable it and proceed to **next step**. But if the Bluetooth icon not appearing, or it's not enabling, then follow the below commands :   
+#### Step 1 : Setup Bluetooth Enable (optional)
+Check whether the Bluetooth is enabled or not. If not enabled then enable it and proceed to **next step**. But if the Bluetooth icon is not appearing, or it's not enabling, then follow the below commands :   
 ```
-~$ asdf
-```
-```
-~# asdf
-```
+rfkill list all
+	- - - sudo apt-get update (not required)
+sudo apt reinstall blueman
+sudo apt reinstall bluetooth
+/etc/init.d/bluetooth status
+sudo /etc/init.d/bluetooth start
 
+clear
+
+sudo systemctl list-unit-files --type=service
+	to exit---> ctrl + C
+
+sudo systemctl enable blueman-mechanism.service
+sudo systemctl enable bluetooth.service
+sudo systemctl list-unit-files --type=service
+
+clear
+exit
+```
+So, now the Bluetooth must be activated properly or can also refer to this [YouTube](https://youtu.be/w1MvrcBSNjw) video. And now we can go to next step.  
 <br>
+
 
 #### Step 2 :  
 asdf
