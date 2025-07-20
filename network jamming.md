@@ -70,7 +70,7 @@ airodump-ng -c_ -d "__BSS-ID__" wlan0mon
 <br>
 
 
-#### Step 4 : Attacking (on router // on client)
+#### Step 4 : Attacking (on particular Client // on all Clients)
 Now open new terminal tab and run the following commands :  
 ```
 sudo
