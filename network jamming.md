@@ -83,7 +83,7 @@ besside-ng -c "_" wlan0mon
 
 - - - - -ctrl + C ----😁
 ```
-Here, if we want to attack all then don't mention BSSID & station of any client.
+Here, if we want to attack all then don't mention BSSID & station of any client. Also, here `--deauth 0` means unlimited attack and we can even change it to `10` or `100` also.  
 
 
 
