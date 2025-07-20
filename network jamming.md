@@ -175,7 +175,15 @@ gg-deauth bluetooth
 - https://null-byte.wonderhowto.com/how-to/bt-recon-snoop-bluetooth-devices-using-kali-linux-0165049/
 - https://www.youtube.com/watch?v=pHqd1PnOk_4
 - https://www.youtube.com/watch?v=IE_SLohDce0
+---
+---
+---
 
+
+
+
+## Bluetooth Mocking/Spam app
+There is also an android bluetooth spammig app, we can get this app from [GitHub](https://github.com/simondankelmann/Bluetooth-LE-Spam).
 
 
 ---
