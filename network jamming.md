@@ -134,36 +134,3 @@ asdf
 
 
 
-
-
-
-------
-------
-------
-rfkill list all
-
-	xxx	sudo apt-get update
-
-sudo apt reinstall blueman
-
-sudo apt reinstall bluetooth
-
-/etc/init.d/bluetooth status
-
-sudo /etc/init.d/bluetooth start
-
-
-
-sudo systemctl list-unit-files --type=service
-
-          to exit---> ctrl + C
-
-sudo systemctl enable blueman-mechanism.service
-
-sudo systemctl enable bluetooth.service
-
-sudo systemctl list-unit-files --type=service
-
-exit
-
-			// https://youtu.be/w1MvrcBSNjw
