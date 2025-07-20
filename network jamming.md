@@ -39,7 +39,7 @@ Run the above commands one-by-one only.
 <br>
 
 
-#### Step 2 : Searching targeted Wi-Fi
+#### Step 2 : Searching your targeted Wi-Fi network/router
 Now run the following commands :  
 ```
 airodump-ng wlan0mon
@@ -51,7 +51,7 @@ So, when it dispaly the required network then we can stop the process with 'ctrl
 <br>
 
 
-#### Step 3 : Locking targeted Wi-Fi/router and Searching its targeted client
+#### Step 3 : Locking targeted Wi-Fi/router and Searching your targeted client
 Now open new terminal tab and run the following commands :  
 ```
 sudo su
