@@ -15,7 +15,7 @@ The **Deauth** attack perform on Wi-Fi (802.11) network only. It won't affect th
 
 
 
-#### Step 1 : 
+#### Step 1 : Setup for Attack
 First we need to convert the wlan0 interface to wlan0mon interface, basically we are do setup & enabling the Wi-Fi's monitoring mode to do attack. For this we use the following commands :  
 ```
 sudo su
@@ -39,7 +39,7 @@ Run the above commands one-by-one only.
 <br>
 
 
-#### Step 2 : 
+#### Step 2 : Searching targeted Wi-Fi
 Now run the following commands :  
 ```
 airodump-ng wlan0mon
@@ -51,7 +51,7 @@ So, when it dispaly the required network then we can stop the process with 'ctrl
 <br>
 
 
-#### Step 3 :  
+#### Step 3 : Locking targeted Wi-Fi/router and Searching its targeted client
 Now open new terminal tab and run the following commands :  
 ```
 sudo su
@@ -70,7 +70,7 @@ airodump-ng -c_ -d "__BSS-ID__" wlan0mon
 <br>
 
 
-#### Step 4 :  
+#### Step 4 : Attacking (on router // on client)
 Now open new terminal tab and run the following commands :  
 ```
 sudo
