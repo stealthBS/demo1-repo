@@ -5,4 +5,4 @@
 | Time | Description | Jarvis alert |
 | ---- | ----------- | ------------ |
 | 9pm | Sleep start | "asdf. . . ." |
-| 4am | Wake Up | - asdfasdf  - asdfasdf |
+| 4am | Wake Up | - point 1<br>- point 2<br>- point 3 |
