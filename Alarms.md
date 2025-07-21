@@ -28,7 +28,7 @@ Alarm according to Activities preference/proirity :
 | Time | Description | Frequency | Jarvis alert |
 | ---- | ----------- | --------- | ------------ |
 | 9 PM | Sleep start | Everyday  | Good night! Sir |
-| 4 AM | Wake Up     | Everyday  | Good morning! Sir |
+| 4 AM | Wake Up     | Everyday  | - point 1<br>- point 2<br>- point 3 |
 
 
 
