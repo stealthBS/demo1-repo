@@ -7,9 +7,9 @@ Alarm according to Activities prefference/proirity :
 - Workouts
 - bath & brush
 
-> Can follow Pomodoro techiniques, helps for eyes strain relief.
-> Can follow [Forest](https://play.google.com/store/search?q=forest&c=apps) productivity app & keep track of productivity.
-> Can also use [Speaking Alarm clock](https://play.google.com/store/apps/details?id=com.comostudio.hourlyreminder).
+> Can follow Pomodoro techiniques, helps for eyes strain relief.  
+> Can follow [Forest](https://play.google.com/store/search?q=forest&c=apps) productivity app & keep track of productivity.  
+> Can also use [Speaking Alarm clock](https://play.google.com/store/apps/details?id=com.comostudio.hourlyreminder).  
 
 <br>
 <br>
