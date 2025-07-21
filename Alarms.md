@@ -1,8 +1,8 @@
 <h2 align="center">List of Alarms</h2>
 
 Alarm according to Activities preference/proirity :  
-- Wake UP **and** Repeat alarms for wakeup,
-- Sleep **and** 30min before sleep alert
+- Wake UP **with** Repeat alarms for wakeup,
+- Sleep **with** 30min before sleep alert,
 - Foods
 - Workouts
 - bath & brush
