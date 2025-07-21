@@ -22,3 +22,10 @@ Alarm according to Activities preference/proirity :
 | ---- | ----------- | ------------ |
 | 9pm  | Sleep start | Everyday | asdf |
 | 4am | Wake Up | Everyday | - point 1<br>- point 2<br>- point 3 |
+
+--- 
+
+
+
+
+
