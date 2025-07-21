@@ -32,6 +32,6 @@ Alarm according to Activities preference/proirity :
 | Time | Description | Frequency | Jarvis assistant alert |
 | ---- | ----------- | --------- | ---------------------- |
 |      | Sleep start | Everyday | Good night! Sir. |
-| 4 AM |             |          |                  |
+|      |             |          |                  |
 
 
