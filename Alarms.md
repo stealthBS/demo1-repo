@@ -19,13 +19,6 @@ Alarm according to Activities preference/proirity :
 #### Early Sleep to Early WakeUp
 
 | Time | Description | Frequency | Jarvis alert |
-| ---- | ----------- | ------------ |
-| 9pm  | Sleep start | Everyday | asdf |
-| 4am | Wake Up | Everyday | - point 1<br>- point 2<br>- point 3 |
-
---- 
-
-| Time | Description | Frequency | Jarvis alert |
 | ---- | ----------- | --------- | ------------ |
 | 9 PM | Sleep start | Everyday  | Good night! Sir |
 | 4 AM | Wake Up     | Everyday  | - point 1<br>- point 2<br>- point 3 |
