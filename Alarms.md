@@ -17,12 +17,20 @@ Alarm according to Activities preference/proirity :
 
 
 
-#### Early Sleep to Early WakeUp
+#### Early Sleep to Early WakeUp schedule
 
 | Time | Description | Frequency | Jarvis assistant alert |
 | ---- | ----------- | --------- | ---------------------- |
 | 9 PM | Sleep start | Everyday  | Good night! Sir |
 | 4 AM | Wake Up     | Everyday  | - point 1<br>- point 2<br>- point 3 |
+|      |             |           |                 |
 
+<br>
+
+#### Late Sleep to Late WakeUp schedule
+
+| Time | Description | Frequency | Jarvis assistant alert |
+| ---- | ----------- | --------- | ---------------------- |
+|      |             |           |                        |
 
 
