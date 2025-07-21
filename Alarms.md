@@ -25,6 +25,8 @@ Alarm according to Activities preference/proirity :
 
 --- 
 
+| Time | Description | Frequency | Jarvis alert |
+| ---- | ----------- | --------- | ------------ |
 
 
 
