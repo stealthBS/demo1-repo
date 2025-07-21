@@ -7,7 +7,11 @@ Alarm according to Activities prefference/proirity :
 - Workouts
 - bath & brush
 
-> Can follow Pomodoro techiniques, helps for eyes strain relief.  
+> Can follow Pomodoro techiniques, helps for eyes strain relief.
+
+<br>
+<br>
+
 
 #### Early Sleep to Early WakeUp
 
