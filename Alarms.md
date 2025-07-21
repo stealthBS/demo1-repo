@@ -37,5 +37,6 @@ Alarm according to Activities preference/proirity :
 
 
 app notes clearning. . .
+chanting. . . .
 
 
