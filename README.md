@@ -222,5 +222,5 @@ step : loophole. . .
   - batch group . . . telling need to visit and tell. . then only. . ..
 
 
-
+- Cooprate. . 
 
