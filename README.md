@@ -200,9 +200,11 @@ Check-up while hand-overing the Laptop :
 
 
 
+- - check serial no.
+- - check with date in video and date in title
 - - check video's last i.e. is it ending properly on time
-  - check with date in video and date in title
-  - check serial no.
+  
+  
   - lastly. . . . check clean and logout and ready. . . .
  
 -----
