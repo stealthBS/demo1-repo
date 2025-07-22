@@ -203,3 +203,24 @@ Check-up while hand-overing the Laptop :
 - - check video's last i.e. is it ending properly on time
   - check with date in video and date in title
   - check serial no.
+ 
+-----
+step : loophole. . .
+
+- first do logout (from all devices) - remember only 1 device // 1 time OTP only - - - -<no multiple ID login>
+- clean the cache files.
+- Then enter number and exchange OTP. . . . ( 1 time OTP only)
+
+-----
+
+- from where????
+- this much courses given (microservcies/AWS/tools/devops/SQL) - how you are doing/managing?  - - -notes /// concept // takes lot time
+- now which one you are doing?
+
+- i have a problem ::: I was doing AWS videos - **batch acces** suddenly they have taken access from batch. . . . .
+  - i call them but not listining. . .. .
+  - batch group . . . telling need to visit and tell. . then only. . ..
+
+
+
+
