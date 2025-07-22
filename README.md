@@ -208,7 +208,7 @@ Check-up while hand-overing the Laptop :
 step : loophole. . .
 
 - first do logout (from all devices) - remember only 1 device // 1 time OTP only - - - -<no multiple ID login>
-- clean the cache files.
+- clean the cache files. / / / Then best uninstall & install the app 
 - Then enter number and exchange OTP. . . . ( 1 time OTP only)
 
 -----
