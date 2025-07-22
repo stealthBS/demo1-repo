@@ -214,14 +214,18 @@ step : loophole. . .
 -----
 
 - from where????
-- this much courses given (microservcies/AWS/tools/devops/SQL) - how you are doing/managing?  - - -notes /// concept // takes lot time
+- this much courses given () - how you are doing/managing?  - - -notes /// concept // takes lot time
 - now which one you are doing?
 
 - i have a problem ::: I was doing AWS videos - **batch acces** suddenly they have taken access from batch. . . . .
-  - i call them but not listining. . .. .
-  - batch group . . . telling need to visit and tell. . then only. . ..
-  - But i can't visit there. . . .no chance. .
+  - i call them but not listining. . .. .limited time.  . . .
+  - seperate personal WhatsApp group . . . telling need to visit and tell. . then only. . ..
+  - But i can't visit there. . . .no chance. .bond job to next year. . . .
 
 
-- Cooprate. . 
+- Cooprate. . / / / mutual understanding
+  - atleas A week or 10 days. . .will be helpful . . . then after see . . . .
+
+Resume preparation full. . . .
+New Projects explore. . can add. . 
 
