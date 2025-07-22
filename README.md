@@ -220,6 +220,7 @@ step : loophole. . .
 - i have a problem ::: I was doing AWS videos - **batch acces** suddenly they have taken access from batch. . . . .
   - i call them but not listining. . .. .
   - batch group . . . telling need to visit and tell. . then only. . ..
+  - But i can't visit there. . . .no chance. .
 
 
 - Cooprate. . 
