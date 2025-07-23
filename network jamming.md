@@ -171,7 +171,6 @@ Scan & Attack on device with the following mini-steps :
 
 <br>
 <br>
-<br>
 
 #### Can refer some some links : 
 gg-deauth bluetooth
