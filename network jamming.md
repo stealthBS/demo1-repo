@@ -191,7 +191,7 @@ gg-deauth bluetooth
 
 
 ## Bluetooth Mocking/Spam app
-There is also an android bluetooth spammig app, we can get this app from [GitHub](https://github.com/simondankelmann/Bluetooth-LE-Spam).
+There is also an android bluetooth advertising/spammig app, we can get this app from [GitHub](https://github.com/simondankelmann/Bluetooth-LE-Spam).
 
 
 
