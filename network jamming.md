@@ -167,15 +167,27 @@ Scan & Attack on device with the following mini-steps :
 - Go into the repository directory : `cd BLUETOOTH-DOS-ATTACK-SCRIPT`
 - List current directory content : `ls`
 - Execute the DoS attack script : `python3 Bluetooth-DOS-Attack.py`
-- Now to perform **Scan & Attack** follow the 'attack script' accordingly.  
+- Now to perform **Scan & Attack** follow the 'attack script' accordingly.
+
+
+
+
+https://github.com/pentestfunctions/BlueDucky
 <br>
 <br>
 
 
 
 
+---
+---
+---
 
 
+
+## Bluetooth DOS attack
+
+***Intern
 
 #### Can refer some some links : 
 gg-deauth bluetooth
