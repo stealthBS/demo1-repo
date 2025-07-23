@@ -167,6 +167,7 @@ Scan & Attack on device with the following mini-steps :
 - Go into the repository directory : `cd BLUETOOTH-DOS-ATTACK-SCRIPT`
 - List current directory content : `ls`
 - Execute the DoS attack script : `python3 Bluetooth-DOS-Attack.py`
+- Now to perform **Scan & Attack** follow the 'attack script' accordingly.  
 <br>
 <br>
 
