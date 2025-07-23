@@ -111,7 +111,7 @@ But this is not required as of now for us.
 
 
 
-## Bluetooth DOS attack
+## Bluetooth DoS attack
 
 ***Internet is mandatory here.  
 
@@ -169,25 +169,9 @@ Scan & Attack on device with the following mini-steps :
 - Execute the DoS attack script : `python3 Bluetooth-DOS-Attack.py`
 - Now to perform **Scan & Attack** follow the 'attack script' accordingly.
 
-
-
-
-https://github.com/pentestfunctions/BlueDucky
 <br>
 <br>
-
-
-
-
----
----
----
-
-
-
-## Bluetooth DOS attack
-
-***Intern
+<br>
 
 #### Can refer some some links : 
 gg-deauth bluetooth
@@ -196,6 +180,10 @@ gg-deauth bluetooth
 - https://null-byte.wonderhowto.com/how-to/bt-recon-snoop-bluetooth-devices-using-kali-linux-0165049/
 - https://www.youtube.com/watch?v=pHqd1PnOk_4
 - https://www.youtube.com/watch?v=IE_SLohDce0
+
+
+
+
 ---
 ---
 ---
@@ -207,7 +195,37 @@ gg-deauth bluetooth
 There is also an android bluetooth spammig app, we can get this app from [GitHub](https://github.com/simondankelmann/Bluetooth-LE-Spam).
 
 
-<br>
+
+
+---
+---
+---
+
+
+
+
+## Bluetooth HID keyboard injection attack
+https://github.com/pentestfunctions/BlueDucky
+
+
+
+
+---
+---
+---
+
+
+
+
+## Bluetooth device scanning and tracking
+https://github.com/TarlogicSecurity/BlueSpy
+
+
+
+
+---
+---
+---
 
 🕸🕸make .md note keep it 
 
