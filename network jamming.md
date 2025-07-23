@@ -204,7 +204,9 @@ There is also an android bluetooth advertising/spammig app, we can get this app 
 
 
 ## Bluetooth HID keyboard injection attack
-https://github.com/pentestfunctions/BlueDucky
+For this we need an extra ESP32 microcontrollers that integrate both Wi-Fi and Bluetooth capabilities.  
+And we can get the software from [GitHub](https://github.com/pentestfunctions/BlueDucky) link.  
+And to perform this we can follow this [YouTube](https://youtu.be/IevVEUzXA30) video.  
 
 
 
