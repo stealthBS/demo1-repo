@@ -94,7 +94,7 @@ Here, if we want to attack all then don't mention BSSID & station of any client.
 <br> 
 
 
-#### Step 5 : Stop/closig the setup (NOT REQUIRED)
+#### Step 5 : Stoping/closing the setup (NOT REQUIRED)
 If we have captured files in the '/Desktop' location from step-3, and after handshake happned from step-4, then we can close the step with the following command :  
 ```
 airmon-ng stop wlan0mon
@@ -169,7 +169,6 @@ Scan & Attack on device with the following mini-steps :
 - Execute the DoS attack script : `python3 Bluetooth-DOS-Attack.py`
 - Now to perform **Scan & Attack** follow the 'attack script' accordingly.
 
-<br>
 <br>
 
 #### Can refer some some links : 
