@@ -262,6 +262,18 @@ Now recording to enable the recording follow the below commands :
 pactl set-card-profile . . . . .
 ```
 
+Error : 
+```
+Traceback (most recent call last):
+  File "/home/kali/BlueSpy/BlueSpy.py", line 5, in <module>
+    from core import connect, BluezTarget, BluezAddressType, pair, record, playback
+  File "/home/kali/BlueSpy/core.py", line 42, in <module>
+    class BluezTarget:
+  File "/home/kali/BlueSpy/core.py", line 46, in BluezTarget
+    self, address: str, type: int | BluezAddressType = BluezAddressType.BR_EDR
+TypeError: unsupported operand type(s) for |: 'type' and 'EnumMeta'
+```
+
 
 refer links : 
 - https://github.com/TarlogicSecurity/BlueSpy
