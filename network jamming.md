@@ -202,7 +202,7 @@ There is also an android bluetooth advertising/spammig app, we can get this app 
 
 
 
-## Bluetooth HID keyboard injection attack
+## BlueDucky : Bluetooth HID keyboard injection attack
 - To perform this attack, we need an extra 'ESP32 microcontrollers' that integrate both Wi-Fi and Bluetooth capabilities.  
 - And we can get the software from [GitHub](https://github.com/pentestfunctions/BlueDucky) link which we install in Kali.  
 - Then to perform scan & attack we can follow this [YouTube](https://youtu.be/IevVEUzXA30) video which contains steps.  
@@ -217,12 +217,14 @@ There is also an android bluetooth advertising/spammig app, we can get this app 
 
 
 
-## Bluetooth device scanning and tracking
-https://github.com/TarlogicSecurity/BlueSpy
+## BlueSpy : Bluetooth device scanning and tracking & Skying
+In this technique a hacker compromise/hack a bluetooth device then ativates its  microphone and can do spy on the client. It easily works on those devices which doesn't need any PIN parining for authentication.  
 
 
 
 
+refer links : 
+- https://github.com/TarlogicSecurity/BlueSpy
 ---
 ---
 ---
