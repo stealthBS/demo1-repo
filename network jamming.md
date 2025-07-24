@@ -85,7 +85,7 @@ sudo su
 
 aireplay-ng --deauth 0 -a "___BSS-ID___" -c "__STATION__" wlan0mon
 	(OR)
-besside-ng -c "_" wlan0mon
+besside-ng -c "_" wlan0mon	(==> this command is specialized for capturing Handshakes)
 
 
 - - - - -ctrl + C ----😁
