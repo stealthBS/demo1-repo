@@ -35,7 +35,7 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
 - Alert types :
   - Jarvis assistance - don't you want. . .
   - Sergent Drill instructor roar. . .da*n, f*ck, 
-  - The Sacred War (any Soviet Union) & music box
+  - The Sacred War (any Soviet Union) & music box & LoFi
   - ASMR healing Temple Bell Meditation
   - Prabhupada Hare Krishna chants themes
   - Japanese themes // Kiki's food delivery // Ghibli style
