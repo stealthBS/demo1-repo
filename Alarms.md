@@ -32,7 +32,11 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
 
 - Sir! there's no point to continuing sleeping anymore.
 - Sunlight exposure for vitaminD before bathing is consider more safer choice. But 30min to 2hrs also recommended to wait after the sunlight exposure so that vitaminD get absorb in a good amoount.
-
+- Alert types :
+  - Jarvis
+  - Sergent Drill instructor roar
+  - The Sacred War (any Soviet Union)
+  - ASMR healing Bell Meditation
 
 <br>
 
