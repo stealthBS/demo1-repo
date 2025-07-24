@@ -28,9 +28,8 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
 | 11:00 AM | SunExposure | Everyday  | - It's time to get some natural VitalminD for 15min & and get rid from body's circadian confusion |
 | 11:30 AM | Bath & Bursh | Everyday | - Sir it's time to fresh up & be active for next some hours for productivity |
 
-
 - Sir! there's no point to continue sleep anymore.
-- 
+- Sunlight exposure for vitaminD before bathing is consider more safer choice.
 
 <br>
 
