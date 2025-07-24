@@ -22,9 +22,26 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
 
 | Time | Description | Frequency | Jarvis assistant alert |
 | ---- | ----------- | --------- | ---------------------- |
-| 9 PM | Sleep start | Everyday  | - Good night! Sir<br>- point 2<br>- point 3 |
-| 4 AM | Wake Up     | Everyday  | - Good morning! Sir<br>- point 2<br>- point 3 |
-|      |             |           |                 |
+| 9 PM | Sleep start | Everyday  | - Good night! Sir<br>- 8:30pm<br>- 8:15pm |
+| 4 AM | Wake Up     | Everyday  | - Good morning! Sir<br>- 4:30am<br>- 5:00am |
+| 10:30 AM | Workout-1 |           |                 |
+| 11:00 AM | SunExposure | Everyday  | - It's time to get some natural VitalminD for 15min & and get rid from body's circadian confusion |
+| 11:30 AM | Bath & Bursh | Everyday | - Sir it's time to fresh up & be active for next some hours for productivity |
+
+
+- Sir! there's no point to continue sleep anymore.
+- 
+
+<br>
+
+
+#### ✅Common alarams for : food.
+| Time | Description | Frequency | Jarvis assistant alert |
+| ---- | ----------- | --------- | ---------------------- |
+| 8:15 AM | BreakFast | Everyday  | - Time for break the fasting<br>- sunday<br>- delay |
+| 1:15 PM | Lunch | Everyday | - Time to take a lunch |
+| 8:15 AM | Dinner | Everyday | - Time to finish the day with a light dinner |
+
 
 <br>
 
@@ -32,8 +49,8 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
 
 | Time | Description | Frequency | Jarvis assistant alert |
 | ---- | ----------- | --------- | ---------------------- |
-|      | Sleep start | Everyday | Good night! Sir. |
-|      |             |          |                  |
+|      | Sleep start | Everyday  | Good night! Sir. |
+|      |             |           |                  |
 
 
 
