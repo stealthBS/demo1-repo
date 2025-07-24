@@ -22,7 +22,7 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
 
 | Time | Description | Frequency | Jarvis assistant alert |
 | ---- | ----------- | --------- | ---------------------- |
-| 9 PM | Sleep start | Everyday  | - Good night! Sir<br>- 8:30pm<br>- 8:15pm |
+| 9 PM | Sleep start | Everyday  | - Good night! Sir<br>- 8:30pm Mosquito Net ON<br>- 8:15pm |
 | 4 AM | Wake Up     | Everyday  | - Good morning! Sir<br>- 4:30am<br>- 5:00am |
 | 5 AM | Workout-1   | Everyday  | Activate & alert both body & mind |
 | 10:30 AM | SunExposure | Everyday | - It's time to get some natural VitalminD for 15min & and get rid from body's circadian confusion |
@@ -31,7 +31,8 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
 | 12:00 PM | Prayer | EveryDay | - It time to engane your sense in devotional practice and thankful and be apologized |
 
 - Sir! there's no point to continuing sleeping anymore.
-- Sunlight exposure for vitaminD before bathing is consider more safer choice. But 30min to 2hrs also recommended to wait after the sunlight exposure so that vitaminD get absorb in a good amoount.  
+- Sunlight exposure for vitaminD before bathing is consider more safer choice. But 30min to 2hrs also recommended to wait after the sunlight exposure so that vitaminD get absorb in a good amoount.
+
 
 <br>
 
