@@ -10,19 +10,20 @@ Alarm according to Activities preference/proirity :
 > Can follow Pomodoro techiniques, helps for eyes strain relief.  
 > Can follow [Forest](https://play.google.com/store/search?q=forest&c=apps) productivity app & keep track of productivity.  
 > Can follow [SleepTown](https://play.google.com/store/apps/details?id=seekrtech.sleep) sleep tracking app.  
-> Can also use [Speaking Alarm clock](https://play.google.com/store/apps/details?id=com.comostudio.hourlyreminder).  
+> Can also use [Speaking Alarm clock](https://play.google.com/store/apps/details?id=com.comostudio.hourlyreminder) app.  
 
 <br>
 <br>
 
 
 
-#### Early Sleep to Early WakeUp schedule
+#### ✅Early Sleep to Early WakeUp schedule
+Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as deepest REM sleep stages not happening here, day feels like long so get enough time to do work.
 
 | Time | Description | Frequency | Jarvis assistant alert |
 | ---- | ----------- | --------- | ---------------------- |
-| 9 PM | Sleep start | Everyday  | Good night! Sir |
-| 4 AM | Wake Up     | Everyday  | - point 1<br>- point 2<br>- point 3 |
+| 9 PM | Sleep start | Everyday  | - Good night! Sir<br>- point 2<br>- point 3 |
+| 4 AM | Wake Up     | Everyday  | - Good morning! Sir<br>- point 2<br>- point 3 |
 |      |             |           |                 |
 
 <br>
