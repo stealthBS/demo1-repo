@@ -30,7 +30,7 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
 | 11:30 AM | Bath & Bursh | Everyday | - Sir it's time to fresh up & be active for next some hours for productivity |
 | 12:00 PM | Prayer | EveryDay | - It time to engane your sense in devotional practice and thankful and be apologized |
 
-- Sir! there's no point to continue sleep anymore.
+- Sir! there's no point to continuing sleeping anymore.
 - Sunlight exposure for vitaminD before bathing is consider more safer choice. But 30min to 2hrs also recommended to wait after the sunlight exposure so that vitaminD get absorb in a good amoount.  
 
 <br>
