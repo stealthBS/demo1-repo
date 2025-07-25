@@ -247,7 +247,7 @@ New Projects explore. . can add. .
 - [ ] Then let it stand vertically. then observation starts. . .  
 <br>
 
-- [ ] After 24 hours, observe it whey content from this [Youtube](https://youtu.be/YdYaF1JApq4) link.
+- [ ] After 24 hours, observe it whey content from this [Youtube](https://youtu.be/YdYaF1JApq4&t2m33s&t=2m32s) link.
 
 
 
