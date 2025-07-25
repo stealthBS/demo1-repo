@@ -239,11 +239,13 @@ New Projects explore. . can add. .
 - [ ] Fill a shaker with **200ml** of water, and mix 1 scooop (35gm) of Whey protein powder.
 - [ ] Shake the Whey protien properly, and allow it for sometime for free-foaming.
 - [ ] After foam-free, seperate only **10ml** of Whey protein shake in a different container.
+<br>
 
 - [ ] Empty the chemical liquid in test-tube upto 35ml.  
 - [ ] Then pour the **10ml** Whey protein shake in the test-tube. (will become **45ml**)  
 - [ ] Then Shake the test-tube for 10sec speedily.  
 - [ ] Then let it stand vertically. then observation starts. . .  
+<br>
 
 - [ ] After 24 hours, . . .  
 
