@@ -250,6 +250,11 @@ New Projects explore. . can add. .
 
 - [ ] After 24 hours, observe it whey content from this [Youtube](https://youtu.be/YdYaF1JApq4&t2m33s&t=2m32s) link.
 
+-----
+
+chatGPT :- by doing strength training or weight training, how i can check, monitor, track, measure and recognize everyday that my power level is really increasing.  
+
+poop in every 2 day
 
 
 
