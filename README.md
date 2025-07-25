@@ -244,7 +244,8 @@ New Projects explore. . can add. .
 - [ ] Empty the chemical liquid in test-tube upto 35ml.  
 - [ ] Then pour the **10ml** Whey protein shake in the test-tube. (will become **45ml**)  
 - [ ] Then Shake the test-tube for **10sec** speedily.  
-- [ ] Then let it stand vertically. then observation starts. . .  
+- [ ] Then let it stand vertically. then observation starts. . .
+- [ ] Can **record** it. . . . .
 <br>
 
 - [ ] After 24 hours, observe it whey content from this [Youtube](https://youtu.be/YdYaF1JApq4&t2m33s&t=2m32s) link.
