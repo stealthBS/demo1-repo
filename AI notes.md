@@ -723,7 +723,7 @@ To see its some of the examples & how it makes differences follow this [Ebook](h
 
 
 
-#### 🔰Lesson 26 : Simple Pormpts Starters  
+#### 🔰Lesson 26 : Simple Pormpts Starters cheatsheet 
 
 Take help of [200 best ChatGPT prompts list](https://leapyearlearning.mykajabi.com/blog/week-1) to get idea to craft our own prompt.  
 
