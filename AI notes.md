@@ -783,7 +783,11 @@ Can also follow below some simple prompt starters :
 
 
 
-#### 🔰Lesson 28 :  
+#### 🔰Lesson 28 : Practical Everyday Prompts 
+
+##### 1. For 'Brainstorm New Ideas' : 
+- Prompt Formula : *`I'm looking to explore`* [subject] *`in a`* [format]*`.`* *`Do you have any suggestions on`* [topics] *`I can cover?`*
+  - Example 1 : *`I'm interested in creating an **Instagram page** that covers travel. What ideas do you have`*
 
 ----
 
