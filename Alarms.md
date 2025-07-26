@@ -10,8 +10,8 @@ Alarm according to Activities preference/proirity :
 > Can follow Pomodoro techiniques, helps for eyes strain relief.  
 > Can follow [Forest](https://play.google.com/store/search?q=forest&c=apps) productivity app & its PC [extension](https://chromewebstore.google.com/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) to keep track of productivity.  
 > Can follow [SleepTown](https://play.google.com/store/apps/details?id=seekrtech.sleep) sleep tracking app.  
-> Can also use [Speaking Alarm clock](https://play.google.com/store/apps/details?id=com.comostudio.hourlyreminder) app.
-> App & Screen time tracking : [ActionDash](https://play.google.com/store/apps/details?id=com.actiondash.playstore), [StayFree](https://play.google.com/store/apps/details?id=com.burockgames.timeclocker), [NoScroll](https://play.google.com/store/apps/details?id=com.newswarajya.noswipe.reelshortblocker).
+> Can also use [Speaking Alarm clock](https://play.google.com/store/apps/details?id=com.comostudio.hourlyreminder) app.  
+> App & Screen time tracking : [ActionDash](https://play.google.com/store/apps/details?id=com.actiondash.playstore), [StayFree](https://play.google.com/store/apps/details?id=com.burockgames.timeclocker), [NoScroll](https://play.google.com/store/apps/details?id=com.newswarajya.noswipe.reelshortblocker).  
 > Other productive apps : [Fabulous](https://play.google.com/store/apps/details?id=co.thefabulous.app), [Habitica](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica).
 
 <br>
