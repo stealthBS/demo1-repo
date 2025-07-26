@@ -256,7 +256,10 @@ chatGPT :- by doing strength training or weight training, how i can check, monit
 
 poop in every 2 day
 
-
+----
+pending :  
+- clear mobile notes properly. . .
+- dairymilk chocolate. . .
 
 
 
