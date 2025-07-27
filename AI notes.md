@@ -790,6 +790,11 @@ Can also follow below some simple prompt starters :
   - Example 1 : *`I'm interested in creating an 'Instagram page' that 'covers travel'. What ideas do you have on topics I could include, such as 'budget-friendly destinations and hidden gems to visit?'`*
   - Example 2 : *`I'm working on a 'newsletter' that focuses on 'technology'. Can you recommend topics that would be engaging for my audience, such as the 'latest gadgets and software updates?'`*
 
+##### 2. For 'Copy Generation' :  
+- Prompt Formula : *`I'm looking to explore`* [subject] *`in a`* [format]*`. Do you have any suggestions on`* [topics] *`I can cover?`*
+  - Example 1 : *`I'm interested in creating an 'Instagram page' that 'covers travel'. What ideas do you have on topics I could include, such as 'budget-friendly destinations' and 'hidden gems to visit?'`*
+  - Example 2 : *`I'm working on a 'newsletter' that focuses on 'technology'. Can you recommended topics that would be engaging for my audience, such as the 'latest gadgets' and 'software updates?'`*
+
 ----
 
 
