@@ -88,8 +88,8 @@ In Windows, this corresponds to a standard user and an administrator (admin) use
 
 In Kali Linux, this corresponds to a normal user and the root user.  
 
-If we are using Kali linux's terminal as normal user, then to switch to root user we use the command : sudo su .  
-If we are suing Windows's command prompt as normal user, then we can't switch directly but can do like : 'cmd' >> Run as administrator.  
+If we are using Kali linux's terminal as normal user, then to switch to root user we use the command : `sudo su`.  
+If we are suing Windows's command prompt as normal user, then we can't switch directly but can do like : **'cmd' >> Run as administrator**.  
 
 
 
