@@ -180,7 +180,7 @@ New Projects explore. . can add. .
 - [ ] Can **record** it. . . . .
 <br>
 
-- [ ] After 24 hours, observe it whey content from this [Youtube](https://youtu.be/YdYaF1JApq4&t2m33s&t=2m32s) link.
+- [ ] After 24 hours, observe it whey content from this [Youtube](https://youtu.be/YdYaF1JApq4&t2m33s&t=2m32s) or [Youtube](https://youtu.be/Nh_cMTQonmg) link.
 
 -----
 
