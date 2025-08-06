@@ -184,11 +184,6 @@ New Projects explore. . can add. .
 
 -----
 
-chatGPT :- by doing strength training or weight training, how i can check, monitor, track, measure and recognize everyday that my power level is really increasing.  
-
-poop in every 2 day
-
-----
 pending :  
 - clear mobile notes properly. . .
 - dairymilk chocolate. . .
