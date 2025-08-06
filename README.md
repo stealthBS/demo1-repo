@@ -76,6 +76,20 @@ Root user command :
 ~# adduser sammy
 ~# shutdown
 ```
+<br>
+
+Both Linux and Windows have a concept of normal users and privileged users (commonly referred to as "root" in Linux and "administrator" in Windows).  
+
+Suppose we have two PCs: one with Windows installed and a single user account, and another with Kali Linux installed, also with a single user account.  
+
+In both systems, when using the terminal or command line, there are two types of user modes available: normal user mode and elevated (privileged) user mode.  
+
+In Windows, this corresponds to a standard user and an administrator (admin) user.  
+
+In Kali Linux, this corresponds to a normal user and the root user.  
+
+If we are using Kali linux's terminal as normal user, then to switch to root user we use the command : sudo su .  
+If we are suing Windows's command prompt as normal user, then we can't switch directly but can do like : 'cmd' >> Run as administrator.  
 
 
 
@@ -138,31 +152,6 @@ Emoji we can use for our notes are :
   
   
   - lastly. . . . check clean and logout and ready. . . .
- 
------
-step : loophole. . .
-
-- first do logout (from all devices) - remember only 1 device // 1 time OTP only - - - -<no multiple ID login>
-- clean the cache files. / / / Then best uninstall & install the app 
-- Then enter number and exchange OTP. . . . ( 1 time OTP only)
-
------
-
-- from where????
-- this much courses given () - how you are doing/managing?  - - -notes /// concept // takes lot time
-- now which one you are doing?
-
-- i have a problem ::: I was doing AWS videos - **batch acces** suddenly they have taken access from batch. . . . .
-  - i call them but not listining. . .. .limited time.  . . .
-  - seperate personal WhatsApp group . . . telling need to visit and tell. . then only. . ..
-  - But i can't visit there. . . .no chance. .bond job to next year. . . .
-
-
-- Cooprate. . / / / mutual understanding
-  - atleas A week or 10 days. . .will be helpful . . . then after see . . . .
-
-Resume preparation full. . . .
-New Projects explore. . can add. . 
 
 --- 
 ---
