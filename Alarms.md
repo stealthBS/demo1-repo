@@ -95,6 +95,7 @@ latest all github download. . . .
 • SSC visit  
 • SSC preparation  
 • Kannada  
+• Any pending works : SIM making. . . .
 
 • PG Rent  
 
