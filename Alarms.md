@@ -79,13 +79,10 @@ unnessary app list here only . . .
 ## Alternatives of ChatGPT paid features : 
 If we don't have a paid plan of ChatGPT, then we can find it's same features in other AI chat assistant tools.
 
-• ChatGPT's Project feature : [Grok](www.grok.com), 
+• ChatGPT's Project feature : [Grok](https://grok.com/), 
 • 
 
-
-
-
-===========================
+==========================
 
 AWS . . . .  
 
