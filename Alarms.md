@@ -87,22 +87,22 @@ If we don't have a paid plan of ChatGPT, then we can find it's same features in 
 
 ===========================
 
-AWS . . . .
+AWS . . . .  
 
-latest all github download. . . .
+latest all github download. . . .  
 
-• Sanitize everythings & clear the battery liquid
-• check money received or not
-• Sailendra pradha records 
-• SSC admit card
-• SSC visit 
-• SSC preparation
-• Kannada
+• Sanitize everythings & clear the battery liquid  
+• check money received or not  
+• Sailendra pradha records  
+• SSC admit card  
+• SSC visit  
+• SSC preparation  
+• Kannada  
 
-• PG Rent
+• PG Rent  
 
-• AI course
+• AI course  
 
-• Strivers DSA
-• CodeChef
+• Strivers DSA  
+• CodeChef  
 
