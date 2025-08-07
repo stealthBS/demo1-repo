@@ -70,3 +70,39 @@ chanting. . . .
 unnessary app list here only . . .
 
 
+-----
+-----
+-----
+
+
+
+## Alternatives of ChatGPT paid features : 
+If we don't have a paid plan of ChatGPT, then we can find it's same features in other AI chat assistant tools.
+
+• ChatGPT's Project feature : [Grok](www.grok.com), 
+• 
+
+
+
+
+===========================
+
+AWS . . . .
+
+latest all github download. . . .
+
+• Sanitize everythings & clear the battery liquid
+• check money received or not
+• Sailendra pradha records 
+• SSC admit card
+• SSC visit 
+• SSC preparation
+• Kannada
+
+• PG Rent
+
+• AI course
+
+• Strivers DSA
+• CodeChef
+
