@@ -94,6 +94,7 @@ latest all github download. . . .
 • SSC admit card  
 • SSC visit  
 • SSC preparation  
+• SSC : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
 • Kannada  
 • Any pending works : SIM making. . . .
 
