@@ -89,6 +89,7 @@ AWS . . . .
 latest all github download. . . .  
 
 • Sanitize everythings & clear the battery liquid  
+• see White box writtens. . . . .  
 • check money received or not  
 • Sailendra pradha records  
 • SSC admit card  
@@ -96,7 +97,13 @@ latest all github download. . . .
 • SSC preparation  
 • SSC : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
 • Kannada  
-• Any pending works : SIM making. . . .
+• Any pending works : SIM making. . . .  
+• YT - ready to eat review  
+• Flipkart  
+• ChatGPT : i want to a bluelight glass for my eyes, help me to choose & buy one the best. i face the black spot issues below the eyes and it looks very awful. i am taking 7 hours sleep also.  
+• Watch it : https://youtu.be/MQMPS7Se-9g  
+
+• tabs : gmail, chatgpt, udemy, github, ssc  
 
 • PG Rent  
 
