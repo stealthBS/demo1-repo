@@ -90,6 +90,7 @@ latest all github download. . . .
 
 • Sanitize everythings & clear the battery liquid  
 • see White box writtens. . . . .  
+• Mobile all notepad setting  
 • check money received or not  
 • Sailendra pradha records  
 • SSC admit card  
