@@ -97,7 +97,7 @@ unnessary app list here only . . .
 • PG Rent  
 
 • ChatGPT : i want to a bluelight glass for my eyes.  
-• Watch it : https://youtu.be/MQMPS7Se-9g  
+• Watch it : https://youtu.be/MQMPS7Se-9g , https://youtu.be/_HTRe7uSNo8 , https://youtu.be/o7lczTDDESc , https://youtu.be/19bdtq2UAAQ  
 
 • tabs : gmail, chatgpt, udemy, github, ssc  
 
