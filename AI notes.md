@@ -8,7 +8,7 @@
 > ⬜⬜  
 > Udemy - The Complete AI Guide: Learn ChatGPT, Generative AI & More by Julian Melanson & Benza Maman.
 
-> Try to complete within **30 days**.
+> Try to complete within **30 days**.  
 > Latest AI updates : ChatGPT 5.  
 <br>  
 
