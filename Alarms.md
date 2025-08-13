@@ -79,10 +79,7 @@ unnessary app list here only . . .
 -----
 -----
 
-
-• Sanitize everythings & clear the battery lique liquid  
-
-• see White box writtens. . . . .  
+• see White box writtens [dn]. . . . .  
 • Mobile all notepad setting  
 • Make your all alarm ready  
 
