@@ -75,31 +75,32 @@ unnessary app list here only . . .
 -----
 
 
-AWS . . . .  
+• Sanitize everythings & clear the battery lique liquid  
 
-latest all github download. . . .  
-
-• Sanitize everythings & clear the battery liquid  
 • see White box writtens. . . . .  
 • Mobile all notepad setting  
-• check money received or not  
-• Sailendra pradha records  
+• Make your all alarm ready  
+
 • SSC admit card  
+• SSC exam from 1st week from Sepetember  
 • SSC visit  
 • SSC preparation  
 • SSC : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
+• Before giving exam, try to give at least some MOCK TESTs to be used to with the SSC exam, which don't feel like new.  
 • Kannada  
 • Any pending works : SIM making. . . .  
+
 • YT - ready to eat review  
 • Flipkart  
-• ChatGPT : i want to a bluelight glass for my eyes, help me to choose & buy one the best. i face the black spot issues below the eyes and it looks very awful. i am taking 7 hours sleep also.   
+• PG Rent  
+
+• ChatGPT : i want to a bluelight glass for my eyes.  
 • Watch it : https://youtu.be/MQMPS7Se-9g  
 
 • tabs : gmail, chatgpt, udemy, github, ssc  
 
-• PG Rent  
-
 • AI course  
+• Back Spring Boot  
 
 • Strivers DSA  
 • CodeChef  
