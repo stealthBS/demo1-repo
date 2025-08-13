@@ -92,6 +92,8 @@ unnessary app list here only . . .
 • Kannada  
 • Any pending works : SIM making. . . .  
 
+• German : use contracted form pronouncing, native accent way of pronouncing, colloquial way of speaking, it make sound more native.  
+
 • YT - ready to eat review  
 • Flipkart  
 • PG Rent  
