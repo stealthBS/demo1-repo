@@ -952,7 +952,7 @@ Can also follow below some simple prompt starters :
 ----
 
 ## Alternatives of ChatGPT paid features : 
-If we don't have a paid plan of ChatGPT, then we can find it's same features in other AI chat assistant tools.
+If we don't have a paid plan of ChatGPT, then as of now for learning purpose on how a particular : we can find its (those) same features in other AI chat assistant tools.  
 
 • ChatGPT's Project feature : [Grok](https://grok.com/), 
 • 
