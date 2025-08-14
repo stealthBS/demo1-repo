@@ -25,7 +25,7 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
 
 | Time | Description | Frequency | Jarvis assistant alert |
 | ---- | ----------- | --------- | ---------------------- |
-| 9 PM (OR) 9:15 AM | Sleep start | Everyday  | - Good night! Sir<br>- 8:30pm Mosquito Net ON<br>- 8:15pm |
+| 9 PM (OR) 9:15 AM | Sleep start | Everyday  | - Good night! Sir, go to sleep, you have to wake up early in the morning.<br>- 8:30pm Mosquito Net ON<br>- 8:15pm |
 | ~~4 AM~~ (OR) 5 AM | Wake Up     | Everyday  | - Good morning! Sir<br>- 4:30am<br>- 5:00am<br>- **Make it 8 hours sleep**. |
 | ~~5 AM~~ (OR) 5:30 AM | Workout-1   | Everyday  | Activate & alert both body & mind (Cardio, Kegal, Abs, Own body lifting workout or Calisthenics) |
 | 10:30 AM | SunExposure | Everyday | - It's time to get some natural VitalminD for 15min & and get rid from body's circadian confusion<br>- It's time to move otherwise you'll fall asleep soon.<br>- It helps to get rid from : Fatigue, tiredness, brain/mental fogginess, Hair loss like issues. |
