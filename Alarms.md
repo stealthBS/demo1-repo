@@ -79,16 +79,16 @@ unnessary app list here only . . .
 -----
 -----
 
-• first set all alarms.  
-• then make their Jarvis assistant alarms.  
+• [dn]Make your all alarm ready  
+• then make their Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
 
-• see White box writtens [dn]. . . . .  
-• Mobile all notepad setting  
-• Make your all alarm ready  
+• [dn]see White box writtens. . . . .  
+• Mobile all notepad setting   
 
+• go through all SSC bookmarks of the browser and then do the following tasks. . . . . .
 • SSC admit card  
 • SSC exam from 1st week from Sepetember  
-• SSC visit  
+• SSC visit location  
 • SSC preparation  
 • SSC : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
 • Before giving exam, try to give at least some MOCK TESTs to be used to with the SSC exam, which don't feel like new.  
@@ -96,6 +96,7 @@ unnessary app list here only . . .
 • Any pending works : SIM making. . . .  
 
 • German : use contracted form pronouncing, native accent way of pronouncing, colloquial way of speaking, know alphabets how it pronounces, then it make sound more native.  
+• ChatGPT : like in english there's contracted form of many english words or words combination like : • cannot -> can't • would not -> won't and so on. . . . . which while speaking sounds more native. Similarly, is there any contracted form in German also?  
 
 • YT - ready to eat review  
 • Flipkart  
