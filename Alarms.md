@@ -45,7 +45,7 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
   - ASMR healing Temple Bell Meditation
   - Prabhupada Hare Krishna chants themes
   - Japanese themes // Kiki's food delivery // Ghibli style
-- Sites to generate voice alarms : . . . . .  
+- Sites to generate voice alarms : there's a .txt file follow that in the PC . . . . .  
 - **Always remember discipline is the main key**.
 
 <br>
