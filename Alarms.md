@@ -79,6 +79,9 @@ unnessary app list here only . . .
 -----
 -----
 
+• first set all alarms.  
+• then make their Jarvis assistant alarms.  
+
 • see White box writtens [dn]. . . . .  
 • Mobile all notepad setting  
 • Make your all alarm ready  
