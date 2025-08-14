@@ -31,7 +31,7 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
 | 10:30 AM | SunExposure & walking | Everyday | - It's time to get some natural VitalminD for 15min & and get rid from body's circadian confusion<br>- It's time to move otherwise you'll fall asleep soon.<br>- It helps to get rid from : Fatigue, tiredness, brain/mental fogginess, Hair loss like issues. |
 | 11 AM | Workout-2 | Everyday  | - Before bath workout for body activation & alert mode<br>- Avoid sleepy, foggy mind, slackness, sluggishness, drowsiness, lethargic, and tired, etc. to make any excuse. |
 | 11:30 AM | Bath ~~& Bursh~~ | Everyday | - Sir it's time to fresh up & be active for next some hours for productivity<br>- Go a take a bath qickly no matter what, otherwise you'll going to sleep soon and destroy the whole day. |
-| 12 PM | Prayer | EveryDay | - It time to engane your sense in devotional practice and thankful and be apologized |
+| 12 PM | Prayer & Devotional order | EveryDay | - It time to engane your sense in devotional practice and thankful and be apologized |
 | 5 PM | Workout-3 | EveryDay | - It's time to do a final Cardio/Abs/Kegel workout before sleep |
 
 - Sir! there's no point to continuing sleeping anymore.
