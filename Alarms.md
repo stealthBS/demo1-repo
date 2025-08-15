@@ -83,7 +83,9 @@ unnessary app list here only . . .
 • then make their Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
 
 • [dn]see White box writtens. . . . .  
-• Mobile all notepad setting   
+• Mobile all notepad setting  
+
+• Record the PSA-JUnit class on the same data itself . . . .  
 
 • go through all SSC bookmarks of the browser and then do the following tasks. . . . . .
 • SSC admit card  
