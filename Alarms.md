@@ -7,7 +7,7 @@ Alarm according to Activities preference/proirity :
 - Workouts
 - bath & brush
 
-> Can follow Pomodoro techiniques, helps for eyes strain relief.  
+> Can combinedly follow **Pomodoro techinique** & **20-20-20 rule**, for best productivity with helps for eyes strain relief.  
 > Can follow [Forest](https://play.google.com/store/search?q=forest&c=apps) productivity app & its PC [extension](https://chromewebstore.google.com/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) to keep track of productivity.  
 > Can follow [SleepTown](https://play.google.com/store/apps/details?id=seekrtech.sleep) sleep tracking app.  
 > Can also use [Speaking Alarm clock](https://play.google.com/store/apps/details?id=com.comostudio.hourlyreminder) app which help to remind your tasks as your AI Jarvis assistant.  
