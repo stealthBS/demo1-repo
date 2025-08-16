@@ -79,6 +79,8 @@ unnessary app list here only . . .
 -----
 -----
 
+• Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
+
 • [dn]Make your all alarm ready  
 • then make their Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
 
@@ -103,6 +105,8 @@ unnessary app list here only . . .
 • YT - ready to eat review  
 • Flipkart  
 • PG Rent  
+• Whey protein offer time : Naturalein : : :   
+• 
 
 • ChatGPT : i want to a bluelight glass for my eyes.  
 • Watch it : https://youtu.be/MQMPS7Se-9g , https://youtu.be/_HTRe7uSNo8 , https://youtu.be/19bdtq2UAAQ  
