@@ -87,7 +87,7 @@ unnessary app list here only . . .
 • [dn]see White box writtens. . . . .  
 • Mobile all notepad setting  
 
-• Record the PSA-JUnit class on the same data itself . . . .  
+• Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .  
 
 • go through all SSC bookmarks of the browser and then do the following tasks. . . . . .
 • SSC admit card  
