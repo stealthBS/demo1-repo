@@ -65,7 +65,7 @@ so we can make or **`keep`** notes *`like`* this also.
 
 --------
 --------
-<h2 align=center>Linux</h2>
+<h2 align=center>Linux CLI</h2>
 
 Non-root user command looks like :  
 ```command
