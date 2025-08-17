@@ -106,7 +106,6 @@ unnessary app list here only . . .
 • PG Rent  
 • Whey protein offer time : Naturalein : : :   
 
-• ✔once Microsoft shutdown/stopped everyone's windows  
 • ✔schedule wifi  
 • ✔Do start using in note alarm. . . it just gives you a notification only  
 • ✔Do puja  
