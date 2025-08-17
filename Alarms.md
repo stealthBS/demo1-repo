@@ -87,8 +87,9 @@ unnessary app list here only . . .
 • [dn]see White box writtens. . . . .  
 • ✔Mobile all notepad setting  
 
-• Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .  
+• ✔Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .  
 
+✔✔✔✔✔✔✔✔✔
 • go through all SSC bookmarks of the browser and then do the following tasks. . . . . .
 • SSC admit card  
 • SSC exam from 1st week from Sepetember  
@@ -104,7 +105,7 @@ unnessary app list here only . . .
 
 • YT - ready to eat review  
 • PG Rent  
-• Whey protein offer time : Naturalein : : :   
+• ✔Whey protein offer time : Naturalein : : :   
 
 • ✔Do start using in note alarm. . . it just gives you a notification only  
 • ✔Do puja  
@@ -116,8 +117,8 @@ unnessary app list here only . . .
 
 • tabs : gmail, chatgpt, udemy, github, ssc, flipkart  
 
-• AI course  
-• Back Spring Boot  
+• ✔AI course  
+• Back to Spring Boot  
 
 • Strivers DSA  
 • CodeChef  
