@@ -103,10 +103,12 @@ unnessary app list here only . . .
 • ChatGPT : like in english there's contracted form of many english words or words combination like : • cannot -> can't • would not -> won't and so on. . . . . which while speaking sounds more native. Similarly, is there any contracted form in German also?  
 
 • YT - ready to eat review  
-• Flipkart  
 • PG Rent  
 • Whey protein offer time : Naturalein : : :   
-• 
+
+• once Microsoft shutdown/stopped everyone's windows  
+• schedule wifi  
+• Do start using in note alarm. . . it just gives you a notification only  
 
 • ChatGPT : i want to a bluelight glass for my eyes.  
 • Watch it : https://youtu.be/MQMPS7Se-9g , https://youtu.be/_HTRe7uSNo8 , https://youtu.be/19bdtq2UAAQ  
