@@ -67,7 +67,7 @@ so we can make or **`keep`** notes *`like`* this also.
 --------
 <h2 align=center>Linux</h2>
 
-Non-root user command :  
+Non-root user command looks like :  
 ```command
 ~$ sudo apt-get update
 ~$ sudo apt-get install python3
@@ -75,11 +75,18 @@ Non-root user command :
 
 <br>
 
-Root user command :  
+Root user command looks like :  
 ```super_user
 ~# adduser sammy
 ~# shutdown
 ```
+<br>
+Basically whatever navigation works & operatings we do in Windows by using mouse (i.e. copy-paste-folder opening-selecting-etc.), here in Linux same thing we'll do but in terminal panel/tab with commands. And similarly there are more Linux specific operations for which also we use commands.  
+
+Operating a PC with CLI or commands causes : No more GUI/interface load task to the PC, where everything will be operated from a single terminal panel/tab only.  
+
+
+<br>
 <br>
 
 Both Linux and Windows have a concept of normal users and privileged users (commonly referred to as "root" in Linux and "administrator" in Windows).  
