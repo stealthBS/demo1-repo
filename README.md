@@ -63,6 +63,10 @@ so we can make or **`keep`** notes *`like`* this also.
 
 <br>
 
+--------
+--------
+<h2 align=center>Linux</h2>
+
 Non-root user command :  
 ```command
 ~$ sudo apt-get update
