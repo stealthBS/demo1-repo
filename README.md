@@ -81,7 +81,7 @@ Root user command looks like :
 ~# shutdown
 ```
 <br>
-Basically whatever navigation works & operatings we do in Windows by using mouse (i.e. copy-paste-folder opening-selecting-etc.), here in Linux same thing we'll do but in terminal panel/tab with commands. And similarly there are more Linux specific operations for which also we use commands.  
+Basically whatever navigation works & operatings we do in Windows by using mouse (i.e. copy-paste-folder opening-selecting-etc.), here in Linux same thing we'll do but in terminal panel/tab with commands. And similarly there are more Linux specific operations for which also we use some special commands.  
 
 Operating a PC with CLI or commands causes : No more GUI/interface load task to the PC, where everything will be operated from a single terminal panel/tab only.  
 
