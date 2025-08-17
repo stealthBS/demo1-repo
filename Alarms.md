@@ -89,8 +89,8 @@ unnessary app list here only . . .
 
 • ✔Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .  
 
-✔✔✔✔✔✔✔✔✔
-• go through all SSC bookmarks of the browser and then do the following tasks. . . . . .
+✔✔✔✔✔✔✔✔✔  
+• go through all SSC bookmarks of the browser and then do the following tasks. . . . . .  
 • SSC admit card  
 • SSC exam from 1st week from Sepetember  
 • SSC visit location  
