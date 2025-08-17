@@ -109,6 +109,7 @@ unnessary app list here only . . .
 • once Microsoft shutdown/stopped everyone's windows  
 • schedule wifi  
 • Do start using in note alarm. . . it just gives you a notification only  
+• Do puja  
 
 • ChatGPT : i want to a bluelight glass for my eyes.  
 • Watch it : https://youtu.be/MQMPS7Se-9g , https://youtu.be/_HTRe7uSNo8 , https://youtu.be/19bdtq2UAAQ  
