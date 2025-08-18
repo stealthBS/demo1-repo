@@ -135,3 +135,8 @@ combined AI chats : ask to chargpt, grok, etc.
 - Grok : compare :  ' ithy vs Chatbot Arena (LMSYS) vs Poe vs Perplexity Pro vs AgentOps/LangChain ' their features, purpose in tabular manner, and also mentioned when it started
 - 
 
+------
+motive :  
+
+with a single chat we can able to do conversation with all the Top AI models, and then we can compare their response side-by-side comparison, and from this technique we can find the best possible response easily within a single screen (where no switch between tabs required)
+
