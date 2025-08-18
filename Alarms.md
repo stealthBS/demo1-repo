@@ -47,6 +47,7 @@ Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as de
   - Japanese themes // Kiki's food delivery // Ghibli style
 - Sites to generate voice alarms : there's a .txt file follow that in the PC . . . . .  
 - **Always remember discipline is the main key**.
+- And the '72 Rule' 😁 is used to estimate how long it will take for an investment to double at a fixed annual rate of return.  
 
 <br>
 
