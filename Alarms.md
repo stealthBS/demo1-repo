@@ -128,5 +128,10 @@ unnessary app list here only . . .
 
 
 combined AI chats : ask to chargpt, grok, etc. 
+- ChatGPT : is there any platform in which we can access chatgpt, grok, gemini, deepseek, perplexity
+- ChatGPT : which is the best platform that allow access to multiple AI models like ChatGPT, Grok, Gemini, DeepSeek, and Perplexity
+- Grok : is there any platform in which we can access chatgpt, grok, gemini, deepseek, perplexity
+- Grok : which is the best platform that allow access to multiple AI models like ChatGPT, Grok, Gemini, DeepSeek, and Perplexity
+- Grok : compare :  ' ithy vs Chatbot Arena (LMSYS) vs Poe vs Perplexity Pro vs AgentOps/LangChain ' their features, purpose in tabular manner, and also mentioned when it started
 - 
 
