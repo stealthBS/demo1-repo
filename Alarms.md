@@ -105,7 +105,7 @@ unnessary app list here only . . .
 
 • YT - ready to eat review  
 • PG Rent  
-• ✔Whey protein offer time : Naturalein : : :   
+• Whey protein offer time : Naturalein : : :   
 
 • ✔Do start using in note alarm. . . it just gives you a notification only  
 • ✔Do puja  
