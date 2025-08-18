@@ -124,6 +124,8 @@ unnessary app list here only . . .
 • Strivers DSA  
 • CodeChef  
 
+• 72 rule
+
 -----
 
 
