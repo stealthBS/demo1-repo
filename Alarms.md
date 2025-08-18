@@ -140,5 +140,7 @@ combined AI chats : ask to chargpt, grok, etc.
 ------
 motive :  
 
-with a single chat we can able to do conversation with all the Top AI models, and then we can compare their response side-by-side comparison, and from this technique we can find the best possible response easily within a single screen (where no switch between tabs required)
+with a single chat we can able to do conversation with all the Top AI models, and then we can compare their response side-by-side comparison, and from this technique we can find the best possible response easily within a single screen (where no switch between tabs required)  
+
+side-by-side answer comparison
 
