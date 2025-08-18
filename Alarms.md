@@ -125,23 +125,4 @@ unnessary app list here only . . .
 • Strivers DSA  
 • CodeChef  
 
-• 72 rule
-
------
-
-
-combined AI chats : ask to chargpt, grok, etc. 
-- ChatGPT : is there any platform in which we can access chatgpt, grok, gemini, deepseek, perplexity
-- ChatGPT : which is the best platform that allow access to multiple AI models like ChatGPT, Grok, Gemini, DeepSeek, and Perplexity
-- Grok : is there any platform in which we can access chatgpt, grok, gemini, deepseek, perplexity
-- Grok : which is the best platform that allow access to multiple AI models like ChatGPT, Grok, Gemini, DeepSeek, and Perplexity
-- Grok : compare :  ' ithy vs Chatbot Arena (LMSYS) vs Poe vs Perplexity Pro vs AgentOps/LangChain ' their features, purpose in tabular manner, and also mentioned when it started
-- 
-
-------
-motive :  
-
-with a single chat we can able to do conversation with all the Top AI models, and then we can compare their response side-by-side comparison, and from this technique we can find the best possible response easily within a single screen (where no switch between tabs required)  
-
-side-by-side answer comparison
 
