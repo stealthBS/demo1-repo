@@ -21,7 +21,9 @@ It contains a quick note of important AI tools and with their purpose & use, so 
 
 And there are many Natural Language Processing (NLP) Tools or Text Generation/Conversation AI tools (Generative AI chatbot/assistance tools) e.g. **OpenAI's** [ChatGPT](https://chatgpt.com/), **Google's** [Gemini](https://gemini.google.com/) (rebranded of Google's Bard), **Microsoft's** [Copilot](https://copilot.microsoft.com/), **xAI's** [Grok](https://grok.com/), **Meta's** [Meta AI](https://www.meta.ai/), **DeepMind's** [DeepSeek AI](https://www.deepseek.com/) (its versions : [DeepSeek chat](https://deep-seek.chat/deepseek-chat/), [DeepSeekV3 chat](https://www.deepseekv3.net/en/chat), [DeepSeekV3 Prover](https://www.deepseekv3.net/en/deepseek-prover), [DeepSeekV3 R2](https://www.deepseekv3.net/en/deep-seek-r2), [DeepSeekV3 R1](https://www.deepseekv3.net/en/deep-seek-r1), [DeepSeekV3 Janus](https://www.deepseekv3.net/en/deep-seek-janus), [DeepSeekV3(0324)](https://www.deepseekv3.net/en/deepseek-v3-0324)), [Claude](https://claude.ai/), [Perplexity](https://www.perplexity.ai/), [Jarvis AI Assistant](https://jarvis.cx/chat/), etc.  
 
-Othere non-popular AI tools : Cognition's [Devin AI](https://app.devin.ai/), [Replit](https://replit.com/), [BlackBox AI](https://www.blackbox.ai/), etc.  
+Some other non-popular AI tools : Cognition's [Devin AI](https://app.devin.ai/), [Replit](https://replit.com/), [BlackBox AI](https://www.blackbox.ai/), etc.  
+
+Also, there are some platform that allow us access to multiple AI models like ChatGPT, Grok, Gemini, DeepSeek, and Perplexity at same time : . So, in these kind of platform we can easily compare the response from different AI models and then able to choose a best response according to our need.  
 
 But here we will mainly focus & discuss more about [OpenAI](https://openai.com/)'s [**ChatGPT**](https://chatgpt.com/) assistant tool and also we will discuss about other tools according to different works & purposes.  
 
