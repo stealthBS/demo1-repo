@@ -25,7 +25,7 @@ Some other non-popular AI tools : Cognition's [Devin AI](https://app.devin.ai/),
 
 Also, there are some platform that allow us access to multiple AI models (multi-model) like ChatGPT, Grok, Gemini, DeepSeek, and Perplexity **combinedly at the same time**, like : [Perplexity Pro](https://www.perplexity.ai/help-center/en/articles/10352901-what-is-perplexity-pro), Quora's [Poe](https://poe.com/), LMSYS's [Chatbot Arena](https://lmarena.ai/) (LMArena), [**Ithy**](https://ithy.com/), [HuggingChat](https://huggingface.co/chat), [**Lumio AI**](https://app.lumioai.tech/) (Indian), '[AgentOps](https://www.agentops.ai/)/[LangChain](https://www.langchain.com/langchain)', [ChatEzzy](https://chatezzy.com/), [AI Fiesta](https://aifiesta.ai/) (by [Dhurav Rathee](https://youtu.be/V-maA961SDE)), [MultipleChat](https://multiple.chat/). So, in these kind of platform we can easily compare the response from different AI models and then able to choose a best response according to our need. In one way we can say that these are **All-in-One AI models**. (**referred by ChatGPT & Grok)  
 
-All-in-One AI tool but no side-by-side answer comparision : ___  
+All-in-One AI tool but no side-by-side answer comparision : OpenRouter, ___  
 
 There're also some Explore AI tools, like : [AiPure](https://aipure.ai/), [Hugging Face](https://huggingface.co/spaces), [TheresAnAiForThat](https://theresanaiforthat.com/).  
 
