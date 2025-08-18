@@ -124,3 +124,9 @@ unnessary app list here only . . .
 • Strivers DSA  
 • CodeChef  
 
+-----
+
+
+combined AI chats : ask to chargpt, grok, etc. 
+- 
+
