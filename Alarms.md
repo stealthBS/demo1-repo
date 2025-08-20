@@ -124,4 +124,13 @@ unnessary app list here only . . .
 • Strivers DSA  
 • CodeChef  
 
+- - - - - - - -  
+
+• catogoriese it all notes
+• note check last portion . . . .
+• DevAsLife . . . . . & DevAsLife2 . . . . .
+• DSA & Algorithms . . .
+
+• keep here . . . .those :        HTML notes . . . .
+
 
