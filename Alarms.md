@@ -113,11 +113,10 @@ unnessary app list here only . . .
 • ✔At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
 
 • ChatGPT : i want to a bluelight glass for my eyes.  
-• Watch it : https://youtu.be/MQMPS7Se-9g , https://youtu.be/_HTRe7uSNo8 , https://youtu.be/19bdtq2UAAQ  
 • Chatgpt : which kind of workout we need to perform especiall when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness  
 • Chatgpt : 
 
-• tabs : gmail, chatgpt, udemy, github, ssc, flipkart  
+• tabs : gmail, chatgpt, udemy, github, ssc  
 
 • ✔AI course  
 • Back to Spring Boot  
