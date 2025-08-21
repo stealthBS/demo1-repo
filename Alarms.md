@@ -133,7 +133,4 @@ unnessary app list here only . . .
 
 • keep here . . . .those :        HTML notes . . . .  
 
-• PSA vidoes : video first and last portion  
-• urgent job requirement  
-
 
