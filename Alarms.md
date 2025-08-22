@@ -130,6 +130,8 @@ unnessary app list here only . . .
 • DSA & Algorithms . . .  
 • Correct all ✳Job related Notes  
 
+• Check : sticky notes, ChatGpt Q, ChatGpt A, Night questions. . .  
+
 • keep here . . . .those :        HTML notes . . . .  
 
 
