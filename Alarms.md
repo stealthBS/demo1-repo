@@ -127,7 +127,6 @@ unnessary app list here only . . .
 - - - - - - - -  
 
 • catogoriese it all notes  
-• note check last portion . . . .  
 • DSA & Algorithms . . .  
 
 • keep here . . . .those :        HTML notes . . . .  
