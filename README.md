@@ -155,18 +155,6 @@ Emoji we can use for our notes are :
 
 ----
 
-
-
-- - check serial no.
-- - check with date in video and date in title
-- - check video's last i.e. is it ending properly on time
-  
-  
-  - lastly. . . . check clean and logout and ready. . . .
-
---- 
----
-
 ### MuscleBlaze Testing
 - [ ] Fill a shaker with **200ml** of water, and mix 1 scooop (35gm) of Whey protein powder.
 - [ ] Shake the Whey protien properly, and allow it for sometime for free-foaming.
