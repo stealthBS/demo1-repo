@@ -133,5 +133,5 @@ unnessary app list here only . . .
 • Check : sticky notes, ChatGpt Q, ChatGpt A, Night questions. . .  
 
 • keep here . . . .those :        HTML notes . . . .  
-
+• ChatGPT : In my banyan (inner wear of men) have a lot of dirt . . . .  
 
