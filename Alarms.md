@@ -128,6 +128,7 @@ unnessary app list here only . . .
 
 • catogoriese it all notes  
 • DSA & Algorithms . . .  
+• Correct all ✳Job related Notes  
 
 • keep here . . . .those :        HTML notes . . . .  
 
