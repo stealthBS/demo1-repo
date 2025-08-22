@@ -180,16 +180,7 @@ Emoji we can use for our notes are :
 - [ ] Can **record** it. . . . .
 <br>
 
-- [ ] After 24 hours, observe it whey content from this [Youtube](https://youtu.be/YdYaF1JApq4&t2m33s&t=2m32s) or [Youtube](https://youtu.be/Nh_cMTQonmg) link.
-
------
-
-pending :  
-- clear mobile notes properly. . .
-- dairymilk chocolate. . .
-
-
-
+- [ ] After 24 hours, observe it whey content from this [Youtube](https://youtu.be/YdYaF1JApq4&t2m33s&t=2m32s) or [Youtube](https://youtu.be/Nh_cMTQonmg) link.  
 
 
 
