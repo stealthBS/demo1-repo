@@ -83,7 +83,7 @@ unnessary app list here only . . .
 • Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
 
 • [dn]Make your all alarm ready  
-• ✔then make their Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
+• [dn]then make their Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
 
 • [dn]see White box writtens. . . . .  
 • ✔Mobile all notepad setting  
