@@ -126,16 +126,10 @@ unnessary app list here only . . .
 
 - - - - - - - -  
 
-• catogoriese it all notes  
 • DSA & Algorithms . . .  
-• Correct all ✳Job related Notes  
 
 • Check : sticky notes, ChatGpt Q, ChatGpt A, Night questions. . .  
 
-• Finally Rearrange those notepads of mobile according to they Pinned above by going through its previous screenshot. . . . .  
-
-• This is the ERA of Zombies where people do doomScrooling only : through this make profile if you can do  
+• This is the era of Zombies where people do doomScrooling only : through this make profile if you can do  
 
 • keep here . . . .those :        HTML notes . . . .  
-• ChatGPT : In my banyan (inner wear of men) have a lot of dirt . . . .  
-
