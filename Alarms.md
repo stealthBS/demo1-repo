@@ -124,7 +124,7 @@ unnessary app list here only . . .
 • Strivers DSA  
 • CodeChef  
 
-• ✔ Merge the PC .txt files : "Guidence & path..", "sequencing..", "RoadMap.."  (PSAwise... VS UdemyWise...)
+• ✔ Merge the PC .txt files : "Guidence & path..", "sequencing..", "RoadMap.."  (PSAwise...(based on recordings) VS UdemyWise...)
 - - - - - - - -  
 
 • DSA & Algorithms . . .  
