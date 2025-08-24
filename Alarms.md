@@ -21,7 +21,7 @@ Alarm according to Activities preference/proirity :
 
 
 #### ✅Early Sleep to Early WakeUp schedule
-Help to wakeup in Brahma Muhurta, help to recovery from Nocturnal emission as deepest REM sleep stages not happening here, day feels like long so get enough time to do work.
+Help to wakeup in Brahma Muhurta, help to recovery from *Nocturnal emission* as deepest REM sleep stages not happening here, day feels like long so get enough time to do work. (As deepest REM sleep not happeninng here, so early morning wakeup may effect the "morning wood" i.e. *Nocturnal penile tumescence*).  
 
 | Time | Description | Frequency | Jarvis assistant alert |
 | ---- | ----------- | --------- | ---------------------- |
