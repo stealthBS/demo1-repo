@@ -129,7 +129,7 @@ unnessary app list here only . . .
 
 • DSA & Algorithms . . .  
 
-• Check : sticky notes, ChatGpt Q, ChatGpt A, Night questions. . .  
+• Check : sticky notes, Night questions. . .  
 
 • This is the era of Zombies where people do doomScrooling only : through this make profile if you can do  
 
