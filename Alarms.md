@@ -125,11 +125,9 @@ unnessary app list here only . . .
 • CodeChef  
 
 • ✔ Merge the PC .txt files : "Guidence & path..", "sequencing..", "RoadMap.."  (PSAwise...(based on recordings) VS UdemyWise...)
-- - - - - - - -  
+• ✔✳DSA & Algorithms (mobile notes to combine ✳) . . .  
 
-• DSA & Algorithms . . .  
-
-• Check : sticky notes, Night questions. . .  
+• [dn]Check : sticky notes, Night questions. . .  
 
 • This is the era of Zombies where people do doomScrooling only : through this make profile if you can do  
 
