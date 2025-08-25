@@ -133,3 +133,6 @@ unnessary app list here only . . .
 • ✔keep here . . . .those :        HTML notes . . . .  
 
 • remove all fk bookmarks from the PC browser  
+
+• Online SIM making  
+• Online Blood tests  
