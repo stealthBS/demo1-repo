@@ -131,4 +131,4 @@ unnessary app list here only . . .
 
 • This is the era of Zombies where people do doomScrooling only : through this make profile if you can do  
 
-• keep here . . . .those :        HTML notes . . . .  
+• ✔keep here . . . .those :        HTML notes . . . .  
