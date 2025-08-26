@@ -136,3 +136,5 @@ unnessary app list here only . . .
 
 • Online SIM making  
 • Online Blood tests  
+
+• Portable SSD  
