@@ -134,7 +134,7 @@ unnessary app list here only . . .
 
 • remove all fk bookmarks from the PC browser  
 
-• Online SIM making  
-• Online Blood tests  
+• Online SIM making (4g sim, 5g sim, 4g mobile, 5g mobile)  
+• Online Blood tests empty stomach 12hours  
 
 • Portable SSD  
