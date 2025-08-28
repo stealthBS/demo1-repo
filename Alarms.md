@@ -139,3 +139,5 @@ unnessary app list here only . . .
 
 • Portable SSD  
 • loop quiet earplugs (especially the most quiet & sleeping purpose)  
+
+• WhatsApp message  
