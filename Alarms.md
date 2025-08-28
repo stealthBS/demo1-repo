@@ -142,3 +142,4 @@ unnessary app list here only . . .
 • loop quiet earplugs (especially the most quiet & sleeping purpose)  
 
 • WhatsApp message  
+• Full mobile note clearing  
