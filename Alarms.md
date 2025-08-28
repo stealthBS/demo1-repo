@@ -93,6 +93,7 @@ unnessary app list here only . . .
 ✔✔✔✔✔✔✔✔✔  
 • go through all SSC bookmarks of the browser and then do the following tasks. . . . . .  
 • SSC admit card  
+• Bookmarks in PC of SSC  
 • SSC exam from 1st week from Sepetember  
 • SSC visit location  
 • SSC preparation  
