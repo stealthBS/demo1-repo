@@ -135,6 +135,8 @@ unnessary app list here only . . .
 
 • remove all fk bookmarks from the PC browser  
 
+• Router odd time testing like : 10pm to 2am and 11am to 1pm
+
 • Online SIM making (4g sim, 5g sim, 4g mobile, 5g mobile)  
 • Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
 
