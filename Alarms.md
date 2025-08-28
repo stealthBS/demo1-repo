@@ -139,7 +139,7 @@ unnessary app list here only . . .
 • Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
 
 • Portable SSD  
-• loop quiet earplugs (especially the most quiet & sleeping purpose)  
+• loop quiet earplugs (especially the most quiet & sleeping purpose) : loop quiet earplugs  
 
 • WhatsApp message  
 • Full mobile note clearing  
