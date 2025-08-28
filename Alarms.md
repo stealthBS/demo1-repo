@@ -143,3 +143,4 @@ unnessary app list here only . . .
 
 • WhatsApp message  
 • Full mobile note clearing  
+• Dhurav rathee collection in PC  
