@@ -139,6 +139,7 @@ unnessary app list here only . . .
 
 • Online SIM making (4g sim, 5g sim, 4g mobile, 5g mobile)  
 • Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
+• checkUPs : https://youtu.be/AWfQODsQB_8, https://youtu.be/75T6q8GAqCg, https://youtu.be/HWk90BPotjw, https://youtu.be/IAlNcDSuz1M  
 
 • Portable SSD  
 • loop quiet earplugs (especially the most quiet & sleeping purpose) : loop quiet earplugs  
