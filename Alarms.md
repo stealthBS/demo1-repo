@@ -143,6 +143,7 @@ unnessary app list here only . . .
 
 • Portable SSD  
 • loop quiet earplugs (especially the most quiet & sleeping purpose) : loop quiet earplugs  
+• [Loop Earplugs](https://loopearplugs.in/collections/all)  // GPT : go through this link : https://loopearplugs.in/collections/all --> then give me the this earplug list in rankwise (eg. the most/highest queit earplug first and then follow by little less, and so on)  
 
 • WhatsApp message  
 • Full mobile note clearing  
