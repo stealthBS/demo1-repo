@@ -137,7 +137,7 @@ unnessary app list here only . . .
 
 • Router odd time testing like : 10pm to 2am and 11am to 1pm
 
-• Online SIM making (4g sim, 5g sim, 4g mobile, 5g mobile)  
+• Online SIM making (4g sim, 5g sim,  eSIM,  4g mobile, 5g mobile)  
 • Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
 • checkUPs : https://youtu.be/AWfQODsQB_8, https://youtu.be/75T6q8GAqCg, https://youtu.be/HWk90BPotjw, https://youtu.be/IAlNcDSuz1M  
 
@@ -154,3 +154,8 @@ unnessary app list here only . . .
 • Washings after medical  
 
 • Check your all Gmails  
+
+• Steroid medicines  
+• earplug silent  
+• diaherea point like : first watery, then little normal with blood drop,  
+• IBS : Milk, raw Onion, cruciferous--> cabbage  
