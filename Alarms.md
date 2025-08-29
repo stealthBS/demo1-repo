@@ -159,3 +159,5 @@ unnessary app list here only . . .
 • earplug silent  
 • diaherea point like : first watery, then little normal with blood drop,  
 • IBS : Milk, raw Onion, cruciferous--> cabbage  
+
+• Wifi bandwidth speed limit control || permenantaly diable the Ethernet || not google, youtube, ---> mention nothing so to apply all  
