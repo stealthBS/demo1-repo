@@ -143,6 +143,7 @@ unnessary app list here only . . .
 
 • Portable SSD  
 • [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY**>>  
+• ✔ DIY silent earplug  
 • check '3D Objects' PDFs in PC.  
 
 • WhatsApp message  
