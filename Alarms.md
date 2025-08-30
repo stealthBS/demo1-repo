@@ -142,9 +142,7 @@ unnessary app list here only . . .
 • checkUPs : https://youtu.be/AWfQODsQB_8, https://youtu.be/75T6q8GAqCg, https://youtu.be/HWk90BPotjw, https://youtu.be/IAlNcDSuz1M  
 
 • Portable SSD  
-• loop quiet earplugs (especially the most quiet & sleeping purpose) : loop quiet earplugs  
-• [Loop Earplugs](https://loopearplugs.in/collections/all)  // GPT : go through this link : https://loopearplugs.in/collections/all --> then give me the this earplug list in rankwise (eg. the most/highest queit earplug first and then follow by little less, and so on)  
-• Rank for sleep priority : Loop Dream, Loop Quiet 2 Plus, Loop Quiet 2, Loop Switch 2, Loop Experience 2 Plus, Loop Experience 2, Loop Engage 2 Plus, Loop Engage 2, Loop Experience x Tomorrowland, Loop Experience x McLaren, Loop Engage Kids. <<check the most reviewed>>  
+• [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<check reviewed>>  
 • check '3D Objects' PDFs in PC.  
 
 • WhatsApp message  
