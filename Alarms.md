@@ -157,7 +157,7 @@ unnessary app list here only . . .
 • Steroid medicines  
 • earplug silent  
 • diaherea point like : first watery, then little normal with blood drop,  
-• IBS : Milk, raw Onion, cruciferous--> cabbage  
+• IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread  
 
 • Wifi bandwidth speed limit control || permenantaly diable the Ethernet || not google, youtube, ---> mention nothing so to apply all  
 
