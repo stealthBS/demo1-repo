@@ -160,3 +160,5 @@ unnessary app list here only . . .
 • IBS : Milk, raw Onion, cruciferous--> cabbage  
 
 • Wifi bandwidth speed limit control || permenantaly diable the Ethernet || not google, youtube, ---> mention nothing so to apply all  
+
+• Camera Box ready  
