@@ -155,6 +155,7 @@ unnessary app list here only . . .
 • Check your all Gmails  
 
 • Steroid medicines  
+• ✔Ration list to make 
 • earplug silent  
 • diaherea point like : first watery, then little normal with blood drop,  
 • IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread  
