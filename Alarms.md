@@ -38,6 +38,7 @@ Help to wakeup in Brahma Muhurta, help to recovery from *Nocturnal emission* as 
 - Waking up early doesn't means sleeping less or compromising with sleep and live a boring/struggled/tired day, it means sleep 8 hours or as much as you want, but wakeup early in the morning without feeling sleepy any more. So here we need to sleep too early to wake up too early, that simple it's, it required more discipline and need to have more control on social media & screentime.
 - IN THIS CASE : If we don't have habit of early morning wakingup, then if we are sleeping for 7 hours, we need 8 hours duration of sleep, so that in 1st 1 Hour we will feeling sleep or going to sleep or struggle to fall asleep, and the remaining 7 hours we'll be actual sleeping, and this counts 7 hours of sleep. And in the morning the body will automatically get up without any lazziness and feels more energetic/recovered/Fuelled-up. [Here, the sleeping hours based on 8-8-8 Rule]  
 - Sunlight exposure for vitaminD before bathing is consider more safer choice. But 30min to 2hrs also recommended to wait after the sunlight exposure so that vitaminD get absorb in a good amoount.
+- If feel sleepy in daytime, then for alertness can play any high-stimulus game e.g. IGI series, etc.  
 - Alert types :
   - Jarvis assistance - don't you want. . .
   - Sergent Drill instructor roar. . .da*n, f*ck, Lasisis, AAVE English,  
