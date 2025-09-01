@@ -141,6 +141,7 @@ unnessary app list here only . . .
 • Online SIM making (4g sim, 5g sim,  eSIM,  4g mobile, 5g mobile)  
 • Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
 • checkUPs : https://youtu.be/AWfQODsQB_8, https://youtu.be/75T6q8GAqCg, https://youtu.be/HWk90BPotjw, https://youtu.be/IAlNcDSuz1M  
+• Appointment booking, and shaving hairs  
 
 • Portable SSD  
 • [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY**>>  
