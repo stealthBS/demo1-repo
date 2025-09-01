@@ -172,4 +172,8 @@ unnessary app list here only . . .
 
 • Upload records in DropBox of all the Threats  
 
+-------------
+
+• First open notepad and do catogorize there like : Done || ToDo  
+• and then update here, but before that don't delete here anything  . . . move quickly its **September**.  
 
