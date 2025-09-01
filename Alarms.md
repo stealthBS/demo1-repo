@@ -165,4 +165,6 @@ unnessary app list here only . . .
 • Camera Box ready  
 • Room switch settings  
 
+• How to recovery from BlueScreen death  
+
 
