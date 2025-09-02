@@ -177,3 +177,5 @@ unnessary app list here only . . .
 • First open notepad and do catogorize there like : Done || ToDo  
 • and then update here, but before that don't delete here anything  . . . move quickly its **September**.  
 
+• Fee AI course : [OutSkill](https://go.outskill.com/mastermind-zepto?utm_source=Zepto&utm_medium=Zetpto_AO&utm_campaign=AO-Zepto-AI-MasterMind-Prospecting-1-FW-MM-2D-Free-IND-Multi+Mentor+Campaign&utm_term=Zepto-AI-MasterMind-BAU-AO&utm_content=Zepto_September)  
+
