@@ -90,7 +90,8 @@ unnessary app list here only . . .
 - Do start using in note alarm. . . it just gives you a notification only  
 - Chatgpt : which kind of workout we need to perform especiall when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness  
 - WhatsApp message
-- Do puja  
+- Do puja
+- Check your all Gmails  
 
 <br>  
 <br>  
@@ -102,7 +103,6 @@ unnessary app list here only . . .
 - Record PSA new Angular Batch  
 - PG Rent  
 - At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
-- Check your all Gmails  
 - Washings after medical  
 - ChatGPT : i want to a bluelight glass for my eyes. ((**check all grocery apps for it - and ask to chatgpt for quality check**))  
 - earplug silent : [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY** silent earplug>>  
