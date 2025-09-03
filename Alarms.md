@@ -89,18 +89,18 @@ unnessary app list here only . . .
 - [dn]Check : sticky notes, Night questions. . .  
 - Do start using in note alarm. . . it just gives you a notification only  
 - Chatgpt : which kind of workout we need to perform especiall when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness  
-- WhatsApp message  
+- WhatsApp message
+- Do puja  
 
 <br>  
 <br>  
 
 
 ### ToDo || And to do regularly :  
-- ✔then make their Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
-- ✔Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .  
+- then make their Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
+- Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .  
 - PG Rent  
-- ✔Do puja  
-- ✔At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
+- At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
 - Check your all Gmails  
 - Washings after medical  
 - ChatGPT : i want to a bluelight glass for my eyes. ((**check all grocery apps for it - and ask to chatgpt for quality check**))  
@@ -124,11 +124,11 @@ unnessary app list here only . . .
 
 <br>  
 
-- ✔keep here . . . .those : HTML notes . . . .  
+- keep here . . . .those : HTML notes . . . .  
 
 <br>
 
-- ✔✳DSA & Algorithms (mobile notes to combine ✳) . . .  
+- ✳DSA & Algorithms (mobile notes to combine ✳) . . .  
 - Strivers DSA  - source  
 - CodeChef - soucrce  
 
