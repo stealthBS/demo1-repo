@@ -98,7 +98,8 @@ unnessary app list here only . . .
 
 ### ToDo || And to do regularly :  
 - Make the Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
-- Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .  
+- Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .
+- Record PSA new Angular Batch  
 - PG Rent  
 - At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
 - Check your all Gmails  
