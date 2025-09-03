@@ -81,101 +81,76 @@ unnessary app list here only . . .
 -----
 -----
 
-• Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
+### Done || But again re-check required :  
+- [dn] Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
+- [dn] Make your all alarm ready  
+- [dn] see White box writtens. . . . .  
+- [dn] Mobile all notepad setting OR Full mobile notepad clearing  
+- ✔Do start using in note alarm. . . it just gives you a notification only  
+- Chatgpt : which kind of workout we need to perform especiall when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness  
+- [dn]Check : sticky notes, Night questions. . .  
+- WhatsApp message  
 
-• [dn]Make your all alarm ready  
-• ✔then make their Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
 
-• [dn]see White box writtens. . . . .  
-• [dn]Mobile all notepad setting  
 
-• ✔Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .  
+
+### ToDo || And to do regularly :  
+- ✔then make their Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
+- ✔Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .  
+- PG Rent  
+- ✔Do puja  
+- ✔At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
+- Check your all Gmails  
+- Washings after medical  
+- ChatGPT : i want to a bluelight glass for my eyes. ((**check all grocery apps for it - and ask to chatgpt for quality check**))  
+- earplug silent : [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY** silent earplug>>  
+- remove all fk bookmarks from the PC browser  
+- Portable SSD  
+- check '3D Objects' PDFs in PC.  
+- Dhurav rathee collection in PC watching  
+- Camera Box ready  
+- Room switch settings  
+- How to recovery from BlueScreen death  
+- Upload records in DropBox of all the Threats  
+
+- Online SIM making (4g sim, 5g sim,  eSIM,  4g mobile, 5g mobile)  
+- Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
+- checkUPs : https://youtu.be/AWfQODsQB_8, https://youtu.be/75T6q8GAqCg, https://youtu.be/HWk90BPotjw, https://youtu.be/IAlNcDSuz1M  
+- Appointment booking, and shaving hairs  
+- IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread  
+
+- ✔keep here . . . .those : HTML notes . . . .  
+
+- ✔✳DSA & Algorithms (mobile notes to combine ✳) . . .  
+- Strivers DSA  - source  
+- CodeChef - soucrce  
+
+
+
+### Pending Tasks : Long term tasks  
+- move quickly its **September**.  
+- tabs : gmail, chatgpt, udemy, github, ssc  
+
+- ✔AI course UDEMY // Fee AI course : [OutSkill](https://go.outskill.com/mastermind-zepto?utm_source=Zepto&utm_medium=Zetpto_AO&utm_campaign=AO-Zepto-AI-MasterMind-Prospecting-1-FW-MM-2D-Free-IND-Multi+Mentor+Campaign&utm_term=Zepto-AI-MasterMind-BAU-AO&utm_content=Zepto_September)  
+- Back to Spring Boot  
 
 ✔✔✔✔✔✔✔✔✔  
-• go through all SSC bookmarks of the browser and then do the following tasks. . . . . .  
-• SSC admit card  
-• Bookmarks in PC of SSC  
-• SSC exam from 1st week from Sepetember  
-• SSC visit location  
-• SSC preparation  
-• SSC : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
-• Before giving exam, try to give at least some MOCK TESTs to be used to with the SSC exam, which don't feel like new.  
-• Things to take on SSC exam : 2 admit card copy, 
-• Kannada  
-• Any pending works : SIM making. . . .  
+- go through all SSC bookmarks of the browser and then do the following tasks. . . . . .  
+- SSC admit card  
+- Bookmarks in PC of SSC  
+- SSC exam from 1st week from Sepetember  
+- SSC visit location  
+- SSC preparation  
+- SSC : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
+- Before giving exam, try to give at least some MOCK TESTs to be used to with the SSC exam, which don't feel like new.  
+- Things to take on SSC exam : 2 admit card copy,  
+- Kannada  
+- Any pending works : SIM making OR ONline . . . .  
 
-• German : use contracted form pronouncing, native accent way of pronouncing, colloquial way of speaking, know alphabets how it pronounces, then it make sound more native.  
-• ChatGPT : like in english there's contracted form of many english words or words combination like : • cannot -> can't • would not -> won't and so on. . . . . which while speaking sounds more native. Similarly, is there any contracted form in German also?  
 
-• YT - ready to eat review  
-• PG Rent  
-• Whey protein offer time : Naturalein : : :   
+- German : use contracted form pronouncing, native accent way of pronouncing, colloquial way of speaking, know alphabets how it pronounces, then it make sound more native.  
+- ChatGPT : like in english there's contracted form of many english words or words combination like : • cannot -> can't • would not -> won't and so on. . . . . which while speaking sounds more native. Similarly, is there any contracted form in German also?  
 
-• ✔Do start using in note alarm. . . it just gives you a notification only  
-• ✔Do puja  
-• ✔At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
 
-• ChatGPT : i want to a bluelight glass for my eyes.  
-• Chatgpt : which kind of workout we need to perform especiall when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness  
-• Chatgpt : 
-
-• tabs : gmail, chatgpt, udemy, github, ssc  
-
-• ✔AI course  
-• Back to Spring Boot  
-
-• Strivers DSA  
-• CodeChef  
-
-• ✔✳DSA & Algorithms (mobile notes to combine ✳) . . .  
-
-• [dn]Check : sticky notes, Night questions. . .  
-
-• This is the era of Zombies where people do doomScrooling only : through this make profile if you can do  
-
-• ✔keep here . . . .those :        HTML notes . . . .  
-
-• remove all fk bookmarks from the PC browser  
-
-• Router odd time testing like : 10pm to 2am and 11am to 1pm
-
-• Online SIM making (4g sim, 5g sim,  eSIM,  4g mobile, 5g mobile)  
-• Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
-• checkUPs : https://youtu.be/AWfQODsQB_8, https://youtu.be/75T6q8GAqCg, https://youtu.be/HWk90BPotjw, https://youtu.be/IAlNcDSuz1M  
-• Appointment booking, and shaving hairs  
-
-• Portable SSD  
-• [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY**>>  
-• ✔ DIY silent earplug  
-• check '3D Objects' PDFs in PC.  
-
-• WhatsApp message  
-• Full mobile note clearing  
-• Dhurav rathee collection in PC  
-
-• Washings after medical  
-
-• Check your all Gmails  
-
-• Steroid medicines  
-• ✔Ration list to make 
-• earplug silent  
-• diaherea point like : first watery, then little normal with blood drop,  
-• IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread  
-
-• Wifi bandwidth speed limit control || permenantaly diable the Ethernet || not google, youtube, ---> mention nothing so to apply all  
-
-• Camera Box ready  
-• Room switch settings  
-
-• How to recovery from BlueScreen death  
-
-• Upload records in DropBox of all the Threats  
-
--------------
-
-• First open notepad and do catogorize there like : Done || ToDo  
-• and then update here, but before that don't delete here anything  . . . move quickly its **September**.  
-
-• Fee AI course : [OutSkill](https://go.outskill.com/mastermind-zepto?utm_source=Zepto&utm_medium=Zetpto_AO&utm_campaign=AO-Zepto-AI-MasterMind-Prospecting-1-FW-MM-2D-Free-IND-Multi+Mentor+Campaign&utm_term=Zepto-AI-MasterMind-BAU-AO&utm_content=Zepto_September)  
+- This is the era of Zombies where people do doomScrooling only : through this make profile if you can do  
 
