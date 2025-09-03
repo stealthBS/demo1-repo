@@ -97,7 +97,7 @@ unnessary app list here only . . .
 
 
 ### ToDo || And to do regularly :  
-- then make their Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
+- Make the Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
 - Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .  
 - PG Rent  
 - At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
