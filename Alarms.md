@@ -103,7 +103,7 @@ unnessary app list here only . . .
 - Record PSA new Angular Batch  
 - PG Rent  
 - At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
-- Washings after medical  
+- Washings after medical clothes : wiat for exam, checkUPs, etc.  
 - ChatGPT : i want to a bluelight glass for my eyes. ((**check all grocery apps for it - and ask to chatgpt for quality check**))  
 - earplug silent : [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY** silent earplug>>  
 - remove all fk bookmarks from the PC browser  
