@@ -112,16 +112,22 @@ unnessary app list here only . . .
 - Camera Box ready  
 - Room switch settings  
 - How to recovery from BlueScreen death  
-- Upload records in DropBox of all the Threats  
+- Upload records in DropBox of all the Threats
+
 <br>  
+
 - Online SIM making (4g sim, 5g sim,  eSIM,  4g mobile, 5g mobile)  
 - Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
 - checkUPs : https://youtu.be/AWfQODsQB_8, https://youtu.be/75T6q8GAqCg, https://youtu.be/HWk90BPotjw, https://youtu.be/IAlNcDSuz1M  
 - Appointment booking, and shaving hairs  
-- IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread  
+- IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread
+
 <br>  
+
 - ✔keep here . . . .those : HTML notes . . . .  
-<br>  
+
+<br>
+
 - ✔✳DSA & Algorithms (mobile notes to combine ✳) . . .  
 - Strivers DSA  - source  
 - CodeChef - soucrce  
@@ -133,11 +139,15 @@ unnessary app list here only . . .
 
 ### Pending Tasks : Long term tasks  
 - move quickly its **September**.  
-- tabs : gmail, chatgpt, udemy, github, ssc  
+- tabs : gmail, chatgpt, udemy, github, ssc
+
 <br>  
+
 - ✔AI course UDEMY // Fee AI course : [OutSkill](https://go.outskill.com/mastermind-zepto?utm_source=Zepto&utm_medium=Zetpto_AO&utm_campaign=AO-Zepto-AI-MasterMind-Prospecting-1-FW-MM-2D-Free-IND-Multi+Mentor+Campaign&utm_term=Zepto-AI-MasterMind-BAU-AO&utm_content=Zepto_September)  
 - Back to Spring Boot  
+
 <br>  
+
 ✔✔✔✔✔✔✔✔✔  
 - go through all SSC bookmarks of the browser and then do the following tasks. . . . . .  
 - SSC admit card  
@@ -152,9 +162,11 @@ unnessary app list here only . . .
 - Any pending works : SIM making OR ONline . . . .  
 
 <br>  
+
 - German : use contracted form pronouncing, native accent way of pronouncing, colloquial way of speaking, know alphabets how it pronounces, then it make sound more native.  
 - ChatGPT : like in english there's contracted form of many english words or words combination like : • cannot -> can't • would not -> won't and so on. . . . . which while speaking sounds more native. Similarly, is there any contracted form in German also?  
 
 <br>  
+
 - This is the era of Zombies where people do doomScrooling only : through this make profile if you can do  
 
