@@ -85,10 +85,10 @@ unnessary app list here only . . .
 - [dn] Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
 - [dn] Make your all alarm ready  
 - [dn] see White box writtens. . . . .  
-- [dn] Mobile all notepad setting OR Full mobile notepad clearing  
-- ✔Do start using in note alarm. . . it just gives you a notification only  
-- Chatgpt : which kind of workout we need to perform especiall when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness  
+- [dn] Mobile all notepad setting OR Full mobile notepad clearing
 - [dn]Check : sticky notes, Night questions. . .  
+- Do start using in note alarm. . . it just gives you a notification only  
+- Chatgpt : which kind of workout we need to perform especiall when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness  
 - WhatsApp message  
 
 <br>  
