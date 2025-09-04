@@ -115,12 +115,14 @@ unnessary app list here only . . .
 - How to recovery from BlueScreen death  
 - Upload records in DropBox of all the Threats
 - stuart little movie download
+- [ABS](https://youtube.com/shorts/TNZJ3N2OkWE)
 
 <br>  
 
 - Online SIM making (4g sim, 5g sim,  eSIM,  4g mobile, 5g mobile) - presently support **Nano SIM** - check ChatGPT : "Get Jio SIM card"  
 - Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
-- Appointment booking, and shaving hairs  
+- Appointment booking, and shaving hairs
+- [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM)
 - IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread
 
 <br>  
