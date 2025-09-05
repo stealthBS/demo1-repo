@@ -122,7 +122,7 @@ unnessary app list here only . . .
 - Online SIM making (4g sim, 5g sim,  eSIM,  4g mobile, 5g mobile) - presently support **Nano SIM** - check ChatGPT : "Get Jio SIM card"  
 - Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
 - Appointment booking, and shaving hairs
-- [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM)
+- [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
 - IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread, beetroot
 
 <br>  
