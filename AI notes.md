@@ -235,7 +235,7 @@ We can able to craft any type of prompt but it must fulfills the below essential
 - [x] EXAMPLE : How should the response look?
 - [x] ROLE : Who should the AI act like?
 - [x] FORMATTING : How should the answer be structured?
-- [x] BOUNDRIES : Set limits on style, tone, length.  
+- [x] BOUNDARIES : Set limits on style, tone, length.  
 
 ----
 
