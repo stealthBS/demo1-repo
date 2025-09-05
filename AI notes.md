@@ -286,7 +286,7 @@ And then we aks ChatGPT like :
 And then it will do its analysis and provide us data.  
 
 
-So, basically here 'priming' data means, providing the AI first with data, and then ask question regarding it. (If don't understand it, then this also we can also to ChatGPT like : *`what is Prompt priming? (tell me in simple)`*)  
+So, basically here 'priming' data means, providing the AI first with data, and then ask question regarding it. (If don't understand it, then this also we can also ask to ChatGPT like : *`what is Prompt priming? (tell me in simple)`*)  
 
 ----
 
