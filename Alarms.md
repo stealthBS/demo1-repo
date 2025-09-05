@@ -123,7 +123,7 @@ unnessary app list here only . . .
 - Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
 - Appointment booking, and shaving hairs
 - [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM)
-- IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread
+- IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread, beetroot
 
 <br>  
 
