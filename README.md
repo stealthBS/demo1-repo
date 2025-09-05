@@ -143,8 +143,10 @@ Emoji we can use for our notes are :
 
 
 > ##### Note :  
-> can make here notes, or write some main points. . .
+> can make here notes, or write some main points. . .  
 
+
+To control YouTube video time, follow this [link](https://youtu.be/LyZjczX5BlQ).  
 
 --- 
 
