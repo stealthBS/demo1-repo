@@ -143,7 +143,7 @@ This is where we teach ChatGPT about us once with custom instructions, and then 
 
 
 <h5 align="center">Memory feature of ChatGPT (path : <i>profile icon > Settings > Personalization > Memory</i>)</h5>
-'Memory' is a feature in ChatGPT, where it remembers all our important details from our earlier chats/conversations e.g. our goals, what we are doing, what we'll going to do, what our plans, what is our profession, etc. And we have option to enable or disable it for our replies, and also if we want we can delete/edit-update/reset these memories from the list. But thsi feature won't works in Temporary chats.  
+'Memory' is a feature in ChatGPT, where it remembers all our important details from our earlier chats/conversations e.g. our goals, what we are doing, what we'll going to do, what our plans, what is our profession, etc. And we have option to enable or disable it for our replies, and also if we want we can delete/edit-update/reset these memories from the list. But this feature won't works in Temporary chats.  
 
 We can also tell ChatGPT what to keep in memory while chating in a conversation.  
 
