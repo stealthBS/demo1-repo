@@ -161,7 +161,8 @@ unnessary app list here only . . .
 - Before giving exam, try to give at least some MOCK TESTs to be used to with the SSC exam, which don't feel like new.  
 - Things to take on SSC exam : 2 admit card copy,  
 - Kannada revise  
-- Any pending works : SIM making OR ONline . . . .  
+- Any pending works : SIM making OR ONline . . . .
+- Bag keeping extra charges : so thing properly what to take and what not, as it is very risky  
 
 <br>  
 
