@@ -157,7 +157,7 @@ unnessary app list here only . . .
 - SSC exam from 1st week from Sepetember  
 - SSC visit location  
 - SSC preparation  
-- SSC : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
+- SSC tier-1 : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
 - Before giving exam, try to give at least some MOCK TESTs to be used to with the SSC exam, which don't feel like new.  
 - Things to take on SSC exam : 2 admit card copy,  
 - Kannada revise  
