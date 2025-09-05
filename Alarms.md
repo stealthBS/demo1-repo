@@ -146,7 +146,7 @@ unnessary app list here only . . .
 
 <br>  
 
-- ✔AI course UDEMY // Fee AI course : [OutSkill](https://go.outskill.com/mastermind-zepto?utm_source=Zepto&utm_medium=Zetpto_AO&utm_campaign=AO-Zepto-AI-MasterMind-Prospecting-1-FW-MM-2D-Free-IND-Multi+Mentor+Campaign&utm_term=Zepto-AI-MasterMind-BAU-AO&utm_content=Zepto_September)  
+- ✔AI course UDEMY // Fee AI course : [OutSkill](https://go.outskill.com/mastermind-zepto?utm_source=Zepto&utm_medium=Zetpto_AO&utm_campaign=AO-Zepto-AI-MasterMind-Prospecting-1-FW-MM-2D-Free-IND-Multi+Mentor+Campaign&utm_term=Zepto-AI-MasterMind-BAU-AO&utm_content=Zepto_September). Their [WhatsApp group](https://chat.whatsapp.com/Cf4EqLjCcS74kHigYd3HAp?data_id=8fed3e03-e2b1-4e1d-93f9-17f69df68b14&utm_source=Zepto&utm_medium=Zetpto_AO&utm_campaign=AO-Zepto-AI-MasterMind-Prospecting-1-FW-MM-2D-Free-IND-Multi%20Mentor%20Campaign&utm_term=Zepto-AI-MasterMind-BAU-AO&utm_content=Zepto_September)  
 - Back to Spring Boot  
 
 <br>  
