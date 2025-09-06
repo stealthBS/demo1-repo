@@ -27,7 +27,7 @@ Also, there are some platforms that allow us access to multiple AI models (multi
 
 All-in-One AI tool but no side-by-side answer comparision : OpenRouter, ___  
 
-There're also some Explore AI tools, like : [AiPure](https://aipure.ai/), [Hugging Face](https://huggingface.co/spaces), [TheresAnAiForThat](https://theresanaiforthat.com/), [StackReaction](https://stackreaction.com/), [Coze](https://www.coze.com/), [MyZone AI](https://myzone.ai/).  
+There're also some explore/repository of AI tools, like : [AiPure](https://aipure.ai/), [Hugging Face](https://huggingface.co/spaces), [TheresAnAiForThat](https://theresanaiforthat.com/), [StackReaction](https://stackreaction.com/), [Coze](https://www.coze.com/), [MyZone AI](https://myzone.ai/).  
 
 But here we will mainly focus & discuss more about [OpenAI](https://openai.com/)'s [**ChatGPT**](https://chatgpt.com/) assistant tool and also we will discuss about other tools according to different works & purposes.  
 
