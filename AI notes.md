@@ -281,7 +281,7 @@ It like providing enough information, then ask AI questions regarding it. We can
 *`>> 📤+Upload+ or copy-paste the Wimbledon 2024 data from wikipedia `*  
 So then it starts understand and reading the data. . . . .  
 
-And then we aks ChatGPT like :  
+And then we ask ChatGPT like :  
 *`Using only the data provided in this thread from Wimbledon 2024 match data, predict who will win Wimbledon 2025. Don't research the web for extra data.`*  
 And then it will do its analysis and provide us data.  
 
@@ -300,9 +300,9 @@ So, basically here 'priming' data means, providing the AI first with data, and t
 
 
 #### 🔰Lesson 8 : Prompt Chaining  
-Here we are create a type of prompt which includes a lot of tasks at a time, but we have asked it to AI in a sequence manner or in a step-by-step manner. It will be going to include a whole task e.g. about business and its marketing, etc.  
+Here we are creating a type of prompt which includes a lot of tasks at a time, but we have asked it to AI in a sequence manner or in a step-by-step manner. It will be going to include a whole task e.g. about business and its marketing, etc.  
 
-For this kinds of tasks, we often include something something like below :  
+For this kinds of tasks, we often include something like below :  
 
 - *`Let's think step-by-step. . . .`*  
 - *`Before responding, ask me any clarifying questions about the target market, the product features, or any specific launch goals to better understand what I want.`* [Ask Before 
