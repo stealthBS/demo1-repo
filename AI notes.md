@@ -161,7 +161,7 @@ We can also tell ChatGPT what to keep in memory while chating in a conversation.
 
 
 #### 🔰Lesson 5 : Effective prompting and prompt structuring for effective results [**Attach PDF]  
-Crafting an effective prompt is a skill that leads to prompt engineering. We can see some examples of crafting beautiful pormpts :   
+Crafting an effective prompt is a skill that leads to prompt engineering. We can see some examples of crafting beautiful prompts :   
 - *`What hotels are in Paris.`*  
 VS  
 *`You are a travel advisor who specializes in helping travelers find unique and high value hotel stays.  
@@ -357,7 +357,7 @@ great tool saves you time.
 
 We can see below 2 tools which helps us to save our prompts :  
 - [Prompster](https://chromewebstore.google.com/detail/prompster/fbagfekcjdidpmmookklbaeddgkjddml) : It's basically an chrome browser's extension which saves prompts inside the browser only. It's free, lightweighted, and easy to use option.  
-- [PromptHub](https://www.prompthub.us/) : It's a paid site/platform which helps us for building, storing, and even sharing your prompt libraries. It also porvides some advance tools to manage all our prompts effeciently.  
+- [PromptHub](https://www.prompthub.us/) : It's a paid site/platform which helps us for building, storing, and even sharing your prompt libraries. It also provides some advance tools to manage all our prompts effeciently.  
 
 ----
 
@@ -515,7 +515,7 @@ Let's enable the '🖼 create image' option from the prompt box of ChatGPT, then
 
 Now, imagine we're a teacher preparing a lesson on the water cycle and need a visual to explain a concept. For example, we need a simple diagram, something with arrows, labels, and something that's clean and easy to follow. 
 
-And to generate like this image we use the following pormpt :  
+And to generate like this image we use the following prompt :  
 *`Create a simple diagram of the water cycle. Include labeled arrows for 'evaporation', 'condensation', 'precipitation' and 'collection'. Use a clean, minimal style with clear headings and soft blue tones.`* 
 
 And if we are teaching more younger students which needs playful & colorful diagram, then prompt will be : 
@@ -652,7 +652,7 @@ Let's take another similar example :
 
 
 
-#### 🔰Lesson 23 : The Pormpt engineering guide Ebook  
+#### 🔰Lesson 23 : The Prompt engineering guide Ebook  
 
 Follow the [Pormpt engineering guide](https://www.dropbox.com/scl/fi/65ccdaeps0o83m2271woa/PROMPT-ENGINEERING-GUIDE-2024.pdf?rlkey=jy51w3jgsc5j2yzr7svli5kcl) Ebook, it contains the topics which we'll going to see ahead.  
 
@@ -700,7 +700,7 @@ To see its some of the examples & how it makes differences follow this [Ebook](h
 
 
 
-#### 🔰Lesson 26 : Simple Pormpts Starters cheatsheet 
+#### 🔰Lesson 26 : Simple Prompts Starters cheatsheet 
 
 Take help of [200 best ChatGPT prompts list](https://leapyearlearning.mykajabi.com/blog/week-1) to get idea to craft our own prompt.  
 
