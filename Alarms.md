@@ -158,7 +158,8 @@ unnessary app list here only . . .
 <br>  
 
 ✔✔✔✔✔✔✔✔✔  
-- Bookmarks in PC of SSC : go through all SSC bookmarks of the browser and then do the following tasks. . . . . .  
+- Bookmarks in PC of SSC : go through all SSC bookmarks of the browser and then do the following tasks. . . . . .
+- Put all PC bookmarks here --> []
 - [SSC](https://ssc.gov.in/) admit card : **OUT** check  
 - SSC exam from 1st week from Sepetember  
 - SSC visit location  
