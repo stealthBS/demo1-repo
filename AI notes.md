@@ -654,7 +654,7 @@ Let's take another similar example :
 
 #### 🔰Lesson 23 : The Prompt engineering guide Ebook  
 
-Follow the [Pormpt engineering guide](https://www.dropbox.com/scl/fi/65ccdaeps0o83m2271woa/PROMPT-ENGINEERING-GUIDE-2024.pdf?rlkey=jy51w3jgsc5j2yzr7svli5kcl) Ebook, it contains the topics which we'll going to see ahead.  
+Follow the [Prompt engineering guide](https://www.dropbox.com/scl/fi/65ccdaeps0o83m2271woa/PROMPT-ENGINEERING-GUIDE-2024.pdf?rlkey=jy51w3jgsc5j2yzr7svli5kcl) Ebook, it contains the topics which we'll going to see ahead.  
 
 ----
 
