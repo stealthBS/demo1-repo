@@ -458,7 +458,7 @@ Let's see how to use a GPT tool from productivity category, suppose we select [W
 Let's see how to use a GPT tool from research category, suppose we select [Research AI](https://chatgpt.com/g/g-gXRmUyjL3-research-ai) GPT tool which helps us to gather company info across tons of industries and topics. Then we use a prompt here like : *`Provide a list of the top 10 VC funds in the US that invest in startups.`*
 
 - Example 4 :
-Let's see how to use a GPT tool from lifestyle category, suppose we select [Grocery and Meal Prep Planner](https://chatgpt.com/g/g-LnrvSic8k-grocery-and-meal-prep-planner) GPT tool which helps us to prepare a proper meal plan according to our weight-training goal. Then we use a prompt here like : *`I'm a 23 year old male. I'm about 1.8m tall. I weigh 68kg. I'm looking to have a meal plan that provides energy throughout the day, helps gain muscle mass and weight, as I'm also going to the gym. Create multiple meal plans with different budget ranges. While the goal is the same, suggest meals that someone that is a beginner at cooking can handle.`*. With this we can even also for groceries list, ingredients, and also ask for cuisines also.
+Let's see how to use a GPT tool from lifestyle category, suppose we select [Grocery and Meal Prep Planner](https://chatgpt.com/g/g-LnrvSic8k-grocery-and-meal-prep-planner) GPT tool which helps us to prepare a proper meal plan according to our weight-training goal. Then we use a prompt here like : *`I'm a 23 year old male. I'm about 1.8m tall. I weigh 68kg. I'm looking to have a meal plan that provides energy throughout the day, helps gain muscle mass and weight, as I'm also going to the gym. Create multiple meal plans with different budget ranges. While the goal is the same, suggest meals that someone that is a beginner at cooking can handle.`*. With this we can even also ask for groceries list, ingredients, and also ask for cuisines also.
 
 - Example 5 :
 Let's see how to use the GPT tool for vidoe making, suppose we select [Video GPT by VEED](https://chatgpt.com/g/g-Hkqnd7mFT-video-gpt-by-veed-instant-free-ai-video-maker) GPT tool which helps us to make instant & free AI videoes. Then we use a prompt here like : *`Create a short story about an alchemist crafting a healing potion inside his workshop.`*, then it will also few followup questions for which we replies : *`inspiring and poetic, there should be a takeaway in the story fantasy enthusiasts 20 seconds`*  
@@ -476,7 +476,7 @@ Let's see how to use the GPT tool for vidoe making, suppose we select [Video GPT
 
 #### 🔰Lesson 16 : ChatGPT features Deep research, Canvas, and image generation use  
 Let's enable the '**🔭Deep Research**' tool then ask it the following task :  
-*`Provide a detailed home renovation plan covering estimated costs, recommended materials, and top rated contractors in Oregon. Include comparisons for material, durability and price.`*. And then we need to wait a little, because 'Deep Research' feature few minutes to reply. It may also ask some follow up questions.  
+*`Provide a detailed home renovation plan covering estimated costs, recommended materials, and top rated contractors in Oregon. Include comparisons for material, durability and price.`*. And then we need to wait a little, because 'Deep Research' feature takes few minutes to reply. It may also ask some follow up questions.  
 
 
 Similarly, '**Canvas**' feature is a collaborative dock space built right into ChatGPT. It's designed to help you create polished drafts fast, whether it's business proposals, marketing copy, client emails, or internal SOPs.  
@@ -775,7 +775,7 @@ Can also follow below some simple prompt starters :
 ##### 3. For 'Client and Customer Support/Email' : 
 - Prompt Formula : *`I want you to act as a customer support assistant who is`* [characteristic]*`. How would you respond to`* [text] *`as a representative of our`* [type] *`company?`*
   - Example 1 : *`I want you to act as a customer support assistant who is 'analytical'. How would you respond to a customer who has experienced a bug while using our software as a representative of our 'tech startup'?`*
-  - Example 2 : *`I want you to act as a cstomer support assistant who 'embodies confidence' and 'empathy'. How would you assist a customer with a billing issue as a representative of our 'financial services company'?`*
+  - Example 2 : *`I want you to act as a customer support assistant who 'embodies confidence' and 'empathy'. How would you assist a customer with a billing issue as a representative of our 'financial services company'?`*
 
 ###### 4. For 'Generate Analogies' : 
 - Prompt Formula : *`I'm trying to better understand the concept of`* [concept]*`, please help me better understand this concept by creating a practical and easy to understand analogy.`*
