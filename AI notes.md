@@ -526,7 +526,7 @@ And if we are teaching more younger students which needs playful & colorful diag
 Now we want to create something more artistic, like an illustration for a newsletter or a book chapter. Suppose we want to write about forest conservation and want a peaceful illustration of a forest at sunset. And to generate this image we prompt like : *`Create an illustration of a forest at sunset.`*.  
 
 But if it visually not attractive, then we change the prompt like :  
-*`Create an illustration of a forest at sunset. Make it cinematic, higly stylized, with vivid colors, dramatic lighting, and lots of visual depth.`*  
+*`Create an illustration of a forest at sunset. Make it cinematic, highly stylized, with vivid colors, dramatic lighting, and lots of visual depth.`*  
 
 And if we need more softer storybook feel instead, then we use here the prompt like :  
 *`Restyle the same image in the style of a Studio Ghibli illustration-soft, hand-painted, and whimsical.`*  
