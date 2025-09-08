@@ -479,7 +479,7 @@ Let's enable the '**🔭Deep Research**' tool then ask it the following task :
 *`Provide a detailed home renovation plan covering estimated costs, recommended materials, and top rated contractors in Oregon. Include comparisons for material, durability and price.`*. And then we need to wait a little, because 'Deep Research' feature takes few minutes to reply. It may also ask some follow up questions.  
 
 
-Similarly, '**Canvas**' feature is a collaborative dock space built right into ChatGPT. It's designed to help you create polished drafts fast, whether it's business proposals, marketing copy, client emails, or internal SOPs.  
+Similarly, '**Canvas**' feature is a collaborative dock space (dedicated panel/feature/area/workspace) built right into ChatGPT. It's designed to help you create polished drafts fast, whether it's business proposals, marketing copy, client emails, or internal SOPs.  
 
 
 Similarly, '**Create an Image**' feature quickly creating polished visuals, mockups, marketing materials, or branded graphics. And no extra design tools needed for the renovation. For this we can use a prompt like *`Realistic Kitchen Visualization : a beautifully renovated modern kitchen with mid to high end finishes, Shaker style white cabinets with soft close hardware, light quartz countertops with subtle veining, stainless steel appliances, subway tile backsplash, engineered hardwood flooring, LED recessed lighting, and a wood accented island shown in bright natural daylight.`*. We can also add like *`Add the label 'Dream Kitchen concept' at the bottom right.`*  
