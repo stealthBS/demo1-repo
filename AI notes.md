@@ -476,7 +476,7 @@ Let's see how to use the GPT tool for vidoe making, suppose we select [Video GPT
 
 #### 🔰Lesson 16 : ChatGPT features Deep research, Canvas, and image generation use  
 Let's enable the '**🔭Deep Research**' tool then ask it the following task :  
-*`Provide a detailed home renovation plan covering estimated costs, recommended materials, and top rated contractors in Oregon. Include comparisons for material, durability and price.`*. And then we need to wait a little, because 'Deep Research' feature takes few minutes to reply. It may also ask some follow up questions.  
+*`Provide a detailed home renovation plan covering estimated costs, recommended materials, and top rated contractors in Oregon. Include comparisons for material, durability and price.`*. And then we need to wait a little, because 'Deep Research' feature takes few minutes or even sometime more to reply. It may also ask some follow up questions.  
 
 
 Similarly, '**Canvas**' feature is a collaborative dock space (dedicated panel/feature/area/workspace) built right into ChatGPT. It's designed to help you create polished drafts fast, whether it's business proposals, marketing copy, client emails, or internal SOPs.  
