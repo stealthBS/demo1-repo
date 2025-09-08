@@ -305,8 +305,8 @@ Here we are creating a type of prompt which includes a lot of tasks at a time, b
 For this kinds of tasks, we often include something like below :  
 
 - *`Let's think step-by-step. . . .`*  
-- *`Before responding, ask me any clarifying questions about the target market, the product features, or any specific launch goals to better understand what I want.`* [Ask Before 
-Answering]  
+- *`Before responding, ask me any clarifying questions about the target market, the product features, or any specific launch goals to better understand what I want.`* ['Ask Before 
+Answering' prompt type example]  
 - *`Write a product launch plan for smart home security cameras. Then, critique the plan for clarity, structure, and relevance, and suggest improvements.`*
 - *`Create a decision matrix comparing three marketing strategies (social media, email campaigns, and influencer partnerships) for a smart home security camera product launch. Compare them based on cost, reach, and potential ROI.`*
 
