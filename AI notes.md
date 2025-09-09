@@ -70,6 +70,7 @@ marketing strategies, initial startup costs, ongoing expenses, social impact, sc
 thought of. All of the information you provide should be in tabular format.`*
 
 **If ChatGPT doesn’t format the answer properly, then regenerate the response.**  
+
 ---
 
 
