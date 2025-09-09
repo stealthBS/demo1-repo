@@ -98,7 +98,7 @@ unnessary app list here only . . .
 
 
 ### ToDo || And to do regularly :  
-- Make the Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis.  
+- Make the Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis. [Before that set which time you want to sleep and wakeUP]  
 - Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .
 - Record PSA new Angular Batch  
 - PG Rent  
