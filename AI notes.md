@@ -38,7 +38,7 @@ ChatGPT have some plans or memberships i.e. : Free, Plus (paid), Pro/Team/Enterp
 
 
 
-#### 🔰Lesson 1 : [**Attach PDF] 
+#### 🔰Lesson 1 : Introduction of AI tool [**Attach PDF] 
 
 Use AI tools to increase productivity, learn more skills with : less effort - less time - ease, make AI as your assistant/copilot and make AI to use your work smartly & smoothly just by giving it accurate/proper prompt. Here we can understand something like : Google is like Library then ChatGPT is like Librarian.  
 
@@ -55,7 +55,7 @@ Take a moment to think about one new skill you've always wanted to grow, maybe i
 
 
 
-#### 🔰Lesson 2 :  
+#### 🔰Lesson 2 : General Idea & Example of AI tool [**Attach PDF]
 
 - Youtube video summarization : [YouTube Summary with ChatGPT](https://chromewebstore.google.com/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) chrome extension or [NoteGPT](https://notegpt.io/) site.  
 - Generate video from text/prompt & also add motion to any static image using : [Runwayml](https://runwayml.com/).
