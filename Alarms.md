@@ -166,7 +166,8 @@ unnessary app list here only . . .
 - [1](https://youtu.be/A4_2rxpN5ag), [2](https://youtu.be/p8gvGCDQpgo), [3](https://youtube.com/shorts/BdjAsXeOaNQ), [4](https://youtube.com/shorts/z2BpEPnlNf8), [5](https://youtu.be/9eegVWG5_z0), [6](https://youtube.com/shorts/qCv1KNtGPOk), [7](https://youtube.com/shorts/a56dtw6H2Os).
 - [1](https://youtu.be/T3qQba30n6A), [2](https://youtu.be/CkL1WncA33U), [3](https://youtu.be/egMy1vOX7zc), [4](https://youtu.be/0ToSbd5snkQ), [5](https://youtu.be/ubQxuktDygA), [6](https://youtu.be/QqLH03vUlpA), [7](https://youtu.be/zsy_WRq5DuA), [8](https://youtu.be/H5kH52Pauw0), [9](https://youtu.be/VPSsmGU52_o), [10](https://youtu.be/umL8fTZhCZI), [11](https://youtu.be/cHUHPp2Aa2Y), [12](https://youtu.be/XdiW-ulSokc), [13](https://youtu.be/ozBw3YwKSDE), [14](https://youtu.be/hqvOfaAGRL8), [15](https://youtube.com/shorts/bEj0HcCa-9c), [16](https://youtube.com/shorts/fEL5wcTc87Y), [17](https://youtu.be/k4XEycqDxJo), [18](https://youtu.be/HaKIZiJ91CM).
 - [1](https://testbook.com/ssc-cgl-exam/post-preference-order), [2](https://www.youtube.com/results?search_query=ssc+full+course).  
-- [SSC](https://ssc.gov.in/) admit card : **OUT** check  
+- [SSC](https://ssc.gov.in/) admit card : **OUT** check
+- But ADMIT card avilable from 18-September or 2 days before exam.  
 - SSC exam from 1st week from Sepetember  
 - SSC visit location  
 - SSC preparation  
