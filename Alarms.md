@@ -104,7 +104,7 @@ unnessary app list here only . . .
 - PG Rent  
 - At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
 - Washings after medical clothes : wiat for exam, checkUPs, SIM photo, etc.  
-- ChatGPT : i want to a bluelight glass for my eyes. ((**check all grocery apps for it - and ask to chatgpt for quality check**)). Login to [Lenskart](https://www.lenskart.com/shortlist). But wait for [Coupon](https://www.lenskart.com/super250) or festival time discount or Check from Youtube coupon for this.  
+- ChatGPT : i want to a bluelight glass for my eyes. ((**check all grocery apps for it - and ask to chatgpt for quality check**)). Login to [Lenskart](https://www.lenskart.com/shortlist). But wait for [Coupon](https://www.lenskart.com/super250) or festival time discount/offer or Check from Youtube referral-coupon for this.  
 - earplug silent : [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY** silent earplug>>  
 - remove all f*k bookmarks from the PC browser  
 - Portable SSD  
