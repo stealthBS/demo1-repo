@@ -124,7 +124,7 @@ unnessary app list here only . . .
 - shaving hair first then : followed by SIM, exam, checkup, lenskart, etc.  
 - Online SIM making (4g sim, 5g sim,  eSIM,  4g mobile, 5g mobile) - presently support **Nano SIM** - check ChatGPT : "Get Jio SIM card"  
 - Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
-- Appointment booking, and shaving hairs
+- Appointment booking, and shaving hairs - {on 23/Sept = Tuesday fixed - Empty stomach - But time to visit :-- 8am (pack rice in tiffin)}  
 - [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
 - IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread, beetroot
 
