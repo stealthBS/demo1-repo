@@ -84,8 +84,9 @@ unnessary app list here only . . .
 
 ### Sequence ToDo pending works : 
 - [ ] Online Shopping
-- [ ] SSC preparation {15 September}
-- [ ] first Download **Admit Card** & then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. {18 September}
+- [ ] SSC preparation & Kannada {15 September}
+- [ ] Bag setting & Zip setting for exam day
+- [ ] first Download **Admit Card** & then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online {18 September}
 - [ ] Exam (be there before 8:30am becasue gate checking and Bag storing) {21 September}
 - [ ] Online SIM (on same day evening) (22 September)
 - [ ] Appoint Booking for Full Body health checkup (with bp and weight) (23 September OR 30 September - Tuesday)
@@ -180,12 +181,12 @@ unnessary app list here only . . .
 - [1](https://testbook.com/ssc-cgl-exam/post-preference-order), [2](https://www.youtube.com/results?search_query=ssc+full+course).  
 - [SSC](https://ssc.gov.in/) admit card : **OUT** check
 - But ADMIT card avilable from 18-September or 2 days before exam.  
-- SSC exam from 1st week from Sepetember  
-- SSC visit location  
+- SSC visit location
+- Present there at advance 8:30AM becasue of security-checking, bag keeping, and other problems, where exam start at 9:00AM
 - SSC preparation [start from 15/Sep it's for 1 week only]  
 - SSC tier-1 : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
 - Before giving exam, try to give at least some MOCK TESTs to be used to with the SSC exam, which don't feel like new.  
-- Things to take on SSC exam : 2 admit card copy xerox, umberella, watch (maynot be), water bottle, sanitizer, mask, SIM in pocket, Cash money, Bus Day pass,  
+- Things to take on SSC exam : 2 admit card copy xerox, umberella, watch (maynot be), Aadhaar Card proof, water bottle, sanitizer, mask, SIM in pocket, Cash money, Bus Day pass,  
 - **Kannada revise**  
 - Any pending works : SIM making OR ONline . . . .
 - End moment check : center, shift, time, etc.
