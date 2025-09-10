@@ -84,6 +84,7 @@ unnessary app list here only . . .
 
 ### Sequence ToDo pending works : 
 - [ ] Online Shopping
+- [ ] SIM card making **NOW** || if online not possible then we can make it on Exam visit day.
 - [ ] SSC preparation & Kannada {15 September}
 - [ ] Bag setting & Zip setting for exam day
 - [ ] first Download **Admit Card** & then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online {18 September}
