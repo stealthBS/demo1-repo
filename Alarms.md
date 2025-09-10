@@ -129,7 +129,7 @@ unnessary app list here only . . .
 
 <br>  
 
-- **Advance visit** to exam center (to know route, time taking, crowd, duration, area, safety, charges, etc.) : food ready for the actual day 7AM, Admit card 2 copy, and anything necessary need to purchase.  
+- **Advance visit** to exam center (to know route, time taking, crowd, duration, area, safety, fare charges (via bus/metro/taxi), etc.) : food ready for the actual day 7AM, Admit card 2 copy, and anything necessary need to purchase.  
 - shaving hair first then : followed by SIM, exam, checkup, lenskart, etc.  
 - Order Jio SIM from this [link](https://www.jio.com/selfcare/selfkyc) (get read for online LIVE photo & video). Need '5G Nano SIM' with '4G plan' for 4G phone. Support link [1](https://youtu.be/_K1Zgf1ySRM), [2](https://youtu.be/hZu63RqpTCU), [3](https://youtu.be/e59npfRxCXw).  
 - Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
