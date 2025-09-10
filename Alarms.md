@@ -83,7 +83,8 @@ unnessary app list here only . . .
 
 
 ### Sequence ToDo pending works : 
-- [ ] Online Shopping 
+- [ ] Online Shopping
+- [ ] SSC preparation {15 September}
 - [ ] Exam location visit on exact time 7am or 7:30. {18 September}
 - [ ] Exam (be there before 8:30am becasue gate checking and Bag storing) {21 September}
 - [ ] Online SIM (on same day evening) (22 September)
