@@ -89,6 +89,7 @@ unnessary app list here only . . .
 - [ ] Online SIM (on same day evening) (22 September)
 - [ ] Appoint Booking for Full Body health checkup (with bp and weight) (23 September OR 30 September - Tuesday)
 - [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
+- [ ] Washing clothes
 
 ### Done || But again re-check required :  
 - [dn] Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
