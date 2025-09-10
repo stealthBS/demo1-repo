@@ -81,6 +81,14 @@ unnessary app list here only . . .
 -----
 -----
 
+
+### Sequence ToDo pending works : 
+- [] Exam location visit on exact time 7am or 7:30.
+- Exam (be there before 8:30am becasue gate checking and Bag storing)
+- Online SIM (on same day evening)
+- Appoint Booking for Full Body health checkup (with bp and weight)
+- Lenskart (according to offer/offer-time/discount/referral-coupon)
+
 ### Done || But again re-check required :  
 - [dn] Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
 - [dn] Make your all alarm ready  
