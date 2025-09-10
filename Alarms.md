@@ -95,7 +95,8 @@ unnessary app list here only . . .
 - [dn] Make your all alarm ready  
 - [dn] see White box writtens. . . . .  
 - [dn] Mobile all notepad setting OR Full mobile notepad clearing
-- [dn]Check : sticky notes, Night questions. . .  
+- [dn]Check : sticky notes, Night questions. . .
+- Clean Mobile keyboard history. . .
 - Do start using in note alarm. . . it just gives you a notification only  
 - Chatgpt : which kind of workout we need to perform especiall when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness  
 - WhatsApp message
