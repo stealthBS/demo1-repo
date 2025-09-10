@@ -121,7 +121,7 @@ unnessary app list here only . . .
 
 <br>  
 
-- Advance visit to exam center (to know route, time taking, crowd, duration, area, safety, charges, etc.) : food ready for the actual day 7AM, Admit card 2 copy, etc.  
+- **Advance visit** to exam center (to know route, time taking, crowd, duration, area, safety, charges, etc.) : food ready for the actual day 7AM, Admit card 2 copy, and anything necessary need to purchase.  
 - shaving hair first then : followed by SIM, exam, checkup, lenskart, etc.  
 - Online SIM making (4g sim, 5g sim,  eSIM,  4g mobile, 5g mobile) - presently support **Nano SIM** - check ChatGPT : "Get Jio SIM card"  
 - Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
