@@ -83,10 +83,11 @@ unnessary app list here only . . .
 
 
 ### Sequence ToDo pending works : 
+- [ ] Online Shopping 
 - [ ] Exam location visit on exact time 7am or 7:30. {18 September}
 - [ ] Exam (be there before 8:30am becasue gate checking and Bag storing) {21 September}
 - [ ] Online SIM (on same day evening) (22 September)
-- [ ] Appoint Booking for Full Body health checkup (with bp and weight) (23 September - Tuesday)
+- [ ] Appoint Booking for Full Body health checkup (with bp and weight) (23 September OR 30 September - Tuesday)
 - [ ] Lenskart (according to offer/offer-time/discount/youtube-referral-coupon)
 
 ### Done || But again re-check required :  
