@@ -123,7 +123,7 @@ unnessary app list here only . . .
 
 - **Advance visit** to exam center (to know route, time taking, crowd, duration, area, safety, charges, etc.) : food ready for the actual day 7AM, Admit card 2 copy, and anything necessary need to purchase.  
 - shaving hair first then : followed by SIM, exam, checkup, lenskart, etc.  
-- Online SIM making (4g sim, 5g sim,  eSIM,  4g mobile, 5g mobile) - presently support **Nano SIM** - check ChatGPT : "Get Jio SIM card"  
+- Order Jio SIM from this [link](https://www.jio.com/selfcare/selfkyc). Need '5G Nano SIM' with '4G plan' for 4G phone. Support link [1](https://youtu.be/_K1Zgf1ySRM), [2](https://youtu.be/hZu63RqpTCU), [3](https://youtu.be/e59npfRxCXw).  
 - Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
 - Appointment booking, and shaving hairs - {on 23/Sept = Tuesday fixed - Empty stomach - But time to visit :-- 8am (pack rice in tiffin)}  
 - [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
