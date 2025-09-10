@@ -88,7 +88,7 @@ unnessary app list here only . . .
 - [ ] Exam (be there before 8:30am becasue gate checking and Bag storing) {21 September}
 - [ ] Online SIM (on same day evening) (22 September)
 - [ ] Appoint Booking for Full Body health checkup (with bp and weight) (23 September OR 30 September - Tuesday)
-- [ ] Lenskart (according to offer/offer-time/discount/youtube-referral-coupon)
+- [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
 
 ### Done || But again re-check required :  
 - [dn] Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
