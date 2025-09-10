@@ -85,7 +85,7 @@ unnessary app list here only . . .
 ### Sequence ToDo pending works : 
 - [ ] Online Shopping
 - [ ] SSC preparation {15 September}
-- [ ] Exam location visit on exact time 7am or 7:30. {18 September}
+- [ ] first Download **Admit Card** & then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. {18 September}
 - [ ] Exam (be there before 8:30am becasue gate checking and Bag storing) {21 September}
 - [ ] Online SIM (on same day evening) (22 September)
 - [ ] Appoint Booking for Full Body health checkup (with bp and weight) (23 September OR 30 September - Tuesday)
