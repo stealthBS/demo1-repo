@@ -87,7 +87,7 @@ Features/Buttons available in [ChatGPT](https://chatgpt.com/) tool (without paid
   - Can create a 'New chat' and can rename a chat title with emoji.  
   - Can do '🔍Search chat' or search any old chat conversation quickly. Here it uses the chat history or threads.  
   - Can access [🖼ChatGPT Image Library](https://chatgpt.com/library) to generate any image. And it also keep tracks/records of our all past generated images, so if required any past generated images then we can access from here anytime.  
-  - Can access 'Projects' tab : it is the feature where we can upload multiple files and then do queries on it. It is mostly used for multiple-tasking purpose only and so 'Project' feature is a mini workspace. But this feature is for only **Paid** users.  
+  - Can access 'Projects' tab : it is the feature where we can upload multiple files and then do queries on it. It is mostly used for multiple-tasking purpose only and so 'Project' feature is a mini workspace. ~~But this feature is for only **Paid** users.~~  
   - Can use '💭Temporary Chat' feature which won't appear in history tab and it won't keep any record/track/history.  
   - Can '🔗Share chat link' or can share our ChatGPT conversation through link : so that other people can also able to access it.  
   - Can 'Archive chat' or can hide any chat from the main active conversation list/tab or 'Chats' list.
@@ -963,7 +963,7 @@ Can also follow below some simple prompt starters :
 ## Alternatives of ChatGPT paid features : 
 If we don't have a paid plan of ChatGPT, then as of now for learning purpose on how a particular feature works : we can find its (those) same features in other AI chat assistant tools. Some of the alternatives we can see below with their features :  
 
-- ChatGPT's **Project** feature : [Grok](https://grok.com/chat),
+- ~~ChatGPT's **Project** feature : [Grok](https://grok.com/chat)~~. BUT now it's avilable for free users also😁, so don't required to switch to Grok.
 -  
 
 
