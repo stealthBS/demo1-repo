@@ -85,12 +85,13 @@ unnessary app list here only . . .
 ### Sequence ToDo pending works : 
 - [ ] Online Shopping
 - [ ] [Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.
-- [ ] SSC preparation & Kannada {15 September}
+- [ ] SSC preparation & Kannada **{15 September}**
 - [ ] Bag setting & Zip setting for exam day
-- [ ] first Download **Admit Card** & then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online {18 September}  >>  Also some extra pending working like : SIM related, Thyrocare area, etc.
-- [ ] Exam (be there before 8:30am becasue gate checking and Bag storing) {21 September}
+- [ ] Appoint Booking for Full Body health checkup (with bp and weight) **(16 September || 23 September OR 30 September - Tuesday)**
+- [ ] first Download **Admit Card** & then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : SIM related, Thyrocare area, etc.
+- [ ] Exam (be there before 8:30am becasue gate checking and Bag storing) **{21 September}**
 - [ ] Online SIM (on same day evening) (22 September)
-- [ ] Appoint Booking for Full Body health checkup (with bp and weight) (23 September OR 30 September - Tuesday)
+- [ ] Eye Health
 - [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
 - [ ] Washing clothes
 
