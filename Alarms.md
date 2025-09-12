@@ -83,7 +83,7 @@ unnessary app list here only . . .
 
 
 ### Sequence ToDo pending works : 
-- [ ] Online Shopping
+- [x] ~~Online Shopping~~
 - [ ] [Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.
 - [ ] SSC preparation & Kannada **{15 September}**
 - [ ] Appoint Booking for Full Body health checkup (with bp and weight) **(16 September || 23 September OR 30 September - Tuesday)**
