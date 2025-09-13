@@ -130,7 +130,7 @@ There is a huge different between the reply given by the normal 'ChatGPT' and th
 
 Through this feature we don't need to explain ourself a no. of times to GPT, it's more like "everything set, just prompting, get reply, start implementing".  
 
-So, in 'Customize ChatGPT' we first need to fill/provide the following settings/details :  
+So, in 'Customize ChatGPT' we first need to fill/provide the following settings/details (customize instructions) :  
 - [x] What should ChatGPT call you? (means just to provide our name or e.g. Sir, Mr. _, etc.)  
 - [x] What do you do? (means to provide our occupation OR what i want to do now)  
 - [x] What traits should ChatGPT have? (means need to define the level of the reply (ease/professional/lamen's terms, stey-by-step manner, detail manner, simple english only, short responses, organize reponse in SWOT analysis, bullet point manner, assist me like JARVIS assistant😁, etc.) or what quality should the GPT reply to us)
