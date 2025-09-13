@@ -125,7 +125,7 @@ In upcoming lessons we will learn how to use the above features.
 
 
 
-#### 🔰Lesson 4 : Get precision/user-focused reply with **'Customize ChatGPT'**  
+#### 🔰Lesson 4 : Get precision/user-focused reply with **'Customize ChatGPT'** [**Attach PDF]  
 There is a huge different between the reply given by the normal 'ChatGPT' and the 'Customize ChatGPT' which will be more specific to us, because in 'Customize ChatGPT' we are pre-defining ourself first before starting with prompting, so in this case AI will able to know more about us and then give response accordingly to us. (present in Setting's options to enable it || Not Paid feature)  
 
 Through this feature we don't need to explain ourself a no. of times to GPT, it's more like "everything set, just prompting, get reply, start implementing".  
@@ -198,7 +198,7 @@ And we need to be very **used to** to this format of writing a prompt, then it'l
 
 
 
-#### 🔰Lesson 6 : Identification/Symptom of good prompting & prompt crafting guideline 
+#### 🔰Lesson 6 : Identification/Symptom of good prompting & prompt crafting guideline [**Attach PDF] 
 Let's see make some good prompts by using above 6 essential elements :   
 - *`Give me a marketing campaign idea.`*
 VS  
@@ -250,7 +250,7 @@ We can able to craft any type of prompt but it must fulfills the below essential
 
 
 
-#### 🔰Lesson 7 :  . . . . . . .
+#### 🔰Lesson 7 :  . . . . . . . [**Attach PDF] 
 Here we can ask ChatGPT only to make a perfect prompt for us by uploading the '6-STEP prompt checklist' which we have learned above i.e. :  
 *`>> 📤+Upload+ the '6-STEP prompt checklist' file, then mentioned the below prompt.`*  
 *`I want you to create the perfect prompt for crafting brand guidelines for my brand as a marketing freelancer. Please use the attached checklist to do so, and please use the Golden Circle framework (from Simon Sinek), while also indicating which section of the perfect prompt matches the elements from the checklist.`*  
@@ -301,7 +301,7 @@ So, basically here 'priming' data means, providing the AI first with data, and t
 
 
 
-#### 🔰Lesson 8 : Prompt Chaining  
+#### 🔰Lesson 8 : Prompt Chaining [**Attach PDF]  
 Here we are creating a type of prompt which includes a lot of tasks at a time, but we have asked it to AI in a sequence manner or in a step-by-step manner. It will be going to include a whole task e.g. about business and its marketing, etc.  
 
 For this kinds of tasks, we often include something like below :  
@@ -334,7 +334,7 @@ For example :
 
 
 
-#### 🔰Lesson 9 :  . . . .   
+#### 🔰Lesson 9 :  . . . . [**Attach PDF]   
 **Prompt Chaining Example :**  
 Prompt Chaining is perfect when you want the AI to help you complete a multi-step task i.e.  
 - *`Summarize the top three benefits of the product.`*
@@ -372,7 +372,7 @@ We can see below 2 tools which helps us to save our prompts :
 
 
 
-#### 🔰Lesson 10 : What's is LLM (Large Language Model) in AI tools  
+#### 🔰Lesson 10 : What's is LLM (Large Language Model) in AI tools [**Attach PDF]  
 
 
 ----
@@ -386,7 +386,7 @@ We can see below 2 tools which helps us to save our prompts :
 
 
 
-#### 🔰Lesson 11 :  How LLM's thinks  
+#### 🔰Lesson 11 :  How LLM's thinks [**Attach PDF]  
 **Tokens :**  
 Whenever we writes prompt, then AI tool counts each word, symbol and special character a single Token.  
 
@@ -431,7 +431,7 @@ We can follow some below links to know more about Tokens :
 
 
 
-#### 🔰Lesson 14 : What is a GPT?  
+#### 🔰Lesson 14 : What is a GPT? [**Attach PDF]  
 A GPT (Generative Pre-trained Transformer) is an advanced AI model designed to understand and generate human-like text.  
 
 > Pro Tip : While using any ready-made pre-built GPTs versions for any work (e.g. job search, resume/CV making, video generation), we are doing a search for a perfect fit/suit for us through the search box. Now here while searching the perfect GPT tool : we can go-with/select the **top ranked GPT** have had **thousands of conversations** and **reviews** to get to the top GPT tool, so when we see those high numbers, we can feel confident that they've been tested and proven by a lot of users. It just like : Think of them like downloads or views on an app or video in playstore or Youtube. The higher the number, the more people are actively using it and trusting the tool, which usually means a smoother experience and proven results. Here is an example for '[Business Email Writer](https://chatgpt.com/g/g-nyYbFsNcz-professional-business-email-writer)' GPT tool which have a higher no. of user & actively chats.  
@@ -447,7 +447,7 @@ A GPT (Generative Pre-trained Transformer) is an advanced AI model designed to u
 
 
 
-#### 🔰Lesson 15 : Practical use of ready-made pre-built GPTs versions  
+#### 🔰Lesson 15 : Practical use of ready-made pre-built GPTs versions [**Attach PDF]  
 We can use these ready-made GPTs for various purpose i.e. : From writing viral LinkedIn posts to creating research reports, meal plans, and even videos, etc. which can seriously change the game. So, we'll see some examples how to use these GPT tools.  
 
 - Example 1 :
@@ -476,7 +476,7 @@ Let's see how to use the GPT tool for vidoe making, suppose we select [Video GPT
 
 
 
-#### 🔰Lesson 16 : ChatGPT features Deep research, Canvas, and image generation use  
+#### 🔰Lesson 16 : ChatGPT features Deep research, Canvas, and image generation use [**Attach PDF]  
 Let's enable the '**🔭Deep Research**' tool then ask it the following task :  
 *`Provide a detailed home renovation plan covering estimated costs, recommended materials, and top rated contractors in Oregon. Include comparisons for material, durability and price.`*. And then we need to wait a little, because 'Deep Research' feature takes few minutes or even sometime more to reply. It may also ask some follow up questions.  
 
@@ -497,7 +497,7 @@ Similarly, '**Create an Image**' feature quickly creating polished visuals, mock
 
 
 
-#### 🔰Lesson 17 : 
+#### 🔰Lesson 17 : . . . . . .  
 
 ----
 
@@ -510,7 +510,7 @@ Similarly, '**Create an Image**' feature quickly creating polished visuals, mock
 
 
 
-#### 🔰Lesson 18 : ChatGPT's AI image generation  
+#### 🔰Lesson 18 : ChatGPT's AI image generation [**Attach PDF]  
 Let's enable the '🖼 create image' option from the prompt box of ChatGPT, then see some good examples below.  
 
 - Example 1 :
@@ -580,7 +580,7 @@ Suppose we have a lot of handwritten meeting notes or handwritten to do lists. W
 
 
 
-#### 🔰Lesson 19 : Use AI Safely and Responsibly  
+#### 🔰Lesson 19 : Use AI Safely and Responsibly [**Attach PDF]  
 
 - In the '⚙Settings' of ChatGPT, there is an option whether our data should share with ChatGPT team to improve (Model imporvement feature) the GPT model, and for this if we want we can 'disable/OFF' this option.  
 - If we want we can also disable the 'Memory' feature of the ChatGPT which saves our preferences, reference past conversations, and personalize responses. While these features can make interactions smoother, they also mean that ChatGPT is storing contextual data about us.
@@ -602,7 +602,7 @@ So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/ban
 
 
 
-#### 🔰Lesson 20 : Effectively Creating Prompts  
+#### 🔰Lesson 20 : Effectively Creating Prompts 
 
 Take help of [The Art fo creating effective prompt](https://leapyearlearning.mykajabi.com/blog/prompting-the-art-of-creating-effective-prompts-for-llm-s) link. 
 
@@ -621,7 +621,7 @@ Take help of the above prompts example to get an idea to write your own prompt a
 
 
 
-#### 🔰Lesson 21 : Use 'Modifiers' in prompts for Better Outputs  
+#### 🔰Lesson 21 : Use 'Modifiers' in prompts for Better Outputs [**Attach PDF]  
 
 
 ----
@@ -654,7 +654,7 @@ Let's take another similar example :
 
 
 
-#### 🔰Lesson 23 : The Prompt engineering guide Ebook  
+#### 🔰Lesson 23 : The Prompt engineering guide Ebook [**Attach PDF]  
 
 Follow the [Prompt engineering guide](https://www.dropbox.com/scl/fi/65ccdaeps0o83m2271woa/PROMPT-ENGINEERING-GUIDE-2024.pdf?rlkey=jy51w3jgsc5j2yzr7svli5kcl) Ebook, it contains the topics which we'll going to see ahead.  
 
@@ -956,6 +956,7 @@ Can also follow below some simple prompt starters :
 
 
 #### 🔰Lesson 41 :  
+https://github.com/f/awesome-chatgpt-prompts
 
 ----
 ----
