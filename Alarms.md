@@ -84,7 +84,7 @@ unnessary app list here only . . .
 
 ### Sequence ToDo pending works : 
 - [x] ~~Online Shopping~~
-- [ ] Call Neuberg Dignostics - 08037229134 (ask for full body check price, time, reports result time)
+- [ ] ~~Call Neuberg Dignostics - 08037229134 (ask for full body check price, time, reports result time)~~
 - [ ] [Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.
 - [ ] SSC preparation & Kannada **{15 September}**
 - [ ] Appoint Booking for Full Body health checkup (with bp and weight) **(16 September || 23 September OR 30 September - Tuesday)**
@@ -184,6 +184,7 @@ unnessary app list here only . . .
 - [SSC](https://ssc.gov.in/) admit card : **OUT** check
 - But ADMIT card avilable from 18-September or 2 days before exam.  
 - SSC visit location
+- Past Exams paper practice
 - Present there at advance 8:30AM becasue of security-checking, bag keeping, and other problems, where exam start at 9:00AM
 - SSC preparation [start from 15/Sep it's for 1 week only]  
 - SSC tier-1 : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
