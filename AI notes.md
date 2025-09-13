@@ -170,7 +170,7 @@ VS
 I'm planning a trip to Paris with my partner, and we're looking for a boutique style hotels in lively, walkable neighborhoods with great food nearby.  
 We care both about comfort and experience, not just price. Please recommend five hotels in Paris that fit these preferences.  
 Format your answers as a numbered list with 1 to 2 sentences describing each hotel only include hotels under $400 per night that offer amenities like a rooftop patio, gym or pool and are within walking distance of restaurants.  Describe each option in a concise and captivating manner.  
-Here's an example of what I'm looking for : "A stylish boutique hotel near the Latin Quarter with a rooftop terrace. Known for its cozy vibe and incredible city views".`*
+Here's an example of what I'm looking for : "A stylish boutique hotel near the Latin Quarter with a rooftop terrace, known for its cozy vibe and incredible city views".`*
 <br>
 
 
