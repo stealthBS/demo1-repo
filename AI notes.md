@@ -302,6 +302,7 @@ So, basically here 'priming' data means, providing the AI first with data, and t
 
 
 #### 🔰Lesson 8 : Types of Advanced Prompting Frameworks ~~Prompt Chaining (a kind of prompt framework)~~ [**Attach PDF]  
+***Here, 'Framework' means a support/structure which helps us to craft a pefect prompt.  
 Here we are creating a type of prompt which includes a lot of tasks at a time, but we have asked it to AI in a sequence manner or in a step-by-step manner. It will be going to include a whole task e.g. about business and its marketing, etc.  
 
 For this kinds of tasks, we often include or prompt something like below :  
