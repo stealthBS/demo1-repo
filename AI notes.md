@@ -277,7 +277,7 @@ So, we can do like this with any kind of complex documents.
 <br>
 
 <h5 align="center">Prompt priming</h5>
-It like providing enough information, then ask AI questions regarding it. We can see an example here :  
+It's like providing enough information, then ask AI questions regarding it. We can see an example here :  
 
 *`Before we proceed with instructions, I will provide Wimbledon's 2024 match data.`*  
 *`>> 📤+Upload+ or copy-paste the Wimbledon 2024 data from wikipedia `*  
@@ -288,7 +288,7 @@ And then we ask ChatGPT like :
 And then it will do its analysis and provide us data.  
 
 
-So, basically here 'priming' data means, providing the AI first with data, and then ask question regarding it. (If don't understand it, then this also we can also ask to ChatGPT like : *`what is Prompt priming? (tell me in simple)`*)  
+So, basically here 'priming' data means, providing the AI first with data, and then ask question regarding it. (If don't understand it, then this also we can also ask to ChatGPT like : *`what is Prompt priming? (tell me in simple)`*). Therefore, here 'priming' means adding relevant context, whether it's a block of text, PDF, screenshot or even a URL. So, the more useful detail we feed the AI, the better & more specific the results are going to be.  
 
 ----
 
