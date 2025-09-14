@@ -91,7 +91,7 @@ unnessary app list here only . . .
 - [ ] first Download **Admit Card** & Bag setting, then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : SIM related, Thyrocare area, etc.
 - [ ] Exam & Bag setting (be there before 8:30am becasue gate checking and Bag storing) **{21 September}**
 - [ ] Online SIM (on same day evening) (22 September)
-- [ ] Eye Health checkup visit (with full body checkup health report) 
+- [ ] Eye Health checkup visit (with full body checkup health report) || Make appointment [here](https://www.narayananethralaya.org/).
 - [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
 - [ ] Washing clothes
 
