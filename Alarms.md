@@ -85,7 +85,7 @@ unnessary app list here only . . .
 ### Sequence ToDo pending works : 
 - [x] ~~Online Shopping~~
 - [ ] ~~Call Neuberg Dignostics - 08037229134 (ask for full body check price, time, reports result time)~~
-- [ ] [Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.
+- [ ] ~~[Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.~~
 - [ ] SSC preparation & Kannada **{15 September}**
 - [ ] Appoint Booking for Full Body health checkup (with bp and weight) **(16 September || 23 September OR 30 September - Tuesday)**
 - [ ] first Download **Admit Card** & Bag setting, then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : SIM related, Thyrocare area, etc.
