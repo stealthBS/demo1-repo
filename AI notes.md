@@ -385,7 +385,17 @@ This method involves analysing a finished output to figure out which prompt gene
 
 
 
-#### 🔰Lesson 9 :  . . . . [**Attach PDF]   
+#### 🔰Lesson 9 : Choosing a perfect Framework for our work [**Attach PDF]  
+
+Suppose we pick a task, this task could be anything from planning a content calendar to preparing a pitch, or choosing between job offers, or figuring out how to manage your time just a little bit better. Once we've got our task in mind, then think about which of the following frameworks feel like the best for us, like :  
+- **Prompt Chaining** works best when you’re building something in steps. If your task is something with a clear process, like building a campaign or writing a proposal, etc.
+- **Chain of Thought** is perfect for logical decisions. If your task feels more analytical, like you need to walk through some logic or make some thoughtful decision, then chain of thought is going to be your best friend because it helps the AI tool that you're using walk through its reasoning step by step so that you understand the thought process instead of just getting a result.
+- **Tree of Thought Reasoning** helps when you want to explore creative directions. If you want a little more creativity or flexibility like brainstorming options or exploring different strategies, then try Tree of Thought.
+- Use **Ask Before Answering** if you're not sure what the AI needs to know to help you.
+- Go with **Self-Critique Prompting** if you're refining a draft or want the AI to act like a hired writing editor, that's where the self-critique prompting shines.
+- Use **Decision Matrix** if you're stuck choosing between a few different options, you can ask the AI to build a decision matrix basically a side by side comparison tool that evaluates different paths based on criteria you care about the most.  
+
+
 **Prompt Chaining Example :**  
 Prompt Chaining is perfect when you want the AI to help you complete a multi-step task i.e.  
 - *`Summarize the top three benefits of the product.`*
