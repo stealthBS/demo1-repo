@@ -395,6 +395,8 @@ Suppose we pick a task, this task could be anything from planning a content cale
 - Go with **Self-Critique Prompting** if you're refining a draft or want the AI to act like a hired writing editor, that's where the self-critique prompting shines.
 - Use **Decision Matrix** if you're stuck choosing between a few different options, you can ask the AI to build a decision matrix basically a side by side comparison tool that evaluates different paths based on criteria you care about the most.  
 
+<br> 
+<br>
 
 **Prompt Chaining Example :**  
 Prompt Chaining is perfect when you want the AI to help you complete a multi-step task i.e.  
