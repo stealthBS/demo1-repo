@@ -358,7 +358,7 @@ In this method, the AI model critiques/analysis/self-evaluate  its own work afte
 <br>
 <br>
 
-<h5 align="center">Decision Matrix Generation/h5>  
+<h5 align="center">Decision Matrix Generation</h5>  
 This model helps to compare multiple options across different criteria.  
 
 - For example :  
