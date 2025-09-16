@@ -307,7 +307,7 @@ Here, 'Framework' means a support/structure which helps us to craft a pefect pro
 <h5 align="center">Prompt Chaining</h5>  
 According to this framework, we break a complex task (which includes a lot of tasks at a time) into smaller sequential steps, we use the output of one prompt as an input for the next/followed-up prompt. So, prompting according to this framework gives more control to get our relevant response.  
 
-<br>
+<br>  
 
 For example : (Toggle ON the 'Web Search' feature for the below prompts)  
 *`Summarize the key steps involved in a product launch campaign`*, wait for its replay, and then ask the below prompt after it . . . .  
