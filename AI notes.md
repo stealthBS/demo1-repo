@@ -385,7 +385,7 @@ This method involves analysing a finished output to figure out which prompt gene
 
 
 
-#### 🔰Lesson 9 : Choosing a perfect Framework for our work [**Attach PDF]  
+#### 🔰Lesson 9 : Choosing a perfect/best Framework for our work [**Attach PDF]  
 
 Suppose we pick a task, this task could be anything from planning a content calendar to preparing a pitch, or choosing between job offers, or figuring out how to manage your time just a little bit better. Once we've got our task in mind, then think about which of the following frameworks feel like the best for us, like :  
 - **Prompt Chaining** works best when you’re building something in steps. If your task is something with a clear process, like building a campaign or writing a proposal, etc.
@@ -399,26 +399,32 @@ Suppose we pick a task, this task could be anything from planning a content cale
 <br>
 
 **Prompt Chaining Example :**  
-Prompt Chaining is perfect when you want the AI to help you complete a multi-step task i.e.  
-- *`Summarize the top three benefits of the product.`*
-- *`Write three email subject lines that highlight those benefits.`*
+Prompt Chaining is perfect when you want the AI to help you complete a multi-step task and in complex task i.e.  
+- *`Summarize the top three benefits of the product.`*, then . . .
+- *`Write three email subject lines that highlight those benefits.`*, then . . .
 - *`Draft a full announcement email based on those subject lines.`*
 
 **Decision Matrix Example :**  
-When you’re comparing options—like job offers, project bids, or product strategies—it helps to lay everything out side by side, i.e.  
+When you’re comparing options—like job offers, project bids, three potential freelance projects, or product strategies—it helps to lay everything out side by side, i.e.  
 - *`Create a decision matrix comparing these three projects based on pay, timeline, client quality, and long-term potential.`*
 
-**Tree of Thought Example**  
-Tree of Thought is perfect when you want the AI to explore multiple strategies before picking the best one. Like, when we want creativity first, clarity second, i.e.  
+**Tree of Thought Example :**  
+Tree of Thought is perfect when you want the AI to explore multiple strategies before picking the best one. Like, when we want creativity first, clarity second, etc. It's helpful for : brainstorming campaign ideas or content strategy.   
 - *`Brainstorm three to five creative campaign ideas for launching a new AI productivity tool. Using Tree of Thought reasoning, explore different marketing approaches. Then, evaluate each idea based on reach, cost, and fit for a startup budget, and recommend the best one.`*
 
+<br>
+<br>
+
+**Remix & Reflect**
+Once you've run the prompt, that doesn't mean that the input or output is the first thing you should go with. Always remember to pause for a second and actually look at what it gave back to you. Does this make sense for my specific use case? Does it feel accurate? Did it match the tone or approach we were hoping for? If the answer is kind of or maybe no problem, you can always take the time to remix it. You can either rewrite your initial prompt, or even take the same task and try running it through an entirely different framework.  
+
+For example, you might start with Tree of Thought to brainstorm three different product launch strategies. Then you take the best one from that output and run it through the prompt chaining to build out a step by step process. Once you get a feel for how they work, you'll naturally start stacking them, remixing them, and even eventually crafting your own combinations. That's where things really start to get powerful. Which leads me to the next important tip.  
 
 <br>
 <br>
 
 <h5 align="center">Build Your Prompt Library (OR) Save prompts & use it as assets whenever needed</h5>  
-Start building your own library of high-performing prompts you can reuse, remix, or hand off to your team. It’s like building your own creative toolkit—and every 
-great tool saves you time.  
+Start building your own library of high-performing prompts you can reuse, remix, or hand off to your team. It’s like building your own creative toolkit and every great tool saves you time.  
 
 We can see below 2 tools which helps us to save our prompts :  
 - [Prompster](https://chromewebstore.google.com/detail/prompster/fbagfekcjdidpmmookklbaeddgkjddml) : It's basically an chrome browser's extension which saves prompts inside the browser only. It's free, lightweighted, and easy to use option.  
