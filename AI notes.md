@@ -301,27 +301,77 @@ So, basically here 'priming' data means, providing the AI first with data, and t
 
 
 
-#### 🔰Lesson 8 : Types of Advanced Prompting Frameworks ~~Prompt Chaining (a kind of prompt framework)~~ [**Attach PDF]  
-***Here, 'Framework' means a support/structure which helps us to craft a pefect prompt.  
-Here we are creating a type of prompt which includes a lot of tasks at a time, but we have asked it to AI in a sequence manner or in a step-by-step manner. It will be going to include a whole task e.g. about business and its marketing, etc.  
+#### 🔰Lesson 8 : Types of Advanced Prompting Frameworks [**Attach PDF]  
+Here, 'Framework' means a support/structure which helps us to craft a pefect prompt.  
 
-For this kinds of tasks, we often include or prompt something like below :  
+<h5 align="center">Prompt Chaining</h5>  
+According to this framework, we break a complex task (which includes a lot of tasks at a time) into smaller sequential steps, we use the output of one prompt as an input for the next/followed-up prompt. So, prompting according to this framework gives more control to get our relevant response. 
 
-- *`Let's think step-by-step. . . .`*  
-- *`Before responding, ask me any clarifying questions about the target market, the product features, or any specific launch goals to better understand what I want.`* ['Ask Before 
-Answering' prompt type example]  
-- *`Write a product launch plan for smart home security cameras. Then, critique the plan for clarity, structure, and relevance, and suggest improvements.`*
-- *`Create a decision matrix comparing three marketing strategies (social media, email campaigns, and influencer partnerships) for a smart home security camera product launch. Compare them based on cost, reach, and potential ROI.`*
+For example : (Toggle ON the 'Web Search' feature for the below prompts)  
+*`Summarize the key steps involved in a product launch campaign`*, wait for its replay, and then ask the below prompt after it . . . .  
+*`Based on the summary, create a campaign timeline for launching the smart home security cameras`*, again wait for sometime let it create the timeline, then ask the below prompt after it . . . .  
+*`Write a marketing strategy for prompting the product through social media channels`*, again allow it to make a strategy, then ask the below prompt after it . . . .  
+*`Write a final product launch announcement that includes the timeline and marketing strategies`*. So this's an example we do prompt under this framework.  
 
+<br>
+<br>
+
+<h5 align="center">Chain of Thought Reasoning</h5>  
+This approach involves asking the AI to breakdown its think into step-by-step. We use this approach for best quality response, big discission making and where factual output is important. Sometime we also use in prompt like *`Let's think step-by-step. . . .`*.  
+
+For example :  
+*`Write a product launch plan for a new line of smart home security cameras. Using chain of through, start by outlining the key components of a launch plan, then explaining why each component is essential, and finally providing examples of best practices.`*
+
+<br>
+<br>
+
+<h5 align="center">Building Smarter Responses</h5>  
+This approach is called 'Reasoning Model', it's more similar to 'chain of thought' and 'tree of thought'. In this mode the AI will slow down to think logically and to build a more complete, higher quality output.  
+
+<br>
+<br>
+
+<h5 align="center">Tree of Thought Reasoning</h5>  
+This framework is similar to 'chain of thought', it encourages the ChatGPT to explore multiple possible paths and even then converge/provides the best one. This is perfect for tasks that require creativity or multiple decision points.  
+
+For example :  
+*`Write a product launch plan for a new line of smart home security cameras. Using tree of thought reasoning, brainstorm several key strategies for the product launch (influencer marketing, outbound marketing, paid ads, content marketing, etc.), then evaluate which strategy would be best for a small business launching its first product.`*
+
+<br>
+<br>
+
+<h5 align="center">Ask Before Answering</h5>  
+According to this framework ChatGPT asks clarifying questions before giving a response. It basically makes a pause and ask follow up questions to clarify some more details, then it proceeds ahead.  
+
+For example :  
+*`Before responding, ask me any clarifying questions about the target market, the product features, or any specific launch goals to better understand what I want.`*
+
+<br>
+<br>
+
+<h5 align="center">Self-Critique Prompting</h5>  
+In this method, the AI model critiques/analysis/self-evaluate  its own work after generating the output, then making improvement for clarity, structure, and relevance.  
+
+For example :  
+*`Write a product launch plan for smart home security cameras. Then, critique the plan for clarity, structure, and relevance, and suggest improvements.`*
+
+<br>
+<br>
+
+<h5 align="center">Decision Matrix Generation/h5>  
+This model helps to compare multiple options across different criteria.  
+
+For example :  
+*`Create a decision matrix comparing three marketing strategies (social media, email campaigns, and influencer partnerships) for a smart home security camera product launch. Compare them based on cost, reach, and potential ROI.`*
 
 <br>
 <br>
 
 <h5 align="center">Reverse Prompt Engineering</h5>  
-Basically here we use the response given AI to find what will be the prompt for that particular response.  
+This method involves analysing a finished output to figure out which prompt generated for that output. (Basically here we use the response given AI to find what will be the prompt for that particular response)  
 
 For example :  
-*`>> 📤+Upload+ or copy-paste the product lauch plan/design/pattern. . .`*  
+*`>> 📤+Upload+ or copy-paste the product launch plan/design/pattern. . .`*  
 *`Here is the product launch plan for the smart home security cameras. Reverse engineer it to come up with the most likely prompt to have created this plan.`*  
 
 ----
