@@ -140,7 +140,7 @@ unnessary app list here only . . .
 
 - **Advance visit** to exam center (to know route, time taking, crowd, duration, area, safety, fare charges (via bus/metro/taxi), etc.) : food ready for the actual day 7AM, Admit card 2 copy, and anything necessary need to purchase.  
 - shaving hair first then : followed by SIM, exam, checkup, lenskart, etc.  
-- Order Jio SIM from this [link](https://www.jio.com/selfcare/selfkyc) (get read for online LIVE photo & video). Need '5G Nano SIM' with '4G plan' for 4G phone. Support link [1](https://youtu.be/_K1Zgf1ySRM), [2](https://youtu.be/hZu63RqpTCU), [3](https://youtu.be/e59npfRxCXw).  
+- ~~Order Jio SIM from this [link](https://www.jio.com/selfcare/selfkyc) (get read for online LIVE photo & video). Need '5G Nano SIM' with '4G plan' for 4G phone. Support link [1](https://youtu.be/_K1Zgf1ySRM), [2](https://youtu.be/hZu63RqpTCU), [3](https://youtu.be/e59npfRxCXw).~~
 - Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
 - Appointment booking, and shaving hairs - {on 23/Sept = Tuesday fixed - Empty stomach - But time to visit :-- 8am (pack rice in tiffin)}  
 - [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
@@ -179,7 +179,7 @@ unnessary app list here only . . .
 <br>  
 
 ✔✔✔✔✔✔✔✔✔  
-- Bookmarks in PC of SSC : go through all SSC bookmarks of the browser and then do the following tasks. . . . . .
+- Bookmarks in PC of SSC : go through all SSC bookmarks of the browser and then do the following tasks**
 - [1](https://youtu.be/A4_2rxpN5ag), [2](https://youtu.be/p8gvGCDQpgo), [3](https://youtube.com/shorts/BdjAsXeOaNQ), [4](https://youtube.com/shorts/z2BpEPnlNf8), [5](https://youtu.be/9eegVWG5_z0), [6](https://youtube.com/shorts/qCv1KNtGPOk), [7](https://youtube.com/shorts/a56dtw6H2Os).
 - [1](https://youtu.be/T3qQba30n6A), [2](https://youtu.be/CkL1WncA33U), [3](https://youtu.be/egMy1vOX7zc), [4](https://youtu.be/0ToSbd5snkQ), [5](https://youtu.be/ubQxuktDygA), [6](https://youtu.be/QqLH03vUlpA), [7](https://youtu.be/zsy_WRq5DuA), [8](https://youtu.be/H5kH52Pauw0), [9](https://youtu.be/VPSsmGU52_o), [10](https://youtu.be/umL8fTZhCZI), [11](https://youtu.be/cHUHPp2Aa2Y), [12](https://youtu.be/XdiW-ulSokc), [13](https://youtu.be/ozBw3YwKSDE), [14](https://youtu.be/hqvOfaAGRL8), [15](https://youtube.com/shorts/bEj0HcCa-9c), [16](https://youtube.com/shorts/fEL5wcTc87Y), [17](https://youtu.be/k4XEycqDxJo), [18](https://youtu.be/HaKIZiJ91CM).
 - [1](https://testbook.com/ssc-cgl-exam/post-preference-order), [2](https://www.youtube.com/results?search_query=ssc+full+course).  
