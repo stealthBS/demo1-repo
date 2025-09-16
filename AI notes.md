@@ -415,7 +415,7 @@ Tree of Thought is perfect when you want the AI to explore multiple strategies b
 <br>
 <br>
 
-**Remix & Reflect**
+**Remix & Reflect between different prompt frameworks**  
 Once you've run the prompt, that doesn't mean that the input or output is the first thing you should go with. Always remember to pause for a second and actually look at what it gave back to you. Does this make sense for my specific use case? Does it feel accurate? Did it match the tone or approach we were hoping for? If the answer is kind of or maybe no problem, you can always take the time to remix it. You can either rewrite your initial prompt, or even take the same task and try running it through an entirely different framework.  
 
 For example, you might start with Tree of Thought to brainstorm three different product launch strategies. Then you take the best one from that output and run it through the prompt chaining to build out a step by step process. Once you get a feel for how they work, you'll naturally start stacking them, remixing them, and even eventually crafting your own combinations. That's where things really start to get powerful. Which leads me to the next important tip.  
