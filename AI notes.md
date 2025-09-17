@@ -456,6 +456,10 @@ We can see below 2 tools which helps us to save our prompts :
 
 
 #### 🔰Lesson 11 :  How LLM's thinks [**Attach PDF]  
+When you type something into ChatGPT, the model doesn't read it in the same way that we do. Instead, it breaks your input down into smaller building blocks called tokens, which could be words, sequences of words, and even punctuation marks.  
+
+<br> 
+
 **Tokens :**  
 Whenever we writes prompt, then AI tool counts each word, symbol and special character a single Token.  
 
