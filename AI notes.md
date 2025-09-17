@@ -493,8 +493,17 @@ Here, we have just learned how to smartly use the ChatGPT tool in our day-to-day
 
 
 
-#### 🔰Lesson 13 : 
+#### 🔰Lesson 13 : 5 Game-Changing ways to use ChatGPT AI tool
+Sometime we get random brainstorms ideas, popped idea, half-baked ideas, dumped notepad noted ideas, or we are in some situations where some idea suddenly hits us. So, with these kinds of ideas we can take help of ChatGPT which tell the way in a step-by-step manner to execute it to achieve the final goal.  
 
+<br> 
+
+So, below are some 5 ways in which we can use ChatGPT AI tool in the following purposes i.e. :  
+- Idea Refinement Partner,  
+- Business Pitch Helper,
+- Wellness Reflection Coach,
+- Weekly Emotional Check-In,
+- Personal Finance Advisor.  
 ----
 
 
