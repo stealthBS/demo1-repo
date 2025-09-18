@@ -141,6 +141,7 @@ unnessary app list here only . . .
 - ~~Uplaod a .docx file in GitHub and check how it display here.~~
 - mba vs hotel management (as both are management/manager level studies only)
 - "watch later 2" youtube videos
+- Talk with Jio-customer-care about recycling SIM vs new SIM. How to get a fresh new SIM for personal/offical/banking/govermental/id-card use. 
 
 <br>  
 
