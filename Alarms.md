@@ -96,6 +96,7 @@ unnessary app list here only . . .
 - [ ] Ready **bag** for exam day : Water bottle (transparent), cap, ~~NO mobile~~, 2-Admid cards, id card proof, Sanitizer, Biscuit, Night 2 chappati, etc. 
 - [ ] Exam & Bag setting (be there before 8:00am becasue gate checking, Bag storing, Roll & Room finding) **{21 September}**
 - [ ] 
+- [ ] ChatGPT : when we are going for full body check in an empty stomach where they will take some ml of blood sample from us, here what are the things we need to take care, or what are the thing we need to take care before & after. And after giving the blood sample what we can do.
 - [ ] Indian Post Parcel tracking : [Speed Post](https://www.indiapost.gov.in/) || [Registered Post](https://speedposts.in/registered-post-tracking). 
 - [ ] Appointment Booking for **Full Body health checkup** (with BP and weight) **(~~16 September~~ || 23 September OR 30 September - Tuesday)**
 - [ ] Appointment Booking for **Eye Health checkup** visit (with full body checkup health report) || Make appointment [here](https://www.narayananethralaya.org/).
