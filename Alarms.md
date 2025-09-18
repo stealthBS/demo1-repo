@@ -90,7 +90,7 @@ unnessary app list here only . . .
 - [ ] Check all SSC shift timings [here](https://www.careerpower.in/blog/ssc-cgl-shift-timings), at least reach there at 10AM ending of exam time to see things.  
 - [ ] first Download **Admit Card** & Bag setting, then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : **Metro Card Recharge**, Cash money, Print 2 copy Admit Card, Thyrocare area, Neuberg Diagnostics, Kissan Jam, Nippattu2x, Badusha2x, etc.
 - [ ] SSC preparation & Kannada **{15 September}**
-- [ ] Go through the **Admit Card** details & [exam instructions](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/ac_general_instructions_21072025.pdf) in details, read them.
+- [ ] Go through the **Admit Card** details & [**exam instructions**](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/ac_general_instructions_21072025.pdf) in details, read them.
 - [ ] Ready **bag** for exam day : Water bottle (transparent), cap, ~~NO mobile~~, 2-Admid cards, id card proof, Sanitizer, Biscuit, Night 2 chappati, etc. 
 - [ ] Exam & Bag setting (be there before 8:00am becasue gate checking, Bag storing, Roll & Room finding) **{21 September}**
 - [ ] 
