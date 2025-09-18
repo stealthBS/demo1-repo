@@ -88,7 +88,8 @@ unnessary app list here only . . .
 - [x] ~~Online SIM : [Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.~~
 - [ ] Try to visit center without using Google map. Because without phone need to go on Exam day. practice. less use the map/mobile here.
 - [ ] Put ON the Stop-watch to find the duration of time to reach there. 
-- [ ] Check all SSC shift timings [here](https://www.careerpower.in/blog/ssc-cgl-shift-timings), at least reach there at 10AM ending of exam time to see things.  
+- [ ] Check all SSC shift timings [here](https://www.careerpower.in/blog/ssc-cgl-shift-timings), at least reach there at 10AM ending of exam time to see things.
+- [ ] Some Youtube Links of SSC : [1](https://youtu.be/fPb87QgWYlw), [2](https://www.youtube.com/live/94XqSNLdtM8), [3](https://www.youtube.com/live/QRaXDJJxFuI), [4](https://youtu.be/hqp0g8s9iu0), [5](https://www.youtube.com/live/E5p8HrUDjgk), [6](https://youtu.be/TA5Yoe229kQ), [7](https://youtu.be/pzwdt8IW7Nw), [8](https://youtu.be/qvEM_2Xup98), [9](https://www.youtube.com/live/vmz-ZN8YuyA). 
 - [ ] first Download **Admit Card** & Bag setting, then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : **Metro Card Recharge**, Cash money, Print 2 copy Admit Card, Thyrocare area, Neuberg Diagnostics, Kissan Jam, Nippattu2x, Badusha2x, etc.
 - [ ] SSC preparation & Kannada **{15 September}**
 - [ ] Go through the **Admit Card** details & [**exam instructions**](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/ac_general_instructions_21072025.pdf) in details, read them. Understand everything's meaning by using ChatGPT or Grok.
