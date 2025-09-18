@@ -147,6 +147,29 @@ exit
 
 
 
+
+
+--------
+--------
+
+<h2 align=center>where to use GitHub markdown note makings especially</h2>
+
+- Daily repetative works use purpose note (time-table making, yellow paper works)
+- Links type notes
+- To-Do type works
+- Pending works listing
+- mermaid flow diagram use
+- quick plannings
+- **But not good for through note keeping. Because of not proper picture, titles, underline alignment.** 
+
+
+
+
+
+
+
+
+
 ---
 ---
 
