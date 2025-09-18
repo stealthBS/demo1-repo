@@ -154,8 +154,8 @@ exit
 
 <h2 align=center>where to use GitHub markdown note makings especially</h2>
 
-- Daily repetative works use purpose note (time-table making, yellow paper works)
-- Links type notes
+- Daily repetative use purpose note/works (time-table making, yellow paper works)
+- Links type notes (can be accesible from anywhere, because it merge all things)
 - To-Do type works
 - Pending works listing
 - mermaid flow diagram use
