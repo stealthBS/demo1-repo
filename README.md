@@ -104,8 +104,52 @@ If we are suing Windows's command prompt as normal user, then we can't switch di
 
 
 
+--------
+--------
+
+
+<h2 align=center>Windows CLI</h2>
+
+To change Diver :  
+```
+D:
+```
+<br> 
+
+To list all folders & files inside a directory :  
+```
+dir
+```
+
+<br> 
+
+To select a directory : 
+```
+cd "Java Course"
+```
+
+<br> 
+
+To clear the screen of CLI :  
+```
+cls
+```
+
+<br> 
+
+To exit from CLI or command prompt :  
+```
+exit
+```
+
+
+
+
+
+
 ---
 ---
+
 <br>
 
 <h3 align="center">Can make here centerd aligned <q>Title</q></h3>  
