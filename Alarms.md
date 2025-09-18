@@ -86,12 +86,12 @@ unnessary app list here only . . .
 - [x] ~~Online Shopping~~
 - [x] ~~Call Neuberg Dignostics - 08037229134 (ask for full body check price, time, reports result time)~~
 - [x] ~~Online SIM : [Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.~~
-- [ ] Indian Post Parcel tracking : [Speed Post](https://www.indiapost.gov.in/) || [Registered Post](https://speedposts.in/registered-post-tracking). 
-- [ ] SSC preparation & Kannada **{15 September}**
 - [ ] first Download **Admit Card** & Bag setting, then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : Metro Card Recharge, Cash money, Print 2 copy Admit Card, Thyrocare area, Neuberg Diagnostics, Kissan Jam, Nippattu2x, Badusha2x, etc.
+- [ ] SSC preparation & Kannada **{15 September}**
 - [ ] Ready **bag** for exam day : Water bottle (transparent), cap, ~~NO mobile~~, 2-Admid cards, id card proof, Sanitizer, Biscuit, Night 2 chappati, etc. 
 - [ ] Exam & Bag setting (be there before 8:30am becasue gate checking and Bag storing) **{21 September}**
 - [ ] 
+- [ ] Indian Post Parcel tracking : [Speed Post](https://www.indiapost.gov.in/) || [Registered Post](https://speedposts.in/registered-post-tracking). 
 - [ ] Appointment Booking for **Full Body health checkup** (with BP and weight) **(~~16 September~~ || 23 September OR 30 September - Tuesday)**
 - [ ] Appointment Booking for **Eye Health checkup** visit (with full body checkup health report) || Make appointment [here](https://www.narayananethralaya.org/).
 - [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
