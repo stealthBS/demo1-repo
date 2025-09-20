@@ -93,7 +93,7 @@ unnessary app list here only . . .
 - [ ] SSC preparation & Kannada **{15 September}**
 - [ ] Some Youtube Links of SSC : [1](https://youtu.be/fPb87QgWYlw), [2](https://www.youtube.com/live/94XqSNLdtM8), [3](https://www.youtube.com/live/QRaXDJJxFuI), [4](https://youtu.be/hqp0g8s9iu0), [5](https://www.youtube.com/live/E5p8HrUDjgk), [6](https://youtu.be/TA5Yoe229kQ), [7](https://youtu.be/pzwdt8IW7Nw), [8](https://youtu.be/qvEM_2Xup98), [9](https://www.youtube.com/live/vmz-ZN8YuyA). 
 - [ ] Go through the **Admit Card** details & [**exam instructions**](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/ac_general_instructions_21072025.pdf) in details, read them. Understand everything's meaning by using ChatGPT or Grok.
-- [ ] Ready **bag** for exam day : Water bottle (transparent), cap, ~~NO mobile~~, 2-Admid cards, id card proof, Sanitizer, Biscuit, Night 2 chappati, etc. 
+- [ ] Ready **bag** for exam day : Water bottle (transparent), cap, ~~NO mobile~~, 2-Admid cards, 2 pass-photo, id card proof, Sanitizer, Biscuit, Night 2 chappati, etc. 
 - [ ] Exam & Bag setting (be there before 8:00am becasue gate checking, Bag storing, Roll & Room finding) **{21 September}**
 - [ ] 
 - [ ] Thyrocare area visit, price check, peak hour. 
