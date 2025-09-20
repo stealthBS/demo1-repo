@@ -89,13 +89,14 @@ unnessary app list here only . . .
 - [ ] ~~Try to visit center without using Google map. Because without phone need to go on Exam day. practice. less use the map/mobile here.~~
 - [ ] ~~Put ON the Stop-watch to find the duration of time to reach there.~~ 
 - [ ] ~~Check all SSC shift timings [here](https://www.careerpower.in/blog/ssc-cgl-shift-timings), at least reach there at 10AM ending of exam time to see things.~~
-- [ ] Some Youtube Links of SSC : [1](https://youtu.be/fPb87QgWYlw), [2](https://www.youtube.com/live/94XqSNLdtM8), [3](https://www.youtube.com/live/QRaXDJJxFuI), [4](https://youtu.be/hqp0g8s9iu0), [5](https://www.youtube.com/live/E5p8HrUDjgk), [6](https://youtu.be/TA5Yoe229kQ), [7](https://youtu.be/pzwdt8IW7Nw), [8](https://youtu.be/qvEM_2Xup98), [9](https://www.youtube.com/live/vmz-ZN8YuyA). 
-- [ ] first Download **Admit Card** & Bag setting, then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : **Metro Card Recharge**, Cash money, Print 2 copy Admit Card, Thyrocare area, Neuberg Diagnostics, Kissan Jam, Tropicana Juice **OR** Amrutanjan Electro, Nippattu2x, Badusha2x, etc.
+- [ ] ~~first Download **Admit Card** & Bag setting, then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : **Metro Card Recharge**, Cash money, Print 2 copy Admit Card, Neuberg Diagnostics, Kissan Jam, Tropicana Juice **OR** Amrutanjan Electro, Nippattu2x, Badusha2x, etc.~~
 - [ ] SSC preparation & Kannada **{15 September}**
+- [ ] Some Youtube Links of SSC : [1](https://youtu.be/fPb87QgWYlw), [2](https://www.youtube.com/live/94XqSNLdtM8), [3](https://www.youtube.com/live/QRaXDJJxFuI), [4](https://youtu.be/hqp0g8s9iu0), [5](https://www.youtube.com/live/E5p8HrUDjgk), [6](https://youtu.be/TA5Yoe229kQ), [7](https://youtu.be/pzwdt8IW7Nw), [8](https://youtu.be/qvEM_2Xup98), [9](https://www.youtube.com/live/vmz-ZN8YuyA). 
 - [ ] Go through the **Admit Card** details & [**exam instructions**](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/ac_general_instructions_21072025.pdf) in details, read them. Understand everything's meaning by using ChatGPT or Grok.
 - [ ] Ready **bag** for exam day : Water bottle (transparent), cap, ~~NO mobile~~, 2-Admid cards, id card proof, Sanitizer, Biscuit, Night 2 chappati, etc. 
 - [ ] Exam & Bag setting (be there before 8:00am becasue gate checking, Bag storing, Roll & Room finding) **{21 September}**
 - [ ] 
+- [ ] Thyrocare area visit, price check, peak hour. 
 - [ ] ChatGPT : when we are going for full body check in an empty stomach where they will take some ml of blood sample from us, here what are the things we need to take care, or what are the thing we need to take care before & after. And after giving the blood sample what we can do.
 - [ ] Indian Post Parcel tracking : [Speed Post](https://www.indiapost.gov.in/) || [Registered Post](https://speedposts.in/registered-post-tracking). 
 - [ ] Appointment Booking for **Full Body health checkup** (with BP and weight) **(~~16 September~~ || 23 September OR 30 September - Tuesday)**
