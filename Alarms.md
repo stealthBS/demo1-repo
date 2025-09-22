@@ -192,24 +192,24 @@ unnessary app list here only . . .
 
 <br>  
 
-✔✔✔✔✔✔✔✔✔  
-- Bookmarks in PC of SSC : go through all SSC bookmarks of the browser and then do the following tasks**
-- [1](https://youtu.be/A4_2rxpN5ag), [2](https://youtu.be/p8gvGCDQpgo), [3](https://youtube.com/shorts/BdjAsXeOaNQ), [4](https://youtube.com/shorts/z2BpEPnlNf8), [5](https://youtu.be/9eegVWG5_z0), [6](https://youtube.com/shorts/qCv1KNtGPOk), [7](https://youtube.com/shorts/a56dtw6H2Os).
-- [1](https://youtu.be/T3qQba30n6A), [2](https://youtu.be/CkL1WncA33U), [3](https://youtu.be/egMy1vOX7zc), [4](https://youtu.be/0ToSbd5snkQ), [5](https://youtu.be/ubQxuktDygA), [6](https://youtu.be/QqLH03vUlpA), [7](https://youtu.be/zsy_WRq5DuA), [8](https://youtu.be/H5kH52Pauw0), [9](https://youtu.be/VPSsmGU52_o), [10](https://youtu.be/umL8fTZhCZI), [11](https://youtu.be/cHUHPp2Aa2Y), [12](https://youtu.be/XdiW-ulSokc), [13](https://youtu.be/ozBw3YwKSDE), [14](https://youtu.be/hqvOfaAGRL8), [15](https://youtube.com/shorts/bEj0HcCa-9c), [16](https://youtube.com/shorts/fEL5wcTc87Y), [17](https://youtu.be/k4XEycqDxJo), [18](https://youtu.be/HaKIZiJ91CM).
-- [1](https://testbook.com/ssc-cgl-exam/post-preference-order), [2](https://www.youtube.com/results?search_query=ssc+full+course).  
-- [SSC](https://ssc.gov.in/) admit card : **OUT** check
-- But ADMIT card avilable from 18-September or 2 days before exam.  
-- SSC visit location
-- Past Exams paper practice
-- Present there at advance 8:30AM becasue of security-checking, bag keeping, and other problems, where exam start at 9:00AM
-- SSC preparation [start from 15/Sep it's for 1 week only]  
-- SSC tier-1 : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)  
-- Before giving exam, try to give at least some MOCK TESTs to be used to with the SSC exam, which don't feel like new.  
-- Things to take on SSC exam : 2 admit card copy xerox, umberella, watch (maynot be), Aadhaar Card proof, water bottle, sanitizer, mask, SIM in pocket, Cash money, Bus Day pass,  
-- **Kannada revise**  
-- Any pending works : SIM making OR ONline, Thyrocare watch/visit area or inside,  . . . .
-- End moment check : center, shift, time, etc.
-- Bag keeping extra charges : so thing properly what to take and what not, as it is very risky  
+
+- ~~Bookmarks in PC of SSC : go through all SSC bookmarks of the browser and then do the following tasks**~~
+- ~~[1](https://youtu.be/A4_2rxpN5ag), [2](https://youtu.be/p8gvGCDQpgo), [3](https://youtube.com/shorts/BdjAsXeOaNQ), [4](https://youtube.com/shorts/z2BpEPnlNf8), [5](https://youtu.be/9eegVWG5_z0), [6](https://youtube.com/shorts/qCv1KNtGPOk), [7](https://youtube.com/shorts/a56dtw6H2Os).~~
+- ~~[1](https://youtu.be/T3qQba30n6A), [2](https://youtu.be/CkL1WncA33U), [3](https://youtu.be/egMy1vOX7zc), [4](https://youtu.be/0ToSbd5snkQ), [5](https://youtu.be/ubQxuktDygA), [6](https://youtu.be/QqLH03vUlpA), [7](https://youtu.be/zsy_WRq5DuA), [8](https://youtu.be/H5kH52Pauw0), [9](https://youtu.be/VPSsmGU52_o), [10](https://youtu.be/umL8fTZhCZI), [11](https://youtu.be/cHUHPp2Aa2Y), [12](https://youtu.be/XdiW-ulSokc), [13](https://youtu.be/ozBw3YwKSDE), [14](https://youtu.be/hqvOfaAGRL8), [15](https://youtube.com/shorts/bEj0HcCa-9c), [16](https://youtube.com/shorts/fEL5wcTc87Y), [17](https://youtu.be/k4XEycqDxJo), [18](https://youtu.be/HaKIZiJ91CM).~~
+- ~~[1](https://testbook.com/ssc-cgl-exam/post-preference-order), [2](https://www.youtube.com/results?search_query=ssc+full+course).~~
+- ~~[SSC](https://ssc.gov.in/) admit card : **OUT** check~~
+- ~~But ADMIT card avilable from 18-September or 2 days before exam.~~ 
+- ~~SSC visit location~~
+- ~~Past Exams paper practice~~
+- ~~Present there at advance 8:30AM becasue of security-checking, bag keeping, and other problems, where exam start at 9:00AM~~
+- ~~SSC preparation [start from 15/Sep it's for 1 week only]~~
+- ~~SSC tier-1 : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)~~
+- ~~Before giving exam, try to give at least some MOCK TESTs to be used to with the SSC exam, which don't feel like new.~~
+- ~~Things to take on SSC exam : 2 admit card copy xerox, umberella, watch (maynot be), Aadhaar Card proof, water bottle, sanitizer, mask, SIM in pocket, Cash money, Bus Day pass.~~
+- ~~**Kannada revise**~~
+- ~~Any pending works : SIM making OR ONline, Thyrocare watch/visit area or inside,  . . . .~~
+- ~~End moment check : center, shift, time, etc.~~
+- ~~Bag keeping extra charges : so thing properly what to take and what not, as it is very risky~~
 
 <br>  
 
