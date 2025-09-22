@@ -218,5 +218,5 @@ unnessary app list here only . . .
 
 <br>  
 
-- This is the era of Zombies where people do doomScrooling only : through this make profile if you can do  
+- **This is the era of Zombies where people do doomScrooling only : through this make profile if you can do.**
 
