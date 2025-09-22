@@ -147,7 +147,7 @@ C/root:~#
 
 or
 
-root@user1:~#
+root@user1:~# ____
 ```
 
 
