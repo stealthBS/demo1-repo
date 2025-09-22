@@ -211,6 +211,8 @@ exit
 - Pending works listing
 - mermaid flow diagram use
 - quick plannings
+- sometime general note taking through digital instead of using traditional pen & paper
+- Sometime something we want to access from both PC as well as mobile, so to follow from anywhere
 - **But not good for through note keeping. Because of not proper picture, titles, underline alignment.** 
 
 
