@@ -104,7 +104,7 @@ If we are suing Windows's command prompt as normal user, then we can't switch di
 
 <br> 
 
-#### Note
+### Note
 We can understand like "an 'Admin user' mean an user which is the first user & which already presents/creates during the installation time of the OS". An Admin user (or Administrator) is typically a user account that has elevated privileges and control over the operating system. While it's common for an Admin user to be created during the installation of an OS (like Windows, macOS, or Linux), an Admin user doesn't necessarily have to be the one created at installation. It’s the user account that has special permissions to manage system settings, install software, create or remove other users, and generally administer the OS.  
 
 To sum it up:  
