@@ -118,13 +118,15 @@ When we open Command prompt in Windows, then its default path will be like : 
 ```
 C:\Users\user>
 ```
+Inside which there are folders like : 3D Object, .m2 folder, Desktop, Document, Music, Pictures, Videos, etc.  
+
 <br> 
 
 Similarly, when we open Terminal in Linux, then its default path will be like :  
 ```
 C/home/user>
 ```
-
+Inside which there are folders like : Desktop, Documents, Downloads, Music, Pictures, etc.  
 
 
 
