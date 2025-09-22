@@ -103,6 +103,15 @@ If we are using Kali linux's terminal as normal user, then to switch to root use
 If we are suing Windows's command prompt as normal user, then we can't switch directly but can do like : **'cmd' >> Run as administrator**.  
 
 <br> 
+
+#### Note
+We can understand like "an 'Admin user' mean an user which is the first user & which already presents/creates during the installation time of the OS". An Admin user (or Administrator) is typically a user account that has elevated privileges and control over the operating system. While it's common for an Admin user to be created during the installation of an OS (like Windows, macOS, or Linux), an Admin user doesn't necessarily have to be the one created at installation. It’s the user account that has special permissions to manage system settings, install software, create or remove other users, and generally administer the OS.  
+
+To sum it up:  
+- An Admin user can be created during OS installation, but it could also be added later by someone with administrative rights.
+- Not every user created during installation is necessarily an admin; it depends on how the OS is configured (e.g., in Windows, you can choose to create an admin account or a standard user).
+
+<br> 
 <br> 
 <br> 
 <br> 
