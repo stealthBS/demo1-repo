@@ -86,6 +86,8 @@ unnessary app list here only . . .
 - [x] ~~Online Shopping~~
 - [x] ~~Call Neuberg Dignostics - 08037229134 (ask for full body check price, time, reports result time)~~
 - [x] ~~Online SIM : [Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.~~
+- ~~shaving hair first then : followed by SIM, exam, checkup, lenskart, etc.~~
+- ~~Order Jio SIM from this [link](https://www.jio.com/selfcare/selfkyc) (get read for online LIVE photo & video). Need '5G Nano SIM' with '4G plan' for 4G phone. Support link [1](https://youtu.be/_K1Zgf1ySRM), [2](https://youtu.be/hZu63RqpTCU), [3](https://youtu.be/e59npfRxCXw).~~
 - [ ] 
 - [ ] Talk with Jio-customer-care about recycling SIM vs new SIM. How to get a fresh new SIM for personal/offical/banking/govermental/id-card use. 
 - [ ] Thyrocare area visit, price check, peak hour. 
@@ -141,8 +143,6 @@ unnessary app list here only . . .
 
 <br>  
 
-- shaving hair first then : followed by SIM, exam, checkup, lenskart, etc.  
-- ~~Order Jio SIM from this [link](https://www.jio.com/selfcare/selfkyc) (get read for online LIVE photo & video). Need '5G Nano SIM' with '4G plan' for 4G phone. Support link [1](https://youtu.be/_K1Zgf1ySRM), [2](https://youtu.be/hZu63RqpTCU), [3](https://youtu.be/e59npfRxCXw).~~
 - Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
 - Appointment booking, and shaving hairs - {on 23/Sept = Tuesday fixed - Empty stomach - But time to visit :-- 8am (pack rice in tiffin)}  
 - [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
