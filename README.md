@@ -102,6 +102,22 @@ In Kali Linux, this corresponds to a normal user and the root user.
 If we are using Kali linux's terminal as normal user, then to switch to root user we use the command : `sudo su`.  
 If we are suing Windows's command prompt as normal user, then we can't switch directly but can do like : **'cmd' >> Run as administrator**.  
 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br>
+
+In Windows : 
+C:\Users\user>
+
+
+In Linux :
+
+
 
 
 --------
@@ -152,7 +168,7 @@ exit
 --------
 --------
 
-<h2 align=center>where to use GitHub markdown note makings especially</h2>
+<h2 align=center>Where to use GitHub markdown note makings especially</h2>
 
 - Daily repetative use purpose note/works (time-table making, yellow paper works)
 - Links type notes (can be accesible from anywhere, because it merge all things)
