@@ -107,15 +107,17 @@ If we are suing Windows's command prompt as normal user, then we can't switch di
 <br> 
 <br> 
 <br> 
-<br> 
-<br> 
-<br>
 
-In Windows : 
+When we open Command prompt in Windows, then its default path will be like :  
+```
 C:\Users\user>
+```
+<br> 
+Similarly, when we open Terminal in Linux, then its default path will be like :
+```
+C/home/user/
+```
 
-
-In Linux :
 
 
 
