@@ -106,7 +106,7 @@ unnessary app list here only . . .
 - [ ] LensKart Gold membership coupon : AFFLSWG-DX9XOWZTHS
 - [ ] Can use [Buyhatke](https://chromewebstore.google.com/detail/price-history-tracker-spe/ojplmecpdpgccookcobabopnaifgidhf/reviews) plugin/extension to check the real price of product during any offers & discounts. 
 - [ ] Washing clothes
-- [ ] SSC Result check.
+- [ ] SSC Result check (21/Sept : result within a month)
 
 ### Done || But again re-check required :  
 - [dn] Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
