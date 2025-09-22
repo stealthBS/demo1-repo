@@ -113,9 +113,6 @@ To sum it up:
 
 <br> 
 <br> 
-<br> 
-<br> 
-<br> 
 
 When we open Command prompt in Windows, then its default path will be like :  
 ```
