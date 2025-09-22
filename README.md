@@ -113,11 +113,10 @@ When we open Command prompt in Windows, then its default path will be like : 
 C:\Users\user>
 ```
 <br> 
-Similarly, when we open Terminal in Linux, then its default path will be like :
+Similarly, when we open Terminal in Linux, then its default path will be like :  
 ```
-C/home/user/
+C/home/user>
 ```
-
 
 
 
