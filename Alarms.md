@@ -86,16 +86,6 @@ unnessary app list here only . . .
 - [x] ~~Online Shopping~~
 - [x] ~~Call Neuberg Dignostics - 08037229134 (ask for full body check price, time, reports result time)~~
 - [x] ~~Online SIM : [Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.~~
-- [ ] ~~Try to visit center without using Google map. Because without phone need to go on Exam day. practice. less use the map/mobile here.~~
-- [ ] ~~Put ON the Stop-watch to find the duration of time to reach there.~~ 
-- [ ] ~~Check all SSC shift timings [here](https://www.careerpower.in/blog/ssc-cgl-shift-timings), at least reach there at 10AM ending of exam time to see things.~~
-- [ ] ~~first Download **Admit Card** & Bag setting, then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : **Metro Card Recharge**, Cash money, Print 2 copy Admit Card, Neuberg Diagnostics, Kissan Jam, Tropicana Juice **OR** Amrutanjan Electro, Nippattu2x, Badusha2x, etc.~~
-- [ ] ~~SSC preparation & Kannada **{15 September}**~~
-- [ ] ~~Some Youtube Links of SSC : [1](https://youtu.be/LWmWobeW1RE), [2](https://www.youtube.com/live/94XqSNLdtM8), [3](https://www.youtube.com/live/QRaXDJJxFuI), [4](https://youtu.be/hqp0g8s9iu0), [5](https://www.youtube.com/live/E5p8HrUDjgk), [6](https://youtu.be/TA5Yoe229kQ), [7](https://youtu.be/pzwdt8IW7Nw), [8](https://youtu.be/qvEM_2Xup98), [9](https://www.youtube.com/live/vmz-ZN8YuyA).~~
-- [ ] ~~Go through the **Admit Card** details & [**exam instructions**](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/ac_general_instructions_21072025.pdf) in details, read them. Understand everything's meaning by using ChatGPT or Grok.~~
-- [ ] ~~Ready **bag** for exam day : Water bottle (transparent), cap, ~~NO mobile~~, 2-Admid cards, 2 pass-photo, id card proof, Sanitizer, Biscuit, Night 2 chappati, etc.~~
-- [ ] ~~Final check of center **Name** & **location**.~~
-- [ ] ~~21/Sept - 8 AM Exam : no toilet, only 2 Admit-Cards, Aadhaar Card ID, only 2 pass-photo, no Wallet, no cap, Mobile silent, Bag keeping, Gate checking, Roll & Room finding. Exam begin.~~
 - [ ] 
 - [ ] Thyrocare area visit, price check, peak hour. 
 - [ ] ChatGPT : when we are going for full body check in an empty stomach where they will take some ml of blood sample from us, here what are the things we need to take care, or what are the thing we need to take care before & after. And after giving the blood sample what we can do.
@@ -192,6 +182,17 @@ unnessary app list here only . . .
 
 <br>  
 
+- German : use contracted form pronouncing, native accent way of pronouncing, colloquial way of speaking, know alphabets how it pronounces, then it make sound more native.  
+- ChatGPT : like in english there's contracted form of many english words or words combination like : • cannot -> can't • would not -> won't and so on. . . . . which while speaking sounds more native. Similarly, is there any contracted form in German also?  
+
+<br>  
+
+- **This is the era of Zombies where people do doomScrooling only : through this make profile if you can do.**
+
+
+<br> 
+<br>
+
 
 - ~~Bookmarks in PC of SSC : go through all SSC bookmarks of the browser and then do the following tasks**~~
 - ~~[1](https://youtu.be/A4_2rxpN5ag), [2](https://youtu.be/p8gvGCDQpgo), [3](https://youtube.com/shorts/BdjAsXeOaNQ), [4](https://youtube.com/shorts/z2BpEPnlNf8), [5](https://youtu.be/9eegVWG5_z0), [6](https://youtube.com/shorts/qCv1KNtGPOk), [7](https://youtube.com/shorts/a56dtw6H2Os).~~
@@ -210,13 +211,15 @@ unnessary app list here only . . .
 - ~~Any pending works : SIM making OR ONline, Thyrocare watch/visit area or inside,  . . . .~~
 - ~~End moment check : center, shift, time, etc.~~
 - ~~Bag keeping extra charges : so thing properly what to take and what not, as it is very risky~~
+- [ ] ~~Try to visit center without using Google map. Because without phone need to go on Exam day. practice. less use the map/mobile here.~~
+- [ ] ~~Put ON the Stop-watch to find the duration of time to reach there.~~ 
+- [ ] ~~Check all SSC shift timings [here](https://www.careerpower.in/blog/ssc-cgl-shift-timings), at least reach there at 10AM ending of exam time to see things.~~
+- [ ] ~~first Download **Admit Card** & Bag setting, then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : **Metro Card Recharge**, Cash money, Print 2 copy Admit Card, Neuberg Diagnostics, Kissan Jam, Tropicana Juice **OR** Amrutanjan Electro, Nippattu2x, Badusha2x, etc.~~
+- [ ] ~~SSC preparation & Kannada **{15 September}**~~
+- [ ] ~~Some Youtube Links of SSC : [1](https://youtu.be/LWmWobeW1RE), [2](https://www.youtube.com/live/94XqSNLdtM8), [3](https://www.youtube.com/live/QRaXDJJxFuI), [4](https://youtu.be/hqp0g8s9iu0), [5](https://www.youtube.com/live/E5p8HrUDjgk), [6](https://youtu.be/TA5Yoe229kQ), [7](https://youtu.be/pzwdt8IW7Nw), [8](https://youtu.be/qvEM_2Xup98), [9](https://www.youtube.com/live/vmz-ZN8YuyA).~~
+- [ ] ~~Go through the **Admit Card** details & [**exam instructions**](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/ac_general_instructions_21072025.pdf) in details, read them. Understand everything's meaning by using ChatGPT or Grok.~~
+- [ ] ~~Ready **bag** for exam day : Water bottle (transparent), cap, ~~NO mobile~~, 2-Admid cards, 2 pass-photo, id card proof, Sanitizer, Biscuit, Night 2 chappati, etc.~~
+- [ ] ~~Final check of center **Name** & **location**.~~
+- [ ] ~~21/Sept - 8 AM Exam : no toilet, only 2 Admit-Cards, Aadhaar Card ID, only 2 pass-photo, no Wallet, no cap, Mobile silent, Bag keeping, Gate checking, Roll & Room finding. Exam begin.~~
 
-<br>  
-
-- German : use contracted form pronouncing, native accent way of pronouncing, colloquial way of speaking, know alphabets how it pronounces, then it make sound more native.  
-- ChatGPT : like in english there's contracted form of many english words or words combination like : • cannot -> can't • would not -> won't and so on. . . . . which while speaking sounds more native. Similarly, is there any contracted form in German also?  
-
-<br>  
-
-- **This is the era of Zombies where people do doomScrooling only : through this make profile if you can do.**
 
