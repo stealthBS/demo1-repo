@@ -116,7 +116,7 @@ To sum it up:
 
 When we open Command prompt in Windows, then its default path will be like :  
 ```
-C:\Users\user>
+C:\Users\user1>
 ```
 Inside which there are folders like : 3D Object, .m2 folder, Desktop, Document, Music, Pictures, Videos, etc.  
 
@@ -129,13 +129,25 @@ C:\Windows\system32>
 
 Similarly, when we open Terminal in Linux, then its default path will be like :  
 ```
-C/home/user>
+C/home/user1:~$
+
+or 
+
+user1@user1:~$
 ```
 Inside which there are folders like : Desktop, Documents, Downloads, Music, Pictures, etc.  
 
 Similarly, when we open Terminal with Admin/Root mode in Linux, then its path will be like :  
 ```
-xyz
+C/home:~#
+
+or 
+
+C/root:~#
+
+or
+
+root@user1:~#
 ```
 
 
