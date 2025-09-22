@@ -1081,5 +1081,6 @@ If we don't have a paid plan of ChatGPT, then as of now for learning purpose on 
 - [**Attach PDF] : Documents/files attaching for each topics
 - Should i need to purchase ChatGPT subscription to learn this course, (OR) should i use other AI Tool to learn this course. . . .  
 - Can attach its corresponding PDFs in the chapter's title. . . . . . . .
-- **Final Message** : After knowing to operate the ChatGPT AI tool, now it's upto you how much you can work hard to achieve your goal. Basically, it makes all the hard & struggles as easy path, but putting serious effort to achieve something is in your hand. 
+- **Final Message** : After knowing to operate the ChatGPT AI tool, now it's upto you how much you can work hard to achieve your goal. Basically, it makes all the hard & struggles as easy path, but putting serious effort to achieve something is in your hand.  
+- `Explain it to a 5th grade/standard/class child . . . . .`
 
