@@ -99,12 +99,13 @@ unnessary app list here only . . .
 - [ ] 
 - [ ] Thyrocare area visit, price check, peak hour. 
 - [ ] ChatGPT : when we are going for full body check in an empty stomach where they will take some ml of blood sample from us, here what are the things we need to take care, or what are the thing we need to take care before & after. And after giving the blood sample what we can do.
-- [ ] Indian Post Parcel tracking : [Speed Post](https://www.indiapost.gov.in/) || [Registered Post](https://speedposts.in/registered-post-tracking). 
+- [ ] Indian Post Parcel tracking ( CO145948557IN ) : [Speed Post](https://www.indiapost.gov.in/) || [Registered Post](https://speedposts.in/registered-post-tracking). 
 - [ ] Appointment Booking for **Full Body health checkup** (with BP and weight) **(~~16 September~~ || 23 September OR 30 September - Tuesday)**
 - [ ] Appointment Booking for **Eye Health checkup** visit (with full body checkup health report) || Make appointment [here](https://www.narayananethralaya.org/).
 - [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
 - [ ] Can use [Buyhatke](https://chromewebstore.google.com/detail/price-history-tracker-spe/ojplmecpdpgccookcobabopnaifgidhf/reviews) plugin/extension to check the real price of product during any offers & discounts. 
 - [ ] Washing clothes
+- [ ] SSC Result check.
 
 ### Done || But again re-check required :  
 - [dn] Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
