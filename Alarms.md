@@ -103,6 +103,7 @@ unnessary app list here only . . .
 - [ ] Appointment Booking for **Full Body health checkup** (with BP and weight) **(~~16 September~~ || 23 September OR 30 September - Tuesday)**
 - [ ] Appointment Booking for **Eye Health checkup** visit (with full body checkup health report) || Make appointment [here](https://www.narayananethralaya.org/).
 - [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
+- [ ] LensKart Gold membership coupon : AFFLSWG-DX9XOWZTHS
 - [ ] Can use [Buyhatke](https://chromewebstore.google.com/detail/price-history-tracker-spe/ojplmecpdpgccookcobabopnaifgidhf/reviews) plugin/extension to check the real price of product during any offers & discounts. 
 - [ ] Washing clothes
 - [ ] SSC Result check.
