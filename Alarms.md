@@ -87,6 +87,7 @@ unnessary app list here only . . .
 - [x] ~~Call Neuberg Dignostics - 08037229134 (ask for full body check price, time, reports result time)~~
 - [x] ~~Online SIM : [Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.~~
 - [ ] 
+- [ ] Talk with Jio-customer-care about recycling SIM vs new SIM. How to get a fresh new SIM for personal/offical/banking/govermental/id-card use. 
 - [ ] Thyrocare area visit, price check, peak hour. 
 - [ ] ChatGPT : when we are going for full body check in an empty stomach where they will take some ml of blood sample from us, here what are the things we need to take care, or what are the thing we need to take care before & after. And after giving the blood sample what we can do.
 - [ ] Indian Post Parcel tracking ( CO145948557IN ) : [Speed Post](https://www.indiapost.gov.in/) || [Registered Post](https://speedposts.in/registered-post-tracking). 
@@ -135,10 +136,8 @@ unnessary app list here only . . .
 - stuart little movie download
 - [ABS](https://youtube.com/shorts/TNZJ3N2OkWE)
 - Start using [Seekho App](https://seekho.in/login), and purchase its subscription through this [link](https://seekho.in/premium). But know i.e. "How to cancel Seekho Autoplay" first.
-- ~~Uplaod a .docx file in GitHub and check how it display here.~~
 - mba vs hotel management (as both are management/manager level studies only)
 - "watch later 2" youtube videos
-- Talk with Jio-customer-care about recycling SIM vs new SIM. How to get a fresh new SIM for personal/offical/banking/govermental/id-card use. 
 
 <br>  
 
