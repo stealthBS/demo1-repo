@@ -165,7 +165,7 @@ unnessary app list here only . . .
 
 ### Pending Tasks : Long term tasks  
 - move quickly its **September**.  
-- tabs : gmail, chatgpt, udemy, github, ssc
+- tabs : gmail, chatgpt, udemy, github, Stopwatch, productivity app, etc
 
 <br>  
 
