@@ -100,6 +100,8 @@ unnessary app list here only . . .
 - [ ] Can use [Buyhatke](https://chromewebstore.google.com/detail/price-history-tracker-spe/ojplmecpdpgccookcobabopnaifgidhf/reviews) plugin/extension to check the real price of product during any offers & discounts. 
 - [ ] Washing clothes
 - [ ] SSC Result check (21/Sept : result within a month)
+- [ ] [Reliance digital No 1444 Ward No, 159, near Hoysala Circle, Valagerahalli, Gnanabharathi, Stage II, Kengeri Satellite Town, Bengaluru, Karnataka 560060](https://www.google.com/maps/place/Reliance+digital/@12.9253278,77.4856607,20z/data=!4m6!3m5!1s0x3bae3fa30fa4b8b9:0x886bc83e7b1cb54f!8m2!3d12.9253808!4d77.4856325!16s%2Fg%2F11s84_1jw3)
+
 
 ### Done || But again re-check required :  
 - [dn] Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
