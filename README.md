@@ -171,7 +171,7 @@ dir
 
 <br> 
 
-To select/visit inside a directory : 
+To select/visit inside a directory : (here insteadl of typing manually, we can use the 'TAB' key to auto-select the folder/file names)  
 ```
 cd "Java Course"
 ```
