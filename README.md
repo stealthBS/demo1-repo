@@ -171,9 +171,16 @@ dir
 
 <br> 
 
-To select a directory : 
+To select/visit inside a directory : 
 ```
 cd "Java Course"
+```
+
+<br>
+
+To go to previous directory :  
+```
+cd ..
 ```
 
 <br> 
