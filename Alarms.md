@@ -102,6 +102,7 @@ unnessary app list here only . . .
 - [ ] best Instant Tea Premix in india (rankwise)
 - [ ] take backup Mobile time-to-time : Whatsapp path, telegram path, storage path, bookaramrsk, notepad, .
 - [ ] GiveGita WhatsApp groups : [Group1](https://api.whatsapp.com/send/?phone=919210531053&text&type=phone_number&app_absent=0), [Group2](https://www.whatsapp.com/channel/0029Va7DRbQ6buMGpZuCl23C).
+- [ ] Track Lost Phone [CEIR](https://www.ceir.gov.in/Request/CeirRequestStatus.jsp) with 202510020631068884 .
 
 
 ### Done || But again re-check required :  
