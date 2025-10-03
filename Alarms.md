@@ -92,8 +92,6 @@ unnessary app list here only . . .
 - [ ] Talk with Jio-customer-care about recycling SIM vs new SIM. How to get a fresh new SIM for personal/offical/banking/govermental/id-card use. 
 - [ ] Thyrocare area visit, price check, peak hour. 
 - [ ] ChatGPT : when we are going for full body check in an empty stomach where they will take some ml of blood sample from us, here what are the things we need to take care, or what are the thing we need to take care before & after. And after giving the blood sample what we can do.
-- [ ] Indian Post Parcel tracking ( CO145948557IN ) : [Speed Post](https://www.indiapost.gov.in/) || [Registered Post](https://speedposts.in/registered-post-tracking).
-- [ ] BlueDart (AWS : 17572424800) [link](https://bluedart.com/). 
 - [ ] Appointment Booking for **Full Body health checkup** (with BP and weight) **(~~16 September~~ || 23 September OR 30 September - Tuesday)**
 - [ ] Appointment Booking for **Eye Health checkup** visit (with full body checkup health report) || Make appointment [here](https://www.narayananethralaya.org/).
 - [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
@@ -101,7 +99,7 @@ unnessary app list here only . . .
 - [ ] Can use [Buyhatke](https://chromewebstore.google.com/detail/price-history-tracker-spe/ojplmecpdpgccookcobabopnaifgidhf/reviews) plugin/extension to check the real price of product during any offers & discounts. 
 - [ ] Washing clothes
 - [ ] SSC Result check (21/Sept : result within a month)
-- [ ] [Reliance digital No 1444 Ward No, 159, near Hoysala Circle, Valagerahalli, Gnanabharathi, Stage II, Kengeri Satellite Town, Bengaluru, Karnataka 560060](https://www.google.com/maps/place/Reliance+digital/@12.9253278,77.4856607,20z/data=!4m6!3m5!1s0x3bae3fa30fa4b8b9:0x886bc83e7b1cb54f!8m2!3d12.9253808!4d77.4856325!16s%2Fg%2F11s84_1jw3)
+- [ ] best Instant Tea Premix in india (rankwise)
 
 
 ### Done || But again re-check required :  
