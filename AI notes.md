@@ -692,7 +692,7 @@ So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/ban
 
 
 #### 🔰Lesson 20 : Create & Use our own Custom GPTs [**Attach PDF]  
-We can use the PDFs, transcripts, Docs files to make a custom GPT that really works like our own personalized & expert assistant. So, let's see how to make this **Custom GPT** which will be totally tailored for us. [This is a feature is for **paid user** to create & share their own GPTs] [But, let's learn it]  
+We can use the PDFs, transcripts, Docs files to make a custom GPT that really works like our own personalized & expert assistant. So, let's see how to make this **Custom GPT** which will be totally tailored for us. [This feature is for **paid user** to create & share their own GPTs] [But, let's learn it]  
 
 Here, 'Custom GPT' is a kind of custom GPT which we'll create according to our personalized, customized AI assistant, but instead of being some kind of generic chatbot, here we're giving it our specific instructions, our specific knowledge, and tell it exactly how it should replay or behave.  
 
