@@ -481,7 +481,7 @@ We can follow some below links to know more about Tokens :
 
 #### 🔰Lesson 12 : Use of ChatGPT in real Practical life & also in our day-to-day life
 
-Here, we have just learned how to smartly use the ChatGPT tool in our day-to-day life effectively to save our time, efforts, energy, and to be more productive, and it also make more task/work ease. 
+Here, we have just learned how to smartly use the ChatGPT tool in our day-to-day life effectively to save our time, efforts, energy, and to be more productive, and it also make more task/work ease. *We can watch its video if we want to get some idea*.  
 
 ----
 
