@@ -805,6 +805,7 @@ Also watch this lesson's video to know how to build another GPT for 'SOP Refiner
 
 
 #### 🔰Lesson 24 : 
+. . . . . . Notes already taken . . . . check the Doc file . . . .  
 
 ----
 
