@@ -704,7 +704,7 @@ So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/ban
 
 
 
-#### 🔰Lesson 21 : Use 'Modifiers' in prompts for Better Outputs [**Attach PDF]  
+#### 🔰Lesson 21 : 
 
 
 ----
@@ -718,12 +718,7 @@ So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/ban
 
 
 
-#### 🔰Lesson 22 : Prompt practise  
-Ask ChatGPT to act as a specific role in your prompt, use the prompt formula that we discussed, and use specific modifiers.  
-
-Let's take another similar example :  
-*`I want you to act as a Michelin star chef and create a recipe for yellow curry`* OR  
-*`Act as a travel guide and plan a 6 day trip to Paris for a family trip.`*  
+#### 🔰Lesson 22 : 
 
 
 ----
