@@ -732,9 +732,7 @@ So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/ban
 
 
 
-#### 🔰Lesson 23 : The Prompt engineering guide Ebook [**Attach PDF]  
-
-Follow the [Prompt engineering guide](https://www.dropbox.com/scl/fi/65ccdaeps0o83m2271woa/PROMPT-ENGINEERING-GUIDE-2024.pdf?rlkey=jy51w3jgsc5j2yzr7svli5kcl) Ebook, it contains the topics which we'll going to see ahead.  
+#### 🔰Lesson 23 : 
 
 ----
 
