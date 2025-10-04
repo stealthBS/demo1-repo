@@ -317,8 +317,8 @@ According to this framework, we break a complex task (which includes a lot of ta
 <br>
 
 <h5 align="center">Chain of Thought Reasoning</h5>  
-This approach involves asking the AI to breakdown its think into step-by-step. We use this approach for best quality response, big discission making and where factual output is important. 
-Sometime we also use in prompt like *`Let's think step-by-step`*.  
+
+This approach involves asking the AI to breakdown its think into step-by-step. We use this approach for best quality response, big discission making and where factual output is important. Sometime we also use in prompt like *`Let's think step-by-step`*.  
 
 - For example :  
 *`Write a product launch plan for a new line of smart home security cameras. Using chain of through, start by outlining the key components of a launch plan, then explaining why each component is essential, and finally providing examples of best practices.`*
