@@ -599,7 +599,7 @@ Here we just how AI tool generate an image or the processes it uses to make an i
 
 
 
-#### 🔰Lesson 18 : ChatGPT's AI image generation
+#### 🔰Lesson 18 : ChatGPT's AI image generation in practical
 Let's enable the '🖼 create image' option from the prompt box of ChatGPT, then see some good examples below.  
 
 - Example 1 :
