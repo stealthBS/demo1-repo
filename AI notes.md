@@ -713,7 +713,8 @@ Imagine we've created an entire online course, which have different transcripts 
 
 
 #### Step 1 :
-Let's start by creating the **GPT prompt**.  But instead of writing it directly inside the GPT builder, we're going to use here a separate ChatGPT thread/chat to help craft this. And this basically going to help us create more complex instructions, and we'll see that here. 
+Let's start by creating the **GPT prompt**.  But instead of writing it directly inside the GPT builder, we're going to use here a separate ChatGPT thread/chat to help craft this. And this basically going to help us create more complex instructions, and we'll see that here.  
+
 So, in the new chat section, we'll prompt like :  
 *`I want to build a custom GPT that knows my full online course. It should be able to perform tasks such as summarize lessons, translate content into other languages, and track how often certain topics or tools are mentioned across different lessons. You can also expand to use cases that could be beneficial to the course's students. Can you help me write detailed GPT instructions for that?`*  
 
