@@ -40,7 +40,7 @@ ChatGPT have some plans or memberships i.e. : Free, Plus (paid), Pro/Team/Enterp
 
 #### 🔰Lesson 1 : Introduction of AI tool [**Attach PDF] 
 
-Use AI tools to increase productivity, learn more skills with : less effort - less time - ease, make AI as your assistant/copilot and make AI to use your work smartly & smoothly just by giving it accurate/proper prompt. Here we can understand something like : Google is like Library then ChatGPT is like Librarian.  
+Use AI tools to increase productivity, learn more skills with : less effort - less time - ease, make AI as your assistant/copilot and make AI to use your work smartly & smoothly just by giving it accurate/proper prompt. Here we can understand something like : Google is like Library then ChatGPT is like an AI Librarian. (Just like the *The Time Machine* movie's holographi AI Librarian which make your job easy)  
 
 Take a moment to think about one new skill you've always wanted to grow, maybe it's storytelling, data analysis, public speaking, or design thinking. It also help us to learn new language, and it also help us to take mock interview so to be confident in real interview. Now imagine having a coach who can help you explore that skill through real time feedback, curated resources, and step by step guidance. That's how AI can serve as your personal coach, your practice partner, your second brain, and your creative collaborator all in one. Focus on strengthening your critical thinking, emotional intelligence, creative problem solving, adaptability, leadership, and communication. [So, ChatGPT or AI tool is a **Magic Wand in your hand**]  
 
@@ -317,7 +317,8 @@ According to this framework, we break a complex task (which includes a lot of ta
 <br>
 
 <h5 align="center">Chain of Thought Reasoning</h5>  
-This approach involves asking the AI to breakdown its think into step-by-step. We use this approach for best quality response, big discission making and where factual output is important. Sometime we also use in prompt like *`Let's think step-by-step. . . .`*.  
+This approach involves asking the AI to breakdown its think into step-by-step. We use this approach for best quality response, big discission making and where factual output is important. 
+Sometime we also use in prompt like *`Let's think step-by-step`*.  
 
 - For example :  
 *`Write a product launch plan for a new line of smart home security cameras. Using chain of through, start by outlining the key components of a launch plan, then explaining why each component is essential, and finally providing examples of best practices.`*
