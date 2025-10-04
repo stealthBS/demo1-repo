@@ -745,9 +745,7 @@ So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/ban
 
 
 
-#### 🔰Lesson 24 : What is Prompt Engineering?  
-
-Follow the [link](https://leapyearlearning.mykajabi.com/blog/a-comprehensive-guide-to-prompt-engineering) to know more about 'Prompt Engineering'.  
+#### 🔰Lesson 24 : 
 
 ----
 
