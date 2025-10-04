@@ -691,7 +691,65 @@ So, keep in mind i.e. ask AI a prompt's reply which can be shown in billbord/ban
 
 
 
-#### 🔰Lesson 20 : 
+#### 🔰Lesson 20 : Create & Use our own Custom GPTs [**Attach PDF]  
+We can use the PDFs, transcripts, Docs files to make a custom GPT that really works like our own personalized & expert assistant. So, let's see how to make this **Custom GPT** which will be totally tailored for us. [This is a feature is for **paid user** to create & share their own GPTs] [But, let's learn it]  
+
+Here, 'Custom GPT' is a kind of custom GPT which we'll create according to our personalized, customized AI assistant, but instead of being some kind of generic chatbot, here we're giving it our specific instructions, our specific knowledge, and tell it exactly how it should replay or behave.  
+
+To make it : we click on 'Explore' in 'GPTs' section on left side panel >> then we click on '➕Create' button. Then it show us 2 section i.e. 'Configure' & 'Create'.  
+
+Now inside the 'Configure' section, it ask :  
+- 'Name' i.e. Name your GPT, 
+- 'Description' i.e. Add a short description about what this GPT does, 
+- 'Instructions' i.e. What does this GPT do? How does it behave? What should it avoid doing?, 
+- 'Conversation starters' i.e. how it start when someone open it, 
+- 'Knowledge' i.e. Conversations with your GPT can potentially reveal part or all of the files uploaded. With an 'Upload files' button. 
+- 'Recommended Model' i.e. Recommend a model to the user, which should be user by default for best results. 
+- 'Capabilities' i.e. Option for 'web search', 'canvas' and '4o image generation'. 
+- 'Action' : this is a feature which let our GPT interact with external tools and APIs, which is super powerful.
+
+Now let's see an example how to make :  
+Imagine we've created an entire online course, which have different transcripts for every single lessons. Now here we want a GPT that knows everything inside a course. And here's how we can build it.  
+
+
+#### Step 1 :
+Let's start by creating the **GPT prompt**.  But instead of writing it directly inside the GPT builder, we're going to use here a separate ChatGPT thread/chat to help craft this. And this basically going to help us create more complex instructions, and we'll see that here. 
+So, in the new chat section, we'll prompt like :  
+*`I want to build a custom GPT that knows my full online course. It should be able to perform tasks such as summarize lessons, translate content into other languages, and track how often certain topics or tools are mentioned across different lessons. You can also expand to use cases that could be beneficial to the course's students. Can you help me write detailed GPT instructions for that?`*  
+
+So, this basically expands our very simple prompt and saves a ton of time by manually creating a lot more of complex set of instructions, which we can of course refine as needed and generate as many different new outputs as we want. 
+
+<br> 
+
+#### Step 2 :  
+For to upload files, we must have some of our course transcripts organized into different PDFs. So, here these are the data. 
+
+<br> 
+
+#### Step 3 :
+Now we open the **GPT builder**, and then copy-paste & upload here accordingly, like : 
+- Name : **Lesson Assistant GPT**
+- Description : GPT that assists students with course's content.
+- Instruction : *here we copy-paste the generated ChatGPT instruction of step-1*. 
+- Knowledge : *here we upload the data or file of step-2*.
+- Capabilities : [enable 'web search', 'canvas', '4o image generation']
+
+And then we click the 'Create' button, and then 'Upload' button, and now the GPT tool is ready.  
+
+<br> 
+
+#### Step 4 :
+Now we'll see or test how this GPT tool works. For that we ask it like :   
+*`Can you give me information of the section on Generative AI for Leaders form the course?`*  
+
+Then we can ask it another prompt like : 
+*`Can you create flashcards from Lesson 4 that cover key concepts and includes simple definitions?`*
+
+<br> 
+
+### Note :
+Also watch this lesson's video to know how to build another GPT for 'SOP Refiner' i.e. for 'standard operating procedure' or 'tutorial creator'.  
+
 
 ----
 
