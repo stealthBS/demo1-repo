@@ -585,7 +585,9 @@ Similarly, '**Create an Image**' feature quickly creating polished visuals, mock
 
 
 
-#### 🔰Lesson 17 : . . . . . .  
+#### 🔰Lesson 17 : ChatGPT's AI image generation [**Attach PDF]
+
+> *Follow the below lesson*.
 
 ----
 
@@ -598,7 +600,7 @@ Similarly, '**Create an Image**' feature quickly creating polished visuals, mock
 
 
 
-#### 🔰Lesson 18 : ChatGPT's AI image generation [**Attach PDF]  
+#### 🔰Lesson 18 : ChatGPT's AI image generation [**Attach PDF - of lesson 17 only]  
 Let's enable the '🖼 create image' option from the prompt box of ChatGPT, then see some good examples below.  
 
 - Example 1 :
