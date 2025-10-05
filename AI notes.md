@@ -1083,7 +1083,8 @@ We can use these types of prompts in our daily life, if our task is not so creat
 
 
 
-#### 🔰Lesson 31 :  
+#### 🔰Lesson 31 : Practical Everyday Prompts 
+Follow the below lesson to know about this.  
 
 ----
 
