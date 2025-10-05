@@ -1097,7 +1097,42 @@ Follow the below lesson to know about this.
 
 
 
-#### 🔰Lesson 32 : ----------- 
+#### 🔰Lesson 32 : Practical Everyday Prompts 
+##### 1. For 'Brainstorm New Ideas' : 
+Prompt Formula : *`I'm looking to explore`* [subject] *`in a`* [format]*`.`* *`Do you have any suggestions on`* [topics] *`I can cover?`*
+- Example 1 : *`I'm interested in creating an 'Instagram page' that 'covers travel'. What ideas do you have on topics I could include, such as 'budget-friendly destinations and hidden gems to visit?'`*
+- Example 2 : *`I'm working on a 'newsletter' that focuses on 'technology'. Can you recommend topics that would be engaging for my audience, such as the 'latest gadgets and software updates?'`*
+
+<br> 
+
+##### 2. For 'Copy Generation' :  
+Prompt Formula : *`I'm looking to explore`* [subject] *`in a`* [format]*`. Do you have any suggestions on`* [topics] *`I can cover?`*   (OR)   *`I'm interested in`* [type of text] *`that highlights the`* [benefits] *`of`* [subject] *`. Please write`* [#] *`for me on`* [subject].
+- Example 1 : *`I'm interested in creating an 'Instagram page' that 'covers travel'. What ideas do you have on topics I could include, such as 'budget-friendly destinations' and 'hidden gems to visit?'`*
+- Example 2 : *`I'm working on a 'newsletter' that focuses on 'technology'. Can you recommended topics that would be engaging for my audience, such as the 'latest gadgets' and 'software updates?'`*
+- Example 3 : *`I need an 'email campaign' that showcases the 'features of my new product'. Can you write one for me on the 'ease of use and affordability of the product?'`*
+- Example 4 : *`I'm interested in a 'website page' that outlines the 'benefits of my coaching services'. Could you write 'one' for me on the 'personalized approach and proven results of my coaching program?'`*
+
+<br> 
+
+##### 3. For 'Client and Customer Support/Email' : 
+Prompt Formula : *`I want you to act as a customer support assistant who is`* [characteristic]*`. How would you respond to`* [text] *`as a representative of our`* [type] *`company?`*
+- Example 1 : *`I want you to act as a customer support assistant who is 'analytical'. How would you respond to a customer who has experienced a bug while using our software as a representative of our 'tech startup'?`*
+- Example 2 : *`I want you to act as a customer support assistant who 'embodies confidence' and 'empathy'. How would you assist a customer with a billing issue as a representative of our 'financial services company'?`*
+
+<br> 
+
+##### 4. For 'Generate Analogies' : 
+Prompt Formula : *`I'm trying to better understand the concept of`* [concept]*`, please help me better understand this concept by creating a practical and easy to understand analogy.`*
+- Example 1 : *`I'm trying to better understand the concept of 'photosynthesis', please help me better understand this concept by creating a practical and easy to understand analogy.`*
+- Example 2 : *`I'm trying to better understand the concept of 'search engine optimization', please help me better understand this concept by creating a practical and easy to understand analogy.`*
+
+<br> 
+
+##### 5. For 'Bulk Copy creation' : 
+Prompt Formula : *`Please come up with`* [# of content] [type of content] *`for`* [platform] *`that includes`* [references]*`.`*
+- Example 1 : *`Please come up with '8 email newsletters' for my 'investment site' that includes industry reports and data analysis.`*
+- Example 2 : *`Please come up with '4 video scripts' for a 'marketing YouTube channel' that includes expert opinions and insights on digital marketing trends.`*  
+
 
 ----
 
