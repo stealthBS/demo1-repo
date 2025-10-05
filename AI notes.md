@@ -987,7 +987,10 @@ Let's take some similar example :
 
 
 
-#### 🔰Lesson 27 :  
+#### 🔰Lesson 27 : The Prompt engineering guide Ebook [**Attach PDF]  
+Keep in mind one thing i.e. "the better the prompt, the better the output".  
+
+Follow the [Prompt engineering guide](https://www.dropbox.com/scl/fi/65ccdaeps0o83m2271woa/PROMPT-ENGINEERING-GUIDE-2024.pdf?rlkey=jy51w3jgsc5j2yzr7svli5kcl) Ebook, it contains the topics which we'll going to see ahead.  
 
 ----
 
