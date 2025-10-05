@@ -855,7 +855,7 @@ So, without opening anything like Canva or any other platform yet we can able to
 
 
 
-#### 🔰Lesson 22 : 
+#### 🔰Lesson 22 : How AI thinks for Reasoning Models [**Attach PDF]
 
 
 ----
