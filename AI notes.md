@@ -967,7 +967,14 @@ For better output response, we use the modifiers & adjectives in the prompt also
 
 
 
-#### 🔰Lesson 26 : 
+#### 🔰Lesson 26 : Prompt practice 
+Ask ChatGPT to act as a specific role in your prompt, use the prompt formula that we discussed, and use specific modifiers.  
+
+Let's take some similar example :  
+*`I want you to act as a Michelin star chef and create a recipe for yellow curry`*  
+(OR)  
+*`Act as a travel guide and plan a 6 day trip to Paris for a family trip.`*  
+
 
 ----
 
