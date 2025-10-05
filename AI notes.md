@@ -1017,7 +1017,12 @@ Follow the [link](https://leapyearlearning.mykajabi.com/blog/a-comprehensive-gui
 
 
 
-#### 🔰Lesson 29 :  
+#### 🔰Lesson 29 : Use of 'Prompt Priming'
+Guiding & Training the GPT model before the actual prompting can understand as prompt priming. It helps the GPT to generate more relevant/coherent responses/outputs for the users.  
+
+ChatGPT can able to replicate our speaking style, tone, grammar, and the words we're using. So, if we want our style (or a particular person's style) response then we can give it an example of an conversation as an guide, and after which it start giving us response in that same tone.  
+
+To see its some of the examples i.e. how it makes differences if we write prompt with 'priming' and 'without priming', follow this [Ebook](https://www.dropbox.com/scl/fi/65ccdaeps0o83m2271woa/PROMPT-ENGINEERING-GUIDE-2024.pdf?rlkey=jy51w3jgsc5j2yzr7svli5kcl).  
 
 ----
 
