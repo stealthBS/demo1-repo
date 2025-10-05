@@ -763,7 +763,85 @@ Also watch this lesson's video to know how to build another GPT for 'SOP Refiner
 
 
 
-#### 🔰Lesson 21 : 
+#### 🔰Lesson 21 : The Power of MultiModel AI & its use by combine Text, Audio, Photo, and Video [**Attach PDF]
+
+Here, the term "MultiModal AI" means, it can understand and generate more than one type of input or output, for example : text, audio, images, and video, these combinations of things it can do more than one at a time. So, instead of switching tools for every format, we're going to let one AI model and one interface which can handle multiple types of content.  
+
+Here, text is still the backbone for things like outlines, emails, scripts, summaries, audio, lifelike voiceover, podcast, narrations, or even interactive voice chatbots. We can also create marketing materials, thumbnails, infographics, or even cinematic looking photos. And for video we can create animations, cutaway shots, B-roll, motion graphics, and full movie looking scenes.  
+
+So, tools like ChatGPT, Dall-E, 11 labs, and Sora each of them handle a different slice of this multimodal task puzzle.  
+
+For example :  
+Suppose we want to create an entire educational video the scripts, the visuals, the voiceover, and even the cutaway shots all powered/supported by AI, all with no film crew/members or any kind of complicated software.  
+
+So, let's see by using AI how to outline a topic, write an entire script, generate the visuals, and produce a voice and the entire video itself faster than ever.  
+
+Let's build a full video lesson around this topic, which is going to be what the year 2050 will look like. Let's see this with the following steps :  
+<br> 
+
+#### Step 1 :  
+We ask ChatGPT like : 
+*`Let's brainstorm 5 big changes we might see in daily life by 2050`*  
+
+<br> 
+
+#### Step 2 :  
+Now we want to turn these idea into something that's little bit more structure. So in the same above chat we ask like :  
+*`Turn these 5 ideas into a lesson outline with an intro, 5 parts and an outro.`*  
+
+After the response, then we ask like :  
+*`Expand each section into a script for a narrated educational video.`*  
+
+<br> 
+
+#### Step 3 :  
+Now let's generate some visuals. For this we ask ChatGPT in a new chat like :  
+*`Make a cinematic image prompt for a teen walking a futuristic cityscape in 2050 `*  
+
+(OR)  
+
+*`A teenage boy wearing sleek, minimalist clothing and AR glasses walks through a glowing futuristic city at dusk. The skyline is filled with vertical gardens, floating drones, and holographic ads, in multiple languages. Smart buildings shimmer with adaptive lighting, and autonomous vehicles glides silently on elevated lanes. The atmosphere feels hopeful and cinematic, with soft neon reflections on the wet pavement. The teen looks curious and inspired, surrounded by diverse pedestrians, robots, and augmented reality overlays. Ultra-detailed, wide-angle shot, cinematic, lighting, golden hour glow, atmospheric depth, Blade Runner meets utopia.`*  
+
+<br> 
+
+#### Step 4 :  
+Also, to make it little it more educational, we ask on how food can be grown in something like vertical farms. So, we ask it like :  
+*`Create an infographic with icons and labels on how food might be grown in vertical farms in the future.`*  
+
+<br> 
+
+#### Step 5 :  
+Now whatever we have, we add some motion to those generated images. For this we ask ChatGPT like :  
+*`What B-roll would match this scene [futuristic AR/VR] in the lesson?`*  
+
+And after this response, we take this ChatGPT generated idea and then run it through Sora to generate actual clips.  
+
+And now we use [Sora]( https://openai.com/sora/) feature, and we ask here :  
+*`Create B-roll of someone wearing sleek AR glasses, interacting with 3D holograms floating above their desk.`*  
+
+And then it start generating images, and then we select a image variant no. which we like, and inside the generated image we ask the Sora like : 
+*`Make the person interact with the holograms.`*  
+
+Now it has generated a visual immersing the viewer.  
+
+<br> 
+
+#### Step 6 :  
+Now we need to bring/add audio into this task. If we want narration, we can record yourself, or we can use something like [ElevenLabs](https://elevenlabs.io/) which can turn our script into an actual voiceover.  
+
+So suppose we use the following script :  
+*Imagine waking up in the year 2050. You rub your eyes and look around – there's no phone, no screen, and somehow… your home already knows what you need. Your AI assistant is already two steps ahead of you. Welcome to a world transformed by exponential tech, climate urgency, and a redefined sense of purpose. In this video, we'll explore five bold shifts that will reshape how we work, live, connect, and even think by the year 2050.*  
+
+And then we download the best voice which we need according to our choice.  
+
+<br> 
+
+#### Step 7 :  
+Now we stitch all of these pieces together the scripts, the visuals, and the voiceover. For this we use [CapCut](https://www.capcut.com/) tool, where we upload everything, and it will generate a video accordingly. And if we know any other editing tools, we can use that also. And this step will give us the final output.  
+
+<br> 
+
+So, without opening anything like Canva or any other platform yet we can able to generate this kind visuals within some time. 
 
 
 ----
