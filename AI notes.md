@@ -883,25 +883,25 @@ So, without opening anything like Canva or any other platform yet we can able to
 
 
 #### 🔰Lesson 24 : Effectively Creating Prompts [**Attach PDF]
-Here, we'll learn how to effectively create prompt so to get best output. We have levels of explanation e.g. "explain sun to a first grader" or "explain sun to an astrophysicist" or "explain sun to a person that works at SpaceX". So, here the depth of explanation will be going to be completely different.  
+Here, we'll learn how to effectively create prompt so to get best output. We have levels of explanation e.g. "`explain sun to a first grader`" or "`explain sun to an astrophysicist`" or "`explain sun to a person that works at SpaceX`". So, here the depth of explanation will be going to be completely different.  
 
 Now let's see how any AI prompts are effectively broken down into 5 simple steps or points :  
 
 #### Point 1 :  
 The first thing that we need to consider the **context** of our prompt i.e. "How is ChatGPT going to engage with us?"  
 
-Here we can ask the ChatGPT to act as something e.g. it can act as a *personal trainer*, it can act as a *therapist*, it can act as an *expert in gravity*, it can act as a *genius musical composer*. So, we need to ask ChatGPT to be whoever we want it to be to get the right answer. It's like if we ask about music then we can ask it to be *an expert musician*, if we ask about food then we can ask it to be *an expert chef*.  
+Here we can ask the ChatGPT to act as something e.g. it can act as a *`personal trainer`*, it can act as a *`therapist`*, it can act as an *`expert in gravity`*, it can act as a *`genius musical composer`*. So, we need to ask ChatGPT to be whoever we want it to be to get the right answer. It's like if we ask about music then we can ask it to be *`an expert musician`*, if we ask about food then we can ask it to be *`an expert chef`*.  
 
-Also, we need to keep in mind that ChatGPT have short term memory, so if we ask any other related expert (e.g. act as *travel guide expert*) in the same ongoing chat title, then everything will get messy, so here we need to tell ChatGPT like *`Ignore the previous instructions before this one`* so that it doesn't get confuse.  
+Also, we need to keep in mind that ChatGPT have short term memory, so if we ask any other related expert (e.g. act as *`travel guide expert`*) in the same ongoing chat title, then everything will get messy, so here we need to tell ChatGPT like *`Ignore the previous instructions before this one`* so that it doesn't get confuse.  
 
-We can also ask ChatGPT to answer in specific tone like write something *serious* or *formal* or *friendly* or *casual*.  And in this way it can explain something like to a *5 year old* or it can explain something like to a *college graduate*.  
+We can also ask ChatGPT to answer in specific tone like write something *`serious`* or *`formal`* or *`friendly`* or *`casual`*.  And in this way it can explain something like to a *`5 year old`* or it can explain something like to a *`college graduate`*.  
 
 
 <br> 
 
 
 #### Point 2 :  
-Here we need to give the AI model a "task" to complete, which is helpful for the ChatGPT to know what task are we trying to complete. For example like : *your task is to break this article down into 10 bullet points* or *your task is to synthesize the information I'm giving you and write me a meal plan*.  
+Here we need to give the AI model a "task" to complete, which is helpful for the ChatGPT to know what task are we trying to complete. For example like : *`your task is to break this article down into 10 bullet points`* or *`your task is to synthesize the information I'm giving you and write me a meal plan`*.  
 
 
 <br> 
@@ -915,7 +915,7 @@ We need to be very "specific". Like if we don't like specific symbols then we te
 
 
 #### Point 4 :  
-Here we can ask ChatGPT "questions" iteratively/repeatedly. Like, *You can elaborate on things*, or *tell me a little bit more about that*, or *I don't understand the third sentence*, or *can you rewrite that in a different way?*. So, here ChatGPT remembers what it just said to us, and like this the conversations & explanations will be more digestible.  
+Here we can ask ChatGPT "questions" iteratively/repeatedly. Like, *`You can elaborate on things`*, or *`tell me a little bit more about that`*, or *`I don't understand the third sentence`*, or *`can you rewrite that in a different way?`*. So, here ChatGPT remembers what it just said to us, and like this the conversations & explanations will be more digestible.  
 
 
 <br> 
@@ -929,7 +929,7 @@ If we don't like the output/response of ChatGTP, then we need to rework on our p
 
 
 #### Point 6 :  
-We can also ask like : *what would I not think of on this topic?*, or *what are some uncommon or less well-known answers to this same question?*. So, like this ChatGPT will help us to explain something where we get stuck.  
+We can also ask like : *`what would I not think of on this topic?`*, or *`what are some uncommon or less well-known answers to this same question?`*. So, like this ChatGPT will help us to explain something where we get stuck.  
 
 
 <br>
