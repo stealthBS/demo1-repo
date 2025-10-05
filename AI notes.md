@@ -953,7 +953,8 @@ Take help of the above prompts example to get an idea to write your own prompt a
 
 
 
-#### 🔰Lesson 25 : 
+#### 🔰Lesson 25 : Use 'Modifiers' in prompts for Better Outputs [**Attach PDF]  
+For better output response, we use the modifiers & adjectives in the prompt also. We can refer the attached PDF to see its list.  
 
 ----
 
