@@ -1003,8 +1003,9 @@ Follow the [Prompt engineering guide](https://www.dropbox.com/scl/fi/65ccdaeps0o
 
 
 
-#### 🔰Lesson 28 : What is Prompt Engineering?  [**Attach PDF]  
-Follow the [link](https://leapyearlearning.mykajabi.com/blog/a-comprehensive-guide-to-prompt-engineering) and the attached Ebook PDF to know more about 'Prompt Engineering'. We can also use it like a cheetsheet for all our future prompts. 
+#### 🔰Lesson 28 : What is Prompt Engineering? [**Attach PDF]
+<br>
+Follow the [link](https://leapyearlearning.mykajabi.com/blog/a-comprehensive-guide-to-prompt-engineering) and the attached Ebook PDF to know more about 'Prompt Engineering'. We can also use it like a cheetsheet for all our future prompts.  
 ----
 
 
