@@ -1035,7 +1035,42 @@ To see its some of the examples i.e. how it makes differences if we write prompt
 
 
 
-#### 🔰Lesson 30 :  
+#### 🔰Lesson 30 : Simple 30 Prompts Starters cheatsheet [**Attach PDF]  
+Take help of [200 best ChatGPT prompts list](https://leapyearlearning.mykajabi.com/blog/week-1) to get idea to craft our own prompt.  
+
+Can also follow below some simple prompt starters :  
+- Define the following **terms** and give a **metaphor** . . . .
+- Elaborate on the **purpose** of . . . .
+- Create a **template** for . . . .
+- Construct an **outline** for this podcast . . . .
+- Help me create a **budget plan** for . . . .
+- Suggest some creative **writing prompts** to get me started . . . .
+- Brainstorm **10 ideas** for improving the **writing** in this transcript . . . .
+- Draft a well thought-out chapter list for a **book** on . . . .
+- List some **recipes** using these ingredients . . . .
+- Formulate a **catalog** of subjects related to . . . .
+- Create a **lesson plan** for . . . .
+- Compose 5 **headlines** for . . . .
+- Sum up the following book in **tweet** . . . .
+- Design a comprehensive social media **content strategy** for . . . .
+- Compose an introductory outreach **email** for . . . .
+- Recommend some **metaphors**/analogies/synonyms for . . . .
+- Craft a witty **response** to this message . . . .
+- Transform this little into an **intriguing hook** . . . .
+- **Translate** this into French . . . .
+- Compose a polite decline response to this **email** . . . .
+- Create an opening scene for a **video** showcasing . . . .
+- Suggest ways to improve my **resume** . . . .
+- Explain the **concept** of . . . .
+- Can you recommend some online **courses** or **books** to improve . . . .
+- What are some effective **strategies** for . . . .
+- Provide some tips for **starting my** . . . .
+- Suggest some healthy **meal** options for . . . .
+- Help me create a daily **schedule** to . . . .
+- Explain the **basics** of . . . .
+- Provide some **guidance** on . . . .
+
+We can use these types of prompts in our daily life, if our task is not so creative or important.  
 
 ----
 
