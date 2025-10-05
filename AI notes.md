@@ -1145,7 +1145,28 @@ Prompt Formula : *`Please come up with`* [# of content] [type of content] *`for`
 
 
 
-#### 🔰Lesson 33 :  
+#### 🔰Lesson 33 : Effective Prompt Revision
+ChatGPT have a iterative quality, and here we use this quality to ask some follow up prompts. It's like once we put in our prompt, we get our output, then here we see there are some follow up iterative prompts to magnify or improve on those outputs. It use the ChatGPT memory capacity and the chain of dialogue to our benefits.  
+
+Below are the examples of some follow-up prompts :  
+- Now put the single most important keywords in **bold formatting…**
+- **Organize** this by date, location, price, etc…
+- Come up with more **novel** and **uncommon** results…
+- Please add the appropriate **emojis** to the following text…
+- Explain this at the **comprehension** level of a 5 year old...
+- Put this in **tabular format** with relevant categories...
+- From the perspective of an **industry expert**, please rewrite…
+- **Rewrite** this to be more informal/formal…
+- Fix the grammar and **find/replace** the following terms…
+- Now add some **personality** and humor to this...
+- Write this from the **perspective** of or in the voice of...
+- Summarize this into one **tweet... **
+- Expand this into a **3-part summary…**
+- **Compare** and **contrast** the most important information…
+- What are the 10 key **takeaways…**
+- From an expert point of view, how would you **improve…**
+- Put this into a **bullet-point** list...
+
 
 ----
 
