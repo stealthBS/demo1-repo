@@ -1044,7 +1044,7 @@ For better output response, we use the modifiers & adjectives in the prompt also
 
 
 
-#### 🔰Lesson 32 :  
+#### 🔰Lesson 32 : ----------- 
 
 ----
 
