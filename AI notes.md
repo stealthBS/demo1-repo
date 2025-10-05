@@ -869,7 +869,7 @@ So, without opening anything like Canva or any other platform yet we can able to
 
 
 
-#### 🔰Lesson 23 : 
+#### 🔰Lesson 23 : How to use this AI course  
 
 ----
 
