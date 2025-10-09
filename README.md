@@ -118,7 +118,7 @@ When we open Command prompt in Windows, then its default path will be like : 
 ```
 C:\Users\user1>
 ```
-Inside which there are folders like : 3D Object, .m2 folder, Desktop, Document, Music, Pictures, Videos, etc.  
+Inside which there are folders like : 3D Object, .m2 folder, Desktop, Document, Music, Pictures, Videos, etc. For to see these folders/directories inside '\user1' path, we use `dir` command which list all the files & folders in Windows.  
 
 And when we open Command prompt with Admin mode in Windows, then its path will be like :  
 ```
@@ -135,19 +135,19 @@ or
 
 user1@user1:~$
 ```
-Inside which there are folders like : Desktop, Documents, Downloads, Music, Pictures, etc.  
+Inside which there are folders like : Desktop, Documents, Downloads, Music, Pictures, etc. For to see these folders/directories inside '\user1' path, we use `ls` command which list all the files & folders in Linux.  
 
-Similarly, when we open Terminal with Admin/Root mode in Linux, then its path will be like :  
+Similarly, when we open Terminal with Admin/Root mode in Linux, then its path will be like : (in Linux the path for Admin is same) 
 ```
-C/home:~#
+C/home/user1:~#
 
 or 
 
-C/root:~#
+C/home/root@user1:~#
 
 or
 
-root@user1:~# ____
+root@user1:~#
 ```
 
 
@@ -178,7 +178,7 @@ cd "Java Course"
 
 <br>
 
-To go to previous directory :  
+To go to previous directory : (this command is same in both Windows & Linux)  
 ```
 cd ..
 ```
