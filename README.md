@@ -135,7 +135,7 @@ or
 
 user1@user1:~$
 ```
-Inside which there are folders like : Desktop, Documents, Downloads, Music, Pictures, etc. For to see these folders/directories inside '\user1' path, we use `ls` command which list all the files & folders in Linux.  
+Inside which there are folders like : Desktop, Documents, Downloads, Music, Pictures, etc. For to see these folders/directories inside '/user1' path, we use `ls` command which list all the files & folders in Linux.  
 
 Similarly, when we open Terminal with Admin/Root mode in Linux, then its path will be like : (in Linux the path for Admin is same) 
 ```
@@ -178,7 +178,7 @@ cd "Java Course"
 
 <br>
 
-To go to previous directory : (this command is same in both Windows & Linux)  
+To go to previous directory : (this command is same in both Windows & Linux, with the above 'TAB' key function)  
 ```
 cd ..
 ```
