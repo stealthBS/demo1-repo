@@ -83,7 +83,9 @@ Root user command looks like :
 <br>
 Basically whatever navigation works & operatings we do in Windows by using mouse (i.e. copy-paste-folder opening-selecting-etc.), here in Linux same thing we'll do but in terminal panel/tab with commands. And similarly there are more Linux specific operations for which also we use some special commands.  
 
-Operating a PC with CLI or commands causes : No more GUI/interface load task to the PC, where everything will be operated from a single terminal panel/tab only.  
+Operating a PC with CLI or commands causes : No more GUI/interface load, lagging, hanging task to the PC, where everything will be operated from a single terminal panel/tab only.  
+
+If we are newly starting working/learning/operating with Linux command, then we can use an practical approach which helps us to understand how the Linux command works in backend. It's like when we are opening the Linux's Terminal (CLI) then at the same time we will also open the File-Explorer (GUI) interface of the Linux. We open the CLI & GUI both side-by-side, so that when we do any command in the CLI we can see it real ouput effect in the GUI screen. (It's very similar to when we're working with HTML/CSS, where in windows one side screen will be code eidtor and another side will be the live-preview browser which shows the real-time output effect of the HTML/CSS code)  
 
 
 <br>
