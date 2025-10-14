@@ -226,3 +226,14 @@ unnessary app list here only . . .
 - [ ] ~~21/Sept - 8 AM Exam : no toilet, only 2 Admit-Cards, Aadhaar Card ID, only 2 pass-photo, no Wallet, no cap, Mobile silent, Bag keeping, Gate checking, Roll & Room finding. Exam begin.~~
 
 
+------------
+
+### Pending works : 
+- follow chatgpt correction .txt file
+- chess.com
+- 'watch later 2'
+- learn setting of Mi router Youtube
+- kali attach, watch who's connected in 16router. --> && and check how many are connected
+- Don't disturb the 'unknown' person here (8E:30:E6:1E:4E:DC). My one target is "that person mobile & laptop".
+
+
