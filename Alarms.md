@@ -237,5 +237,6 @@ unnessary app list here only . . .
 - Don't disturb the 'unknown' person here (8E:30:E6:1E:4E:DC). My one target is "that person mobile & laptop".
 - first collect 'His' Mobile & laptop MAC address, then we will do it busy time.
 - If you are haveing dinner at 9pm, then react here at 7:30AM morning (before completing 11 hours)
+- upload to Dropbox || check screenshots of router settings || chrome mobile tabs || set dinner time & morning visit time
 
 
