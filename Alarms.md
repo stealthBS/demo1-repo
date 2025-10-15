@@ -233,10 +233,9 @@ unnessary app list here only . . .
 - chess.com
 - 'watch later 2'
 - learn setting of Mi router Youtube
-- kali attach, watch who's connected in 16router. --> && and check how many are connected
-- Don't disturb the 'unknown' person here (8E:30:E6:1E:4E:DC). My one target is "that person mobile & laptop".
-- first collect 'His' Mobile & laptop MAC address, then we will do it busy time.
+- puja
 - If you are haveing dinner at 9pm, then react here at 7:30AM morning (before completing 11 hours)
-- upload to Dropbox || check screenshots of router settings || chrome mobile tabs || set dinner time & morning visit time
+- set dinner time & morning visit time
+- **BP & weight check also** || report result online
 
 
