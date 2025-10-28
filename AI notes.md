@@ -29,6 +29,10 @@ All-in-One AI tool but no side-by-side answer comparision : OpenRouter, ___
 
 There're also some explore/repository of AI tools, like : [AiPure](https://aipure.ai/), [Hugging Face](https://huggingface.co/spaces), [TheresAnAiForThat](https://theresanaiforthat.com/), [StackReaction](https://stackreaction.com/), [Coze](https://www.coze.com/), [MyZone AI](https://myzone.ai/), [AiToolHunt](https://www.aitoolhunt.com/).  
 
+Learning AI course helps to automatically build every other skills little-by-little e.g. coding, language learning, music learning, social media content creation, editing excel/spreadsheet files, etc. Especially to edit online files of Google Workspace (G Suite) & Microsoft Office 365, which we paid subscription of Gemini & Copilot, so then these AI tool will get integrated with those 'office tools' to provide assistance.  
+
+We use some best AI tools for coding/programming which can correct our code, update our code, explain the code in simple i.e. : Cursor, Claude, CodeRabbit, Kodezi, Refact.ai, CodeGPT, Windsurf (Cognition), Tabnine, Denigma, AI Code Mentor, Workik AI, Qodo, Codex by OpenAI, Kite, Sourcery, ExplainCode, Ponicode, DeepCode, etc.  
+
 But here we will mainly focus & discuss more about [OpenAI](https://openai.com/)'s [**ChatGPT**](https://chatgpt.com/) assistant tool and also we will discuss about other tools according to different works & purposes.  
 
 ChatGPT have some plans or memberships i.e. : Free, Plus (paid), Pro/Team/Enterprise (paid). And this AI tool course will contain details how to use these free & paid plan with their features. (As of now first we'll learn how to use the free plan effectively)  
