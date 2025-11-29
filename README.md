@@ -213,7 +213,7 @@ exit
 
 - Daily repetative use purpose note/works (time-table making, yellow paper works)
 - Links type notes (can be accesible from anywhere, because it merge all things)
-- To-Do type works
+- To-Do type checklist works (It can also now created through Excel/SpreadSheet)
 - Shareable notes making
 - Project Keeping/storing and its 'README.md' file.
 - Portfolio making
