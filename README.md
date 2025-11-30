@@ -304,4 +304,4 @@ To control YouTube video time, follow this [link](https://youtu.be/LyZjczX5BlQ).
 
 
 
- Join : [https://chat.whatsapp.com/JMNPokGBOMFF5ty1tg73ny]   [https://chat.whatsapp.com/LDdvAlBJQDs7vTF4frThRx]   [https://chat.whatsapp.com/BedaB7CditoD9qYMklIuZa]
+
