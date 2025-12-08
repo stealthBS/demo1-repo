@@ -10,6 +10,7 @@
 
 > - Try to complete within **30 days**.
 > - Latest AI updates HighLights : ChatGPT-5 launched, AI Fiesta, Nano Banana, .
+> - Paid Plan for free (for limited Time only) : Perplexity Pro (by [Airtel](https://www.airtel.in/perplexity-pro/)), [ChatGPT Go](https://chatgpt.com/pricing/), [Gemini Pro](https://gemini.google/subscriptions/) (by [JIO](https://www.jio.com/google-gemini-offer/)).
 <br>  
 
 
