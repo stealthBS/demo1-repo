@@ -1321,4 +1321,14 @@ If we don't have a paid plan of ChatGPT, then as of now for learning purpose on 
 - **Final Message** : After knowing to operate the ChatGPT AI tool, now it's upto you how much you can work hard to achieve your goal. Basically, it makes all the hard & struggles as easy path, but putting serious effort to achieve something is in your hand.  
 - `Explain it to a 5th grade/standard/class child . . . . .`
 - 📘 prompt ebook zone/hub/lib
+- Some Image generation tools :
+  - https://app.leonardo.ai/
+  - https://deepai.org/machine-learning-model/text2img
+  - https://www.canva.com/ai-image-generator/
+  - https://pixlr.com/express/
+  - https://magicstudio.com/ai-art-generator/
+  - https://www.pixelcut.ai/ai-image-generator
+  - https://www.freepik.com/pikaso/ai-image-generator
+  - https://firefly.adobe.com/generate/image
+- 
 
