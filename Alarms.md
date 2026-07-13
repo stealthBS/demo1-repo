@@ -1,3 +1,20 @@
+
+[Admit card](https://drive.google.com/file/d/1SAtbeUChddFa7gLg4IBg4Hg8I4s_ubFD/view?usp=sharing)
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------  
+
 <h2 align="center">List of Alarms</h2>
 
 Alarm according to Activities preference/proirity :  
