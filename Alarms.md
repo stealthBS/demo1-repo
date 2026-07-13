@@ -238,4 +238,9 @@ unnessary app list here only . . .
 - set dinner time & morning visit time
 - **BP & weight check also** || report result online
 
+-------------
+
+[MBA Admit Card](https://cdn.digialm.com///per/g06/pub/2344/ASM/SB_HallTicket/26220/CandidateHallTicket/1783571455297/2/27069/27069_Stage1_18867814_7245899775.pdf)  ||  [MCA Admit Card](https://cdn.digialm.com///per/g06/pub/2344/ASM/SB_HallTicket/26220/CandidateHallTicket/1783571455297/3/27068/27068_Stage1_1886781_0443870514.pdf)  
+
+
 
