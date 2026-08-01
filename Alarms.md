@@ -197,34 +197,7 @@ unnessary app list here only . . .
 <br>
 
 
-- ~~Bookmarks in PC of SSC : go through all SSC bookmarks of the browser and then do the following tasks**~~
-- ~~[1](https://youtu.be/A4_2rxpN5ag), [2](https://youtu.be/p8gvGCDQpgo), [3](https://youtube.com/shorts/BdjAsXeOaNQ), [4](https://youtube.com/shorts/z2BpEPnlNf8), [5](https://youtu.be/9eegVWG5_z0), [6](https://youtube.com/shorts/qCv1KNtGPOk), [7](https://youtube.com/shorts/a56dtw6H2Os).~~
-- ~~[1](https://youtu.be/T3qQba30n6A), [2](https://youtu.be/CkL1WncA33U), [3](https://youtu.be/egMy1vOX7zc), [4](https://youtu.be/0ToSbd5snkQ), [5](https://youtu.be/ubQxuktDygA), [6](https://youtu.be/QqLH03vUlpA), [7](https://youtu.be/zsy_WRq5DuA), [8](https://youtu.be/H5kH52Pauw0), [9](https://youtu.be/VPSsmGU52_o), [10](https://youtu.be/umL8fTZhCZI), [11](https://youtu.be/cHUHPp2Aa2Y), [12](https://youtu.be/XdiW-ulSokc), [13](https://youtu.be/ozBw3YwKSDE), [14](https://youtu.be/hqvOfaAGRL8), [15](https://youtube.com/shorts/bEj0HcCa-9c), [16](https://youtube.com/shorts/fEL5wcTc87Y), [17](https://youtu.be/k4XEycqDxJo), [18](https://youtu.be/HaKIZiJ91CM).~~
-- ~~[1](https://testbook.com/ssc-cgl-exam/post-preference-order), [2](https://www.youtube.com/results?search_query=ssc+full+course).~~
-- ~~[SSC](https://ssc.gov.in/) admit card : **OUT** check~~
-- ~~But ADMIT card avilable from 18-September or 2 days before exam.~~ 
-- ~~SSC visit location~~
-- ~~Past Exams paper practice~~
-- ~~Present there at advance 8:30AM becasue of security-checking, bag keeping, and other problems, where exam start at 9:00AM~~
-- ~~SSC preparation [start from 15/Sep it's for 1 week only]~~
-- ~~SSC tier-1 : exam syllabus, exam tiers or phases according to my relation applied positions. (take help of chatGPT or Youtube)~~
-- ~~Before giving exam, try to give at least some MOCK TESTs to be used to with the SSC exam, which don't feel like new.~~
-- ~~Things to take on SSC exam : 2 admit card copy xerox, umberella, watch (maynot be), Aadhaar Card proof, water bottle, sanitizer, mask, SIM in pocket, Cash money, Bus Day pass.~~
-- ~~**Kannada revise**~~
-- ~~Any pending works : SIM making OR ONline, Thyrocare watch/visit area or inside,  . . . .~~
-- ~~End moment check : center, shift, time, etc.~~
-- ~~Bag keeping extra charges : so thing properly what to take and what not, as it is very risky~~
-- ~~**Advance visit** to exam center (to know route, time taking, crowd, duration, area, safety, fare charges (via bus/metro/taxi), etc.) : food ready for the actual day 7AM, Admit card 2 copy, and anything necessary need to purchase.~~
-- [ ] ~~Try to visit center without using Google map. Because without phone need to go on Exam day. practice. less use the map/mobile here.~~
-- [ ] ~~Put ON the Stop-watch to find the duration of time to reach there.~~ 
-- [ ] ~~Check all SSC shift timings [here](https://www.careerpower.in/blog/ssc-cgl-shift-timings), at least reach there at 10AM ending of exam time to see things.~~
-- [ ] ~~first Download **Admit Card** & Bag setting, then **Visit Exam location** on exact time 7am or 7:30 || or else do breakfast then go. || check Day Buss pass online **{18 September}**  >>  Also some extra pending working like : **Metro Card Recharge**, Cash money, Print 2 copy Admit Card, Neuberg Diagnostics, Kissan Jam, Tropicana Juice **OR** Amrutanjan Electro, Nippattu2x, Badusha2x, etc.~~
-- [ ] ~~SSC preparation & Kannada **{15 September}**~~
-- [ ] ~~Some Youtube Links of SSC : [1](https://youtu.be/LWmWobeW1RE), [2](https://www.youtube.com/live/94XqSNLdtM8), [3](https://www.youtube.com/live/QRaXDJJxFuI), [4](https://youtu.be/hqp0g8s9iu0), [5](https://www.youtube.com/live/E5p8HrUDjgk), [6](https://youtu.be/TA5Yoe229kQ), [7](https://youtu.be/pzwdt8IW7Nw), [8](https://youtu.be/qvEM_2Xup98), [9](https://www.youtube.com/live/vmz-ZN8YuyA).~~
-- [ ] ~~Go through the **Admit Card** details & [**exam instructions**](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/ac_general_instructions_21072025.pdf) in details, read them. Understand everything's meaning by using ChatGPT or Grok.~~
-- [ ] ~~Ready **bag** for exam day : Water bottle (transparent), cap, ~~NO mobile~~, 2-Admid cards, 2 pass-photo, id card proof, Sanitizer, Biscuit, Night 2 chappati, etc.~~
-- [ ] ~~Final check of center **Name** & **location**.~~
-- [ ] ~~21/Sept - 8 AM Exam : no toilet, only 2 Admit-Cards, Aadhaar Card ID, only 2 pass-photo, no Wallet, no cap, Mobile silent, Bag keeping, Gate checking, Roll & Room finding. Exam begin.~~
+
 
 
 ------------
@@ -232,7 +205,7 @@ unnessary app list here only . . .
 ### Pending works : 
 For any pending works follow : Habitka & Google's Keep note. These are 2 place to put all works, and don't keep the pending task in any other place.  
 
-
+- **Kannada revise**
 
 
 
