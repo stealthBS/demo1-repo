@@ -56,7 +56,7 @@ A a1 = new A(); // can keep coding notes here
 
 <br>
 
-can make tables :  
+Also can make tables like :  
 | column 1 | column 2 |
 | --- | --- |
 | asdf | asdf `asdf` |
