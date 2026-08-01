@@ -80,7 +80,7 @@ so we can make or **`keep`** notes *`like`* this also.
 - Shareable notes making
 - Project Keeping/storing and its 'README.md' file.
 - Portfolio making
-- Pending works listing
+- Pending works listing with [x] checklist feature.
 - mermaid flow diagram use
 - quick plannings
 - sometime general note taking through digital instead of using traditional pen & paper
