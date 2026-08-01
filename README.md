@@ -27,7 +27,8 @@ To maintain super-set and its sub-set, we can write like this :
   - asdfasf
     - asdfasdf
       - asdf  
-        • asdf  
+        • asdf
+        
 ====
 
 for example to add an image here is :  
