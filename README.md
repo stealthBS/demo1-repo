@@ -10,23 +10,24 @@ This repository is just for demo to know the functions and usages of GitHub only
   - [ ] Microservices
 - [ ] HTML, CSS, JS :
   - [ ] Angular
-- [ ] ...any To-Do-List sequence/raod to do work or achieve something
-- [ ] own document assets
+- [ ] ...any To-Do-List sequence/road to do work or achieve something
+- [ ] own document assets (i.e. notes)
 - [x] can use here Marmaid diagrams also. . .✅
-- [ ] it is also help to make portfolio. . .
 - [ ] can able to make notes by using diagrams also. . .
+- [ ] it is also help to make portfolio, and its link we can use in resume. . .
 - [ ] it's helpful for code documentation...
-- [ ] can learn languages notes. . .
+- [ ] can learn/make languages notes. . .
 - [ ] can prepare here LinkedIn posts design/plan, then to post it later. . . .
 - [ ] can make AI notes updates, and can keep records of GPT tools to make in use it. . . .
 
 <br>
 
-To maintain super-set and sub-set, we can write like this : 
+To maintain super-set and its sub-set, we can write like this : 
 - asdfaf
   - asdfasf
     - asdfasdf
       - asdf
+        • asdf
 ====
 
 for example to add an image here is :  
