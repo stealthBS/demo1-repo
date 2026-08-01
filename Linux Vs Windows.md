@@ -1,4 +1,4 @@
-<h2 align=center>Linux CLI</h2>
+<h2 align=center>Linux CLI (Terminal)</h2>
 
 Non-root user command looks like :  
 ```command
@@ -91,7 +91,7 @@ root@user1:~#
 --------
 
 
-<h2 align=center>Windows CLI</h2>
+<h2 align=center>Windows CLI (Command Prompt)</h2>
 
 To change Diver :  
 ```
