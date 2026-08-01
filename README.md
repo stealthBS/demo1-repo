@@ -4,7 +4,7 @@ This repository is just for demo to know the functions and usages of GitHub only
 ----
 
 ### <u>Can start making notes here :</u>  
-<u>GitHub's markdown doesn't support underlined text</u>
+<u>Underlining of text isn't supported in GitHub's markdown, the same which we are doing in other Markdown note making softwares.</u>
 - [ ] Java DSA
 - [ ] Spring Boot :
   - [ ] Microservices
