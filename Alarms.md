@@ -203,7 +203,7 @@ unnessary app list here only . . .
 ------------
 
 ### Pending works : 
-For any pending works follow : Habitka & Google's Keep note. These are 2 place to put all works, and don't keep the pending task in any other place.  
+For any pending works follow : **Habitka** & Google's **Keep note**. These are 2 place to put all works, and don't keep the pending task in any other place.  
 
 - **Kannada revise**
 
