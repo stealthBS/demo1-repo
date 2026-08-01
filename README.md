@@ -72,7 +72,7 @@ so we can make or **`keep`** notes *`like`* this also.
 --------
 --------
 
-<h2 align=center>Now especially where to use this GitHub markdown note makings or for What all purposes</h2>
+<h2 align=center>Now especially where to use this GitHub markdown note makings or for What all purposes we can use it</h2>
 
 - Daily repetative use purpose note/works (time-table making, yellow paper works)
 - Links type notes (can be accesible from anywhere, because it merge all things)
