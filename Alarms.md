@@ -230,14 +230,7 @@ unnessary app list here only . . .
 ------------
 
 ### Pending works : 
-- follow chatgpt correction .txt file
-- chess.com
-- 'watch later 2'
-- learn setting of Mi router Youtube
-- puja
-- If you are haveing dinner at 9pm, then react here at 7:30AM morning (before completing 11 hours)
-- set dinner time & morning visit time
-- **BP & weight check also** || report result online
+For any pending works follow : Habitka & Google's Keep note. These are 2 place to put all works, and don't keep the pending task in any other place.  
 
 
 
