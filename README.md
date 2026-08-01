@@ -29,10 +29,10 @@ To maintain super-set and its sub-set, we can write like this :
       - asdf  
         • asdf
         
-====
+---  
 
-for example to add an image here is :  
-• first upload the image to this repository,  
+For example to add an image here is :  
+• first upload the image to this repository or in any folder of this repo,  
 • then use its link here like :  
 e.g.  
 ![My Chess cat](https://github.com/stealthBS/demo1-repo/blob/main/assets/my%20chess%20cat.png)  
