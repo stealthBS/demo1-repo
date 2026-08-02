@@ -4,17 +4,7 @@
 
 ### ToDo || And to do regularly :  
 
-
-- stuart little movie download
-- [ABS](https://youtube.com/shorts/TNZJ3N2OkWE)
-- Start using [Seekho App](https://seekho.in/login), and purchase its subscription through this [link](https://seekho.in/premium). But know i.e. "How to cancel Seekho Autoplay" first.
-- mba vs hotel management (as both are management/manager level studies only)
-- "watch later 2" youtube videos
-
-<br>  
-
-- Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
-- Appointment booking, and shaving hairs - {on 23/Sept = Tuesday fixed - Empty stomach - But time to visit :-- 8am (pack rice in tiffin)}  
+ 
 - [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
 - IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread, beetroot
 
@@ -62,4 +52,5 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 - [ ] Track Lost Phone [CEIR](https://www.ceir.gov.in/Request/CeirRequestStatus.jsp) with 202510020631068884 .
 - [ ] Chatgpt : which kind of workout we need to perform especially when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness in work.
 - [ ] Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .
-- [ ] [At PG] At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings . . . .  
+- [ ] [At PG] At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings . . . .
+- [ ] stuart little movie download
