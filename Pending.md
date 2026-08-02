@@ -5,8 +5,7 @@
 ### ToDo || And to do regularly :  
 
  
-- [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
-- IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread, beetroot
+
 
 <br>  
 
@@ -54,3 +53,5 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 - [ ] Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .
 - [ ] [At PG] At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings . . . .
 - [ ] stuart little movie download
+- [ ] [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
+- [ ] IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread, beetroot
