@@ -4,11 +4,8 @@
 
 ### ToDo || And to do regularly :  
 
-- At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
-- Washings after medical clothes : wiat for exam, checkUPs, SIM photo, etc.  
-- ChatGPT : i want to a bluelight glass for my eyes. ((**check all grocery apps for it - and ask to chatgpt for quality check**)). Login to [Lenskart](https://www.lenskart.com/shortlist), then check already added to cart the best one glass for me. But wait for [Coupon](https://www.lenskart.com/super250) or festival time discount/offer or Check from Youtube referral-coupon for this.  
-- earplug silent : [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY** silent earplug>>  
-- remove all f*k bookmarks from the PC browser  
+
+
 - Portable SSD  
 - check '3D Objects' PDFs in PC.  
 - Dhurav rathee collection in PC watching  
@@ -67,7 +64,10 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 - [ ] Do start using in note alarm. . . it just gives you a notification only  
 - [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
 - [ ] LensKart Gold membership coupon : AFFLSWG-DX9XOWZTHS
+- [ ] ChatGPT : i want to a bluelight glass for my eyes. ((**check all grocery apps for it - and ask to chatgpt for quality check**)). Login to [Lenskart](https://www.lenskart.com/shortlist), then check already added to cart the best one glass for me. But wait for [Coupon](https://www.lenskart.com/super250) or festival time discount/offer or Check from Youtube referral-coupon for this.
+- [ ] Silent Earplug : [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY** silent earplug>>  
 - [ ] Can use [Buyhatke](https://chromewebstore.google.com/detail/price-history-tracker-spe/ojplmecpdpgccookcobabopnaifgidhf/reviews) plugin/extension to check the real price of product during any offers & discounts.
 - [ ] Track Lost Phone [CEIR](https://www.ceir.gov.in/Request/CeirRequestStatus.jsp) with 202510020631068884 .
 - [ ] Chatgpt : which kind of workout we need to perform especially when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness in work.
 - [ ] Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .
+- [ ] [At PG] At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings . . . .  
