@@ -33,7 +33,7 @@ Help to wakeup in Brahma Muhurta, help to recovery from *Nocturnal emission* as 
 | 11 AM | Workout-2 | Everyday  | - Before bath workout for body activation & alert mode<br>- Avoid sleepy, foggy mind, slackness, sluggishness, drowsiness, lethargic, drain out and tired, etc. to make any excuse. |
 | 11:30 AM | Bath ~~& Bursh~~ | Everyday | - Sir it's time to fresh up & be active for next some hours for productivity<br>- Go a take a bath qickly no matter what, otherwise you'll going to sleep soon and destroy the whole day. |
 | 12 PM | Prayer & Devotional order/duty | EveryDay | - It time to engage your sense in devotional practice and thankful and be apologized |
-| 5 PM | Workout-3 | EveryDay | - It's time to do a final Cardio/Abs/Kegel workout before sleep. But be aware, here it can elevate the cortisol and adrenaline rush which raises body temperature which ultimately may disturbed the nighttime sleep. |
+| 5 PM | Workout-3 | EveryDay | - It's time to do a final Cardio/Abs/Kegel workout before sleep. But be aware, here it can elevate the cortisol and adrenaline rush which raises body temperature which ultimately may disturbed the nighttime sleep. So, try to maintain enough gap between workout and sleep, so that body get cool down which helps the body to fall asleep. |
 
 - Sir! there's no point to continuing sleeping anymore.
 - Waking up early doesn't means sleeping less or compromising with sleep and live a boring/struggled/tired day, it means sleep 8 hours or as much as you want, but wakeup early in the morning without feeling sleepy any more. So here we need to sleep too early to wake up too early, that simple it's, it required more discipline and need to have more control on social media & screentime.
