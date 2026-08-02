@@ -1,1 +1,104 @@
-. . . .
+### Sequence ToDo pending works : 
+- [x] ~~Online Shopping~~
+- [x] ~~Call Neuberg Dignostics - 08037229134 (ask for full body check price, time, reports result time)~~
+- [x] ~~Online SIM : [Track](https://www.jio.com/selfcare/track-orders/) your Online SIM || SIM card making **NOW** || if online not possible then we can make it on Exam visit day.~~
+- ~~shaving hair first then : followed by SIM, exam, checkup, lenskart, etc.~~
+- ~~Order Jio SIM from this [link](https://www.jio.com/selfcare/selfkyc) (get read for online LIVE photo & video). Need '5G Nano SIM' with '4G plan' for 4G phone. Support link [1](https://youtu.be/_K1Zgf1ySRM), [2](https://youtu.be/hZu63RqpTCU), [3](https://youtu.be/e59npfRxCXw).~~
+- [ ] 
+- [ ] Talk with Jio-customer-care about recycling SIM vs new SIM. How to get a fresh new SIM for personal/offical/banking/govermental/id-card use. 
+- [ ] Thyrocare area visit, price check, peak hour. 
+- [ ] ChatGPT : when we are going for full body check in an empty stomach where they will take some ml of blood sample from us, here what are the things we need to take care, or what are the thing we need to take care before & after. And after giving the blood sample what we can do.
+- [ ] Appointment Booking for **Full Body health checkup** (with BP and weight) **(~~16 September~~ || 23 September OR 30 September - Tuesday)**
+- [ ] Appointment Booking for **Eye Health checkup** visit (with full body checkup health report) || Make appointment [here](https://www.narayananethralaya.org/).
+- [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
+- [ ] LensKart Gold membership coupon : AFFLSWG-DX9XOWZTHS
+- [ ] Can use [Buyhatke](https://chromewebstore.google.com/detail/price-history-tracker-spe/ojplmecpdpgccookcobabopnaifgidhf/reviews) plugin/extension to check the real price of product during any offers & discounts. 
+- [ ] Washing clothes
+- [ ] SSC Result check (21/Sept : result within a month)
+- [ ] best Instant Tea Premix in india (rankwise)
+- [ ] take backup Mobile time-to-time : Whatsapp path, telegram path, storage path, bookaramrsk, notepad, .
+- [ ] GiveGita WhatsApp groups : [Group1](https://api.whatsapp.com/send/?phone=919210531053&text&type=phone_number&app_absent=0), [Group2](https://www.whatsapp.com/channel/0029Va7DRbQ6buMGpZuCl23C).
+- [ ] Track Lost Phone [CEIR](https://www.ceir.gov.in/Request/CeirRequestStatus.jsp) with 202510020631068884 .
+
+
+### Done || But again re-check required :  
+- [dn] Swipping room start from 11am - 12pm (1 hour) - so no bath in this time. . .  
+- [dn] Make your all alarm ready  
+- [dn] see White box writtens. . . . .  
+- [dn] Mobile all notepad setting OR Full mobile notepad clearing
+- [dn]Check : sticky notes, Night questions. . .
+- Clean Mobile keyboard history. . .
+- Do start using in note alarm. . . it just gives you a notification only  
+- Chatgpt : which kind of workout we need to perform especiall when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness  
+- WhatsApp message
+- Do puja
+- Check your all Gmails  
+
+<br>  
+<br>  
+
+
+### ToDo || And to do regularly :  
+- Make the Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis. [Before that set which time you want to sleep and wakeUP]  
+- Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .
+- Record PSA new Angular Batch  
+- PG Rent  
+- At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings. . . .  
+- Washings after medical clothes : wiat for exam, checkUPs, SIM photo, etc.  
+- ChatGPT : i want to a bluelight glass for my eyes. ((**check all grocery apps for it - and ask to chatgpt for quality check**)). Login to [Lenskart](https://www.lenskart.com/shortlist), then check already added to cart the best one glass for me. But wait for [Coupon](https://www.lenskart.com/super250) or festival time discount/offer or Check from Youtube referral-coupon for this.  
+- earplug silent : [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY** silent earplug>>  
+- remove all f*k bookmarks from the PC browser  
+- Portable SSD  
+- check '3D Objects' PDFs in PC.  
+- Dhurav rathee collection in PC watching  
+- Camera Box ready  
+- Room switch settings  
+- How to recovery from BlueScreen death  
+- Upload records in DropBox of all the Threats
+- stuart little movie download
+- [ABS](https://youtube.com/shorts/TNZJ3N2OkWE)
+- Start using [Seekho App](https://seekho.in/login), and purchase its subscription through this [link](https://seekho.in/premium). But know i.e. "How to cancel Seekho Autoplay" first.
+- mba vs hotel management (as both are management/manager level studies only)
+- "watch later 2" youtube videos
+
+<br>  
+
+- Online Blood tests empty stomach 12hours >> pending YouTube videos watch  
+- Appointment booking, and shaving hairs - {on 23/Sept = Tuesday fixed - Empty stomach - But time to visit :-- 8am (pack rice in tiffin)}  
+- [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
+- IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread, beetroot
+
+<br>  
+
+- keep here . . . .those : HTML notes . . . .  
+
+<br>
+
+- ✳DSA & Algorithms (mobile notes to combine ✳) . . .  
+- Strivers DSA  - source  
+- CodeChef - soucrce  
+
+
+<br>  
+<br>  
+
+
+### Pending Tasks : Long term tasks  
+- move quickly its **September**.  
+- tabs : gmail, chatgpt, udemy, github, Stopwatch, productivity app, etc
+
+<br>  
+
+
+  - List of [AI Tools](https://jc541gdi.r.ap-south-1.awstrack.me/L0/https:%2F%2Fc.in.webengage.com%2Flw%2Fg1.jpg%3Fp=eyJsYyI6Imlufn5jMmFiMzY4YyIsImwiOiIxNmQ2OWIyOWMzYmUwOWFjZDhmZDE2NzM5ZGQwYjkyMmVlOWE4Yjk1IiwiYyI6Imltcm9iaW40dW9rQGdtYWlsLmNvbSIsImVtIjoiaW1yb2JpbjR1b2tAZ21haWwuY29tIiwiZSI6IjEzY2w4ZTQiLCJ2IjoiMWszcDU2aSIsInMiOiJ%252BMjg3YjgxaDM0ZGo2ZTNjXzlhMzMxMDlkLWQzOWItNDMyZi05NzFhLTdmNzdjZjc0ZjQyMDoxNzU3MDc4Mzc4NTc4IiwiZXZlbnQiOiJlbWFpbF9jbGljayIsImN0YSI6ImI2Mjg4NzIiLCJ0b1VSTCI6Imh0dHBzOi8vZG9jcy5nb29nbGUuY29tL3NwcmVhZHNoZWV0cy9kLzF2cklpYml1bUs1MzR4NUVaNDVkRE5rMjhEQ2hQZWEzY2c3V1BRb0d1MXlrL2VkaXQ%252FZ2lkPTAjZ2lkPTAifQ%253D%253D/1/010901991a19b411-b3127926-87f1-49a7-9f48-08f0185c3695-000000/bkyzjm9bxAoPBrhp8uiDz-YWVT0=223) will be learning in this workshop
+- Back to Spring Boot  
+
+<br>  
+<br>  
+------------
+
+### Pending works : 
+For any pending works follow : **Habitka** & Google's **Keep note**. These are 2 place to put all works, and don't keep the pending task in any other place.  
+
+- **Kannada revise**
+
