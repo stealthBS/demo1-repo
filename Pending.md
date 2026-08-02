@@ -5,14 +5,6 @@
 ### ToDo || And to do regularly :  
 
 
-
-- Portable SSD  
-- check '3D Objects' PDFs in PC.  
-- Dhurav rathee collection in PC watching  
-- Camera Box ready  
-- Room switch settings  
-- How to recovery from BlueScreen death  
-- Upload records in DropBox of all the Threats
 - stuart little movie download
 - [ABS](https://youtube.com/shorts/TNZJ3N2OkWE)
 - Start using [Seekho App](https://seekho.in/login), and purchase its subscription through this [link](https://seekho.in/premium). But know i.e. "How to cancel Seekho Autoplay" first.
