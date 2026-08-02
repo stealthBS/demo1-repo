@@ -179,22 +179,7 @@ unnessary app list here only . . .
 - Back to Spring Boot  
 
 <br>  
-
-- German : use contracted form pronouncing, native accent way of pronouncing, colloquial way of speaking, know alphabets how it pronounces, then it make sound more native.  
-- ChatGPT : like in english there's contracted form of many english words or words combination like : • cannot -> can't • would not -> won't and so on. . . . . which while speaking sounds more native. Similarly, is there any contracted form in German also?  
-
 <br>  
-
-- **This is the era of Zombies where people do doomScrooling only : through this make profile if you can do.**
-
-
-<br> 
-<br>
-
-
-
-
-
 ------------
 
 ### Pending works : 
