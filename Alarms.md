@@ -29,11 +29,11 @@ Help to wakeup in Brahma Muhurta, help to recovery from *Nocturnal emission* as 
 | 9 PM (OR) 9:15 AM | Sleep alert start | Everyday  | - Good night! Sir, go to sleep, you have to wake up early in the morning.<br>- 8:30pm Mosquito Net ON<br>- 8:15pm |
 | ~~4 AM~~ (OR) 5 AM | Wake Up     | Everyday  | - Good morning! Sir. . . <br>- 4:30am<br>- 5:00am<br>- **Make it 8 hours sleep**. |
 | ~~5 AM~~ (OR) 5:30 AM | Workout-1   | Everyday  | Activate & alert both body & mind (Cardio, Kegal, Abs, Own body lifting workout or Calisthenics) |
-| 10:30 AM | SunExposure & walking | Everyday | - It's time to get some natural VitalminD for 15min & and get rid from body's circadian confusion<br>- It's time to move otherwise you'll fall asleep soon.<br>- It helps to get rid from : Fatigue, tiredness, brain/mental fogginess, Hair loss like issues. |
-| 11 AM | Workout-2 | Everyday  | - Before bath workout for body activation & alert mode<br>- Avoid sleepy, foggy mind, slackness, sluggishness, drowsiness, lethargic, drain and tired, etc. to make any excuse. |
+| 10:30 AM | SunExposure & walking | Everyday | - It's time to get some natural VitaminD3 for 15min & and get rid from body's circadian confusion<br>- It's time to move otherwise you'll fall asleep soon due to lethargic.<br>- It helps to get rid from : Fatigue, tiredness, brain/mental fogginess, Hair loss like issues. |
+| 11 AM | Workout-2 | Everyday  | - Before bath workout for body activation & alert mode<br>- Avoid sleepy, foggy mind, slackness, sluggishness, drowsiness, lethargic, drain out and tired, etc. to make any excuse. |
 | 11:30 AM | Bath ~~& Bursh~~ | Everyday | - Sir it's time to fresh up & be active for next some hours for productivity<br>- Go a take a bath qickly no matter what, otherwise you'll going to sleep soon and destroy the whole day. |
-| 12 PM | Prayer & Devotional order/duty | EveryDay | - It time to engane your sense in devotional practice and thankful and be apologized |
-| 5 PM | Workout-3 | EveryDay | - It's time to do a final Cardio/Abs/Kegel workout before sleep |
+| 12 PM | Prayer & Devotional order/duty | EveryDay | - It time to engage your sense in devotional practice and thankful and be apologized |
+| 5 PM | Workout-3 | EveryDay | - It's time to do a final Cardio/Abs/Kegel workout before sleep. But be aware, here it can elevate the cortisol and adrenaline rush which raises body temperature which ultimately may disturbed the nighttime sleep. |
 
 - Sir! there's no point to continuing sleeping anymore.
 - Waking up early doesn't means sleeping less or compromising with sleep and live a boring/struggled/tired day, it means sleep 8 hours or as much as you want, but wakeup early in the morning without feeling sleepy any more. So here we need to sleep too early to wake up too early, that simple it's, it required more discipline and need to have more control on social media & screentime.
