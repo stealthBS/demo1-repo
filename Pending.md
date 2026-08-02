@@ -7,7 +7,9 @@
 ### Pending Tasks : Long term tasks  
 
 ------------  
-**Now sort/group every pending works according to its types**
+**Now sort/group every pending works according to its types**  
+------------  
+
 
 ### Pending works : 
 For any pending works follow : **Habitka** & Google's **Keep note**. These are 2 place to put all works, and don't keep the pending task in any other place.  
