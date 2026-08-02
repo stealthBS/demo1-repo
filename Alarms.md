@@ -54,7 +54,7 @@ Help to wakeup in Brahma Muhurta, help to recovery from *Nocturnal emission* as 
 <br>
 
 
-#### ✅Common alarams for : food.
+#### ✅Common alarms for : food in PG.
 | Time | Description | Frequency | Jarvis assistant alert |
 | ---- | ----------- | --------- | ---------------------- |
 | 8:15 AM | BreakFast | Everyday  | - Time for break the fasting, don't skip your first meal!<br>- sunday<br>- delay<br>- Brush mouth & fresh up. |
