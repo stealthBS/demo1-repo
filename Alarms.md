@@ -2,11 +2,11 @@
 <h2 align="center">List of Alarms</h2>
 
 Alarm according to Activities preference/proirity :  
-- Wake UP **with** Repeat alarms for wakeup,
-- Sleep **with** 30min before sleep alert,
-- Foods
-- Workouts
-- bath & brush
+- Wake UP **with** Repeat alarms for wakeup (can keep a voice type alarm by AI or people),
+- Sleep **within** 30min i.e. before sleep alert,
+- Foods time alarm
+- Workouts alarm
+- bath & brush alarm
 
 > Can combinedly follow **Pomodoro techinique** & **20-20-20 rule**, for best productivity with helps for eyes strain relief.  
 > Can follow [Forest](https://play.google.com/store/search?q=forest&c=apps) productivity app & its PC [extension](https://chromewebstore.google.com/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) to keep track of productivity.  
@@ -22,7 +22,7 @@ Alarm according to Activities preference/proirity :
 
 
 #### ✅Early Sleep to Early WakeUp schedule
-Help to wakeup in Brahma Muhurta, help to recovery from *Nocturnal emission* as deepest REM sleep stages ('drooling of saliva' type sleep or restorative sleep stages) not happening here, day feels like long so get enough time to do work. (As deepest REM sleep not happeninng here, so early morning wakeup may effect the "morning wood" i.e. *Nocturnal penile tumescence* -- for this it's better for us to **switch** this wakeup pattern time-to-time like 'sometime early' and 'sometime late').  
+Help to wakeup in Brahma Muhurta, help to recovery from *Nocturnal emission* as deepest REM sleep stages ('drooling of saliva' type sleep or restorative sleep stages) not happening here, day feels like long so get enough time to do work. (As deepest REM sleep not happening here, so early morning wakeup may effect the "morning wood" i.e. *Nocturnal penile tumescence* -- for this it's better for us to **switch** this wakeup pattern time-to-time like 'sometime early' and 'sometime late'). And for this early morning schedule always prefer Complex Carbs & Casein protein food items, so you won't get lethargic or food comma or energy crash or *natural circadian dip* during work.  
 
 | Time | Description | Frequency | Jarvis assistant alert |
 | ---- | ----------- | --------- | ---------------------- |
