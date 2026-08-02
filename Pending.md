@@ -4,37 +4,10 @@
 
 ### ToDo || And to do regularly :  
 
- 
-
-
-<br>  
-
-- keep here . . . .those : HTML notes . . . .  
-
-<br>
-
-- ✳DSA & Algorithms (mobile notes to combine ✳) . . .  
-- Strivers DSA  - source  
-- CodeChef - soucrce  
-
-
-<br>  
-<br>  
-
-
 ### Pending Tasks : Long term tasks  
-- move quickly its **September**.  
-- tabs : gmail, chatgpt, udemy, github, Stopwatch, productivity app, etc
 
-<br>  
-
-
-  - List of [AI Tools](https://jc541gdi.r.ap-south-1.awstrack.me/L0/https:%2F%2Fc.in.webengage.com%2Flw%2Fg1.jpg%3Fp=eyJsYyI6Imlufn5jMmFiMzY4YyIsImwiOiIxNmQ2OWIyOWMzYmUwOWFjZDhmZDE2NzM5ZGQwYjkyMmVlOWE4Yjk1IiwiYyI6Imltcm9iaW40dW9rQGdtYWlsLmNvbSIsImVtIjoiaW1yb2JpbjR1b2tAZ21haWwuY29tIiwiZSI6IjEzY2w4ZTQiLCJ2IjoiMWszcDU2aSIsInMiOiJ%252BMjg3YjgxaDM0ZGo2ZTNjXzlhMzMxMDlkLWQzOWItNDMyZi05NzFhLTdmNzdjZjc0ZjQyMDoxNzU3MDc4Mzc4NTc4IiwiZXZlbnQiOiJlbWFpbF9jbGljayIsImN0YSI6ImI2Mjg4NzIiLCJ0b1VSTCI6Imh0dHBzOi8vZG9jcy5nb29nbGUuY29tL3NwcmVhZHNoZWV0cy9kLzF2cklpYml1bUs1MzR4NUVaNDVkRE5rMjhEQ2hQZWEzY2c3V1BRb0d1MXlrL2VkaXQ%252FZ2lkPTAjZ2lkPTAifQ%253D%253D/1/010901991a19b411-b3127926-87f1-49a7-9f48-08f0185c3695-000000/bkyzjm9bxAoPBrhp8uiDz-YWVT0=223) will be learning in this workshop
-- Back to Spring Boot  
-
-<br>  
-<br>  
-------------
+------------  
+**Now sort/group every pending works according to its types**
 
 ### Pending works : 
 For any pending works follow : **Habitka** & Google's **Keep note**. These are 2 place to put all works, and don't keep the pending task in any other place.  
@@ -55,3 +28,15 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 - [ ] stuart little movie download
 - [ ] [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
 - [ ] IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread, beetroot
+- [ ] tabs : gmail, chatgpt, udemy, github, Stopwatch, productivity app, etc
+
+- [ ] move quickly its **September**.  
+- [ ] keep here . . . .those : HTML notes . . . .  
+- [ ] ✳DSA & Algorithms (mobile notes to combine ✳) . . .  
+- [ ] Strivers DSA  - source  
+- [ ] CodeChef - soucrce for DSA
+- [ ] Back to Spring Boot
+
+
+- [ ] List of [AI Tools](https://jc541gdi.r.ap-south-1.awstrack.me/L0/https:%2F%2Fc.in.webengage.com%2Flw%2Fg1.jpg%3Fp=eyJsYyI6Imlufn5jMmFiMzY4YyIsImwiOiIxNmQ2OWIyOWMzYmUwOWFjZDhmZDE2NzM5ZGQwYjkyMmVlOWE4Yjk1IiwiYyI6Imltcm9iaW40dW9rQGdtYWlsLmNvbSIsImVtIjoiaW1yb2JpbjR1b2tAZ21haWwuY29tIiwiZSI6IjEzY2w4ZTQiLCJ2IjoiMWszcDU2aSIsInMiOiJ%252BMjg3YjgxaDM0ZGo2ZTNjXzlhMzMxMDlkLWQzOWItNDMyZi05NzFhLTdmNzdjZjc0ZjQyMDoxNzU3MDc4Mzc4NTc4IiwiZXZlbnQiOiJlbWFpbF9jbGljayIsImN0YSI6ImI2Mjg4NzIiLCJ0b1VSTCI6Imh0dHBzOi8vZG9jcy5nb29nbGUuY29tL3NwcmVhZHNoZWV0cy9kLzF2cklpYml1bUs1MzR4NUVaNDVkRE5rMjhEQ2hQZWEzY2c3V1BRb0d1MXlrL2VkaXQ%252FZ2lkPTAjZ2lkPTAifQ%253D%253D/1/010901991a19b411-b3127926-87f1-49a7-9f48-08f0185c3695-000000/bkyzjm9bxAoPBrhp8uiDz-YWVT0=223) will be learning in this workshop
+
