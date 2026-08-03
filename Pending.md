@@ -32,7 +32,7 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 - [ ] [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
 - [ ] IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread, beetroot
 - [ ] tabs : gmail, chatgpt, udemy, github, Stopwatch, productivity app, etc
-
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - [ ] move quickly its **September**.  
 - [ ] keep here . . . .those : HTML notes . . . .  
 - [ ] ✳DSA & Algorithms (mobile notes to combine ✳) . . .  
