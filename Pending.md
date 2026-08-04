@@ -28,7 +28,6 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 - [ ] stuart little movie download
 - [ ] [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
 - [ ] IBS : Milk, raw Onion, cruciferous--> cabbage, garlic-bread, beetroot
-- [ ] Chatgpt : which kind of workout we need to perform especially when we feel like sleepy, foggy mind, food comma issue, energy crash, slackness, sluggishness, drowsiness, lethargic, and tired, in between work hours or during working to be regain alertness in work.
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - [ ] move quickly its **September**.  
 - [ ] keep here . . . .those : HTML notes . . . .  
