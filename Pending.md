@@ -19,10 +19,7 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 - [ ] Make the Jarvis assistant alarms, for this follow the .txt file in PC for Jarvis. [Before that set which time you want to sleep and wakeUP]  
 - [ ] Do start using in note alarm. . . it just gives you a notification only
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-- [ ] Lenskart (according to offer/offer-time-dussehra/discount/youtube-referral-coupon)
-- [ ] LensKart Gold membership coupon : AFFLSWG-DX9XOWZTHS
-- [ ] ChatGPT : i want to a bluelight glass for my eyes. ((**check all grocery apps for it - and ask to chatgpt for quality check**)). Login to [Lenskart](https://www.lenskart.com/shortlist), then check already added to cart the best one glass for me. But wait for [Coupon](https://www.lenskart.com/super250) or festival time discount/offer or Check from Youtube referral-coupon for this.
-- [ ] Silent Earplug : [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY** silent earplug>>  
+- [ ] Silent Earplug : [McLaren F1 Team x Loop Switch 2](https://loopearplugs.in/products/mclaren-f1-team-x-loop-switch-2?variant=46565927715054) <<**check reviewed**>> or do <<or do **DIY** silent earplug>> [Need in PG during nighttime]  
 - [ ] Can use [Buyhatke](https://chromewebstore.google.com/detail/price-history-tracker-spe/ojplmecpdpgccookcobabopnaifgidhf/reviews) plugin/extension to check the real price of product during any offers & discounts.
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - [ ] Track Lost Phone [CEIR](https://www.ceir.gov.in/Request/CeirRequestStatus.jsp) with 202510020631068884 .
