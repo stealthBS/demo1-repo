@@ -23,7 +23,7 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 - [ ] Can use [Buyhatke](https://chromewebstore.google.com/detail/price-history-tracker-spe/ojplmecpdpgccookcobabopnaifgidhf/reviews) plugin/extension to check the real price of product during any offers & discounts.
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - [ ] Track Lost Phone [CEIR](https://www.ceir.gov.in/Request/CeirRequestStatus.jsp) with 202510020631068884 .
-- [ ] tabs to work : [Keep note](https://keep.google.com), [Habitica](https://habitica.com/login), Github, [gmail](https://mail.google.com), [udemy](https://www.udemy.com/), chatgpt, Stopwatch, productivity loop music, productivity app, etc. 
+- [ ] tabs to work : [Keep note](https://keep.google.com), [Habitica](https://habitica.com/login), Github, [gmail](https://mail.google.com), [PSA](https://learning.pankajsiracademy.com/learn/Angular-with-typescript), [udemy](https://www.udemy.com/), [LearnVern](https://www.learnvern.com), chatgpt, Stopwatch, productivity loop music, productivity app, etc. 
 - [ ] [At PG] At Early Morning : prepare for your Afternoon food storing plan. & .Wash remainings . . . .
 - [ ] stuart little movie download
 - [ ] [Health CheckUp Youtube Video](https://youtu.be/A-0kDkfymOM), Another import [video](https://youtu.be/4nmV_IOwxcU)  
