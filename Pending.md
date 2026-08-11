@@ -35,3 +35,5 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 - [ ] **Kannada revise**
 - [ ] Record the PSA-JUnit class on the same data itself **&&** and also download its GITHUB Repo notes. . . .
 
+- [ ] https://youtu.be/wUyXHakD99o
+
