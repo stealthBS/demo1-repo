@@ -37,3 +37,6 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 
 - [ ] https://youtu.be/wUyXHakD99o
 
+- [ ] [1 Page](https://drive.google.com/file/d/1AXFYj7om21aGhuFLiEqEZqalzyp95L9e/view) OR [All pages](https://drive.google.com/file/d/10k5Bz6pR-GKZHpr3a9sRlYQ-I3UfUHor/view)
+
+
