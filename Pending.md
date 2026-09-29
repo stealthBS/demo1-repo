@@ -37,6 +37,6 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 
 - [ ] https://youtu.be/wUyXHakD99o
 
-- [ ] [1 Page](https://drive.google.com/file/d/1AXFYj7om21aGhuFLiEqEZqalzyp95L9e/view) OR [All pages](https://drive.google.com/file/d/10k5Bz6pR-GKZHpr3a9sRlYQ-I3UfUHor/view)  &  [Latest OBC](https://drive.google.com/file/d/1aqNKNLSk9522ZYSmNtzEZlZ4UTZLagG0/view)  &  [eAadhaar Card](https://drive.google.com/file/d/1zdN1aZxFNNp0r_eLq3ptwGwB-NcbQyQw/view)
+- [ ] [1 Page](https://drive.google.com/file/d/1AXFYj7om21aGhuFLiEqEZqalzyp95L9e/view) OR [All pages](https://drive.google.com/file/d/10k5Bz6pR-GKZHpr3a9sRlYQ-I3UfUHor/view)  &  [Latest OBC](https://drive.google.com/file/d/1aqNKNLSk9522ZYSmNtzEZlZ4UTZLagG0/view)  &  [eAadhaar Card](https://drive.google.com/file/d/1zdN1aZxFNNp0r_eLq3ptwGwB-NcbQyQw/view)  &  [ON](https://drive.google.com/file/d/1zlyNpQDHFfMmDHmpl7wMl_JgaWyH_-fS/view)  &  [OFF](https://drive.google.com/file/d/16IqAxZQulkNGbkf1CGGzmpPVn8MhgbYw/view)  
 
 
