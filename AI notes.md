@@ -10,7 +10,11 @@
 
 > - Try to complete within **30 days**.
 > - Latest AI updates HighLights : ChatGPT-5 launched, AI Fiesta, Nano Banana, .
-> - Paid Plan for free (for limited Time only) : Perplexity Pro (by [Airtel](https://www.airtel.in/perplexity-pro/)), [ChatGPT Go](https://chatgpt.com/pricing/), [Gemini Pro](https://gemini.google/subscriptions/) (by [JIO](https://www.jio.com/google-gemini-offer/)).
+> - Paid Plan for free (for limited Time only) : Perplexity Pro (by [Airtel](https://www.airtel.in/perplexity-pro/)), [ChatGPT Go](https://chatgpt.com/pricing/), [Gemini Pro](https://gemini.google/subscriptions/) (by [JIO](https://www.jio.com/google-gemini-offer/)).  
+
+> This course can give you earnings. You can do multiple way/scope earnings on YouTube by : animations making, short video making, song making, through teaching concept of AI, etc. Just see in what other way you can earn money which you have learned from here. Just grab all the ways to earn money, and make every learning/topic use here. Also, see in YouTube i.e. through what all things (i.e. types of AI video) people make money. And every editing effort & time can be utilize for other things.  
+
+> New Update if any : { any added concept or topics later }  
 <br>  
 
 
