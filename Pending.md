@@ -26,7 +26,7 @@ For any pending works follow : **Habitka** & Google's **Keep note**. These are 2
 - [ ] tabs to work :  
   - [ ] [Keep note](https://keep.google.com),
   - [ ] [Habitica](https://habitica.com/login),
-  - [ ] <a href="https://github.com/stealthBs" target="_blank" rel="noopener noreferrer">GitHub</a>,
+  - [ ] <a href="https://github.com/stealthBs" target="_blank" rel="noopener noreferrer"> GitHub </a>,
   - [ ] [Gmail](https://mail.google.com),
   - [ ] [PSA](https://learning.pankajsiracademy.com/learn/Angular-with-typescript),
   - [ ] [Udemy](https://www.udemy.com/),
